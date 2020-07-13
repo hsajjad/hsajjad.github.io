@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hinrich Schütze | Hassan Sajjad</title>
+    <link>//localhost:1313/authors/hinrich-schutze/</link>
+      <atom:link href="//localhost:1313/authors/hinrich-schutze/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hinrich Schütze</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0300</lastBuildDate>
+    <image>
+      <url>//localhost:1313/img/icon-192.png</url>
+      <title>Hinrich Schütze</title>
+      <link>//localhost:1313/authors/hinrich-schutze/</link>
+    </image>
+    
+    <item>
+      <title>Statistical models for unsupervised, semi-supervised and supervised transliteration mining</title>
+      <link>//localhost:1313/publication/sajjad-2017-statistical/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/sajjad-2017-statistical/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

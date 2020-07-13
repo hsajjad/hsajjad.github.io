@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>John M. Wu | Hassan Sajjad</title>
+    <link>//localhost:1313/authors/john-m.-wu/</link>
+      <atom:link href="//localhost:1313/authors/john-m.-wu/index.xml" rel="self" type="application/rss+xml" />
+    <description>John M. Wu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 05 Jul 2020 00:00:00 +0300</lastBuildDate>
+    <image>
+      <url>//localhost:1313/img/icon-192.png</url>
+      <title>John M. Wu</title>
+      <link>//localhost:1313/authors/john-m.-wu/</link>
+    </image>
+    
+    <item>
+      <title>Similarity Analysis of Contextual Word Representation Models</title>
+      <link>//localhost:1313/publication/wu-similarity-acl-20/</link>
+      <pubDate>Sun, 05 Jul 2020 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/wu-similarity-acl-20/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

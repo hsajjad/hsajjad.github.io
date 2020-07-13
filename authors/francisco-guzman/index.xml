@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Francisco Guzman | Hassan Sajjad</title>
+    <link>//localhost:1313/authors/francisco-guzman/</link>
+      <atom:link href="//localhost:1313/authors/francisco-guzman/index.xml" rel="self" type="application/rss+xml" />
+    <description>Francisco Guzman</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2016 00:00:00 +0300</lastBuildDate>
+    <image>
+      <url>//localhost:1313/img/icon-192.png</url>
+      <title>Francisco Guzman</title>
+      <link>//localhost:1313/authors/francisco-guzman/</link>
+    </image>
+    
+    <item>
+      <title>An Empirical Study: Post-editing Effort for English to Arabic Hybrid Machine Translation</title>
+      <link>//localhost:1313/publication/sajjad-16-postediting/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/sajjad-16-postediting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Normalizing Mathematical Expressions to Improve the Translation of Educational Content</title>
+      <link>//localhost:1313/publication/zaghouani-2016-normalizing/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/zaghouani-2016-normalizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eyes Don&#39;t Lie: Predicting Machine Translation Quality Using Eye Movement.</title>
+      <link>//localhost:1313/publication/sajjad-2016-eyes/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/sajjad-2016-eyes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How do Humans Evaluate Machine Translation</title>
+      <link>//localhost:1313/publication/guzman-wmt-15/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/guzman-wmt-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QCN Egyptian Arabic to English MachineTranslation System for NIST OpenMT15</title>
+      <link>//localhost:1313/publication/sajjad-nist-15/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/sajjad-nist-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The AMARA Corpus: Building Parallel Language Resources for the Educational Domain</title>
+      <link>//localhost:1313/publication/abdelali-2014-lrec/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/abdelali-2014-lrec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QCRI at IWSLT 2013: Experiments in Arabic-English and English-Arabic Spoken Language Translation</title>
+      <link>//localhost:1313/publication/sajjad-etal-iwslt-13/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/sajjad-etal-iwslt-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The AMARA Corpus: Building Resources for Translating the Web&#39;s Educational Content</title>
+      <link>//localhost:1313/publication/guzman-sajjad-etal-iwslt-13/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/guzman-sajjad-etal-iwslt-13/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

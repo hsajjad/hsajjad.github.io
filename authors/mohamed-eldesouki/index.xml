@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mohamed Eldesouki | Hassan Sajjad</title>
+    <link>//localhost:1313/authors/mohamed-eldesouki/</link>
+      <atom:link href="//localhost:1313/authors/mohamed-eldesouki/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mohamed Eldesouki</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0300</lastBuildDate>
+    <image>
+      <url>//localhost:1313/img/icon-192.png</url>
+      <title>Mohamed Eldesouki</title>
+      <link>//localhost:1313/authors/mohamed-eldesouki/</link>
+    </image>
+    
+    <item>
+      <title>A System for Diacritizing Four Varieties of Arabic</title>
+      <link>//localhost:1313/publication/diacritic-2019-emnlp/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/diacritic-2019-emnlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QCRI @ DSL 2016: Spoken Arabic Dialect Identification Using Textual</title>
+      <link>//localhost:1313/publication/eldesouki-2016-qcri/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/eldesouki-2016-qcri/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

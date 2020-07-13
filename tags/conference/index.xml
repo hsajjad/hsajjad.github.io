@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>conference | Hassan Sajjad</title>
+    <link>//localhost:1313/tags/conference/</link>
+      <atom:link href="//localhost:1313/tags/conference/index.xml" rel="self" type="application/rss+xml" />
+    <description>conference</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2019 00:00:00 +0300</lastBuildDate>
+    <image>
+      <url>//localhost:1313/img/icon-192.png</url>
+      <title>conference</title>
+      <link>//localhost:1313/tags/conference/</link>
+    </image>
+    
+    <item>
+      <title>Identifying and Controlling Important Neurons in Neural Machine Translation</title>
+      <link>//localhost:1313/publication/individual-iclr-19/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/individual-iclr-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What is one Grain of Sand in the Desert? Analyzing Individual Neurons in Deep NLP Models</title>
+      <link>//localhost:1313/publication/grain-aaai-19-1/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/grain-aaai-19-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

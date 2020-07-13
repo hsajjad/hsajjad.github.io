@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ahmed El Kholy | Hassan Sajjad</title>
+    <link>//localhost:1313/authors/ahmed-el-kholy/</link>
+      <atom:link href="//localhost:1313/authors/ahmed-el-kholy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ahmed El Kholy</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2015 00:00:00 +0300</lastBuildDate>
+    <image>
+      <url>//localhost:1313/img/icon-192.png</url>
+      <title>Ahmed El Kholy</title>
+      <link>//localhost:1313/authors/ahmed-el-kholy/</link>
+    </image>
+    
+    <item>
+      <title>QCN Egyptian Arabic to English MachineTranslation System for NIST OpenMT15</title>
+      <link>//localhost:1313/publication/sajjad-nist-15/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/sajjad-nist-15/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

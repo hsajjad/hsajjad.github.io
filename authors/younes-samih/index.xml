@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Younes Samih | Hassan Sajjad</title>
+    <link>//localhost:1313/authors/younes-samih/</link>
+      <atom:link href="//localhost:1313/authors/younes-samih/index.xml" rel="self" type="application/rss+xml" />
+    <description>Younes Samih</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0300</lastBuildDate>
+    <image>
+      <url>//localhost:1313/img/icon-192.png</url>
+      <title>Younes Samih</title>
+      <link>//localhost:1313/authors/younes-samih/</link>
+    </image>
+    
+    <item>
+      <title>A System for Diacritizing Four Varieties of Arabic</title>
+      <link>//localhost:1313/publication/diacritic-2019-emnlp/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/diacritic-2019-emnlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Highly Effective Arabic Diacritization using Sequence to Sequence Modeling</title>
+      <link>//localhost:1313/publication/mubarak-2019-naacl/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/mubarak-2019-naacl/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

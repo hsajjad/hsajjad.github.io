@@ -1,0 +1,722 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hassan Sajjad</title>
+    <link>//localhost:1313/</link>
+      <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hassan Sajjad</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 05 Jul 2020 00:00:00 +0300</lastBuildDate>
+    <image>
+      <url>//localhost:1313/img/icon-192.png</url>
+      <title>Hassan Sajjad</title>
+      <link>//localhost:1313/</link>
+    </image>
+    
+    <item>
+      <title>News</title>
+      <link>//localhost:1313/pages/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/pages/news/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Released:&lt;/strong&gt; First-ever &lt;a href=&#34;http://mt.qcri.org/api&#34; target=&#34;_blank&#34;&gt;Dialectal Arabic to English Machine Translation System&lt;/a&gt; covering a large variety of Arabic dialects&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Licensed:&lt;/strong&gt; &lt;a href=&#34;http://mt.qcri.org/api&#34; target=&#34;_blank&#34;&gt;Machine Translation&lt;/a&gt; Technology to &lt;a href=&#34;http://www.kanerai.com&#34; target=&#34;_blank&#34;&gt;KanariAI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Accepted @ACL 2020:&lt;/strong&gt; Similarity Analysis of Contextual Word Representation Models&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Talk:&lt;/strong&gt; Interpreting Deep NLP Models, University of Edinburgh, UK (April 2020)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Talk:&lt;/strong&gt; University of Sheffield, UK (Mar 2020)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Invited talk:&lt;/strong&gt; Efficient Transfer Learning of Pretrained Model. 7th International Conference on Language and Technology, Pakistan (February 2020)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Talk:&lt;/strong&gt; Analyzing Individual Neurons in Deep NLP Models at Google, Facebook, Amazon, Salesforce and Bosch, US (April 2019)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Keynote:&lt;/strong&gt; Hidden Linguistic in Deep NLP Models, Symposium on Natural Language Processing, University of Moratuwa, Sri Lanka (March 2019)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Deep learning for NLP:&lt;/strong&gt; Fun teaching at International Spring School in Advanced Language Engineering, University of Moratuwa (March 2019)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Talk:&lt;/strong&gt; Machine Translation in Real World, King&amp;rsquo;s College London, UK (March 2019)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Talk:&lt;/strong&gt; Analyzing Individual Neurons in Deep NLP Models, University of Melbourne, Australia (February 2019)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Accepted @NAACL 2019:&lt;/strong&gt; &amp;ldquo;One Size Does Not Fit All: Comparing NMT Representations of Different Granularities&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Accepted @NAACL 2019:&lt;/strong&gt; &amp;ldquo;Highly Effective Arabic Diacritization using Sequence to Sequence Modeling&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Media coverage:&lt;/strong&gt; Our work on NeuroX - Analyzing and Controlling Individual Neurons is featured at &lt;a href=&#34;https://news.mit.edu/2019/neural-networks-nlp-microscope-0201&#34; target=&#34;_blank&#34;&gt;MIT news&lt;/a&gt; and several AI blogs.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Accepted @ICLR 2019:&lt;/strong&gt; &amp;ldquo;Identifying and Controlling Important Neurons in Neural Machine Translation&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Accepted @AAAI 2019:&lt;/strong&gt; &amp;ldquo;What Is One Grain of Sand in the Desert? Analyzing Individual Neurons in Deep NLP Models&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Accepted @AAAI 2019:&lt;/strong&gt; &amp;ldquo;NeuroX: A toolkit for Analyzing Individual Neurons in Neural Network&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Best Innovation Award&lt;/strong&gt; @&lt;a href=&#34;https://www.qf-arc.org/en-us/ARC-18&#34; target=&#34;_blank&#34;&gt;ARC&amp;rsquo;18&lt;/a&gt; for our &lt;a href=&#34;http://st.qcri.org&#34; target=&#34;_blank&#34;&gt;Speech Translation System&lt;/a&gt;, see &lt;a href=&#34;http://www.gulf-times.com/story/585737/Sheikha-Moza-honours-QF-ARC-18-award-winners&#34; target=&#34;_blank&#34;&gt;media coverage&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Deep learning for NLP:&lt;/strong&gt; I will be delivering an intensive course on deep learning for NLP at the University of Duisburg-Essen, Germany in the second week of April 2018&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Accepted @NAACL 2018:&lt;/strong&gt; Incremental decoding and training methods for simultaneous translation in neural machine translation&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Media coverage:&lt;/strong&gt; Our work on understanding Neural Machine Translation has made it to &lt;a href=&#34;http://news.mit.edu/2017/reading-neural-network-mind-1211&#34; target=&#34;_blank&#34;&gt;MIT news&lt;/a&gt; and been picked by several channels like &lt;a href=&#34;https://scienceblog.com/498095/reading-neural-networks-mind/&#34; target=&#34;_blank&#34;&gt;ScienceBlog&lt;/a&gt;, &lt;a href=&#34;https://www.sciencedaily.com/releases/2017/12/171211120131.htm&#34; target=&#34;_blank&#34;&gt;ScienceDaily&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Accepted @IWSLT 2017:&lt;/strong&gt; Neural Machine Translation Training in a Multi-domain Scenario&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Deep learning for MT:&lt;/strong&gt; I had great fun in teaching deep learning for machine translation at the &lt;a href=&#34;http://cl-fallschool2017.phil.hhu.de/&#34; target=&#34;_blank&#34;&gt;DGfS-CL Fall School&lt;/a&gt;. Course material is available &lt;a href=&#34;http://cl-fallschool2017.phil.hhu.de/index.php/courses/course-2/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Accepted two papers @ACL 2017&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Read my &lt;a href=&#34;https://www.linkedin.com/pulse/what-do-neural-machine-translation-models-learn-hassan-sajjad/&#34; target=&#34;_blank&#34;&gt;post&lt;/a&gt; about What does Neural Machine Translation Learn about Morphology&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Similarity Analysis of Contextual Word Representation Models</title>
+      <link>//localhost:1313/publication/wu-similarity-acl-20/</link>
+      <pubDate>Sun, 05 Jul 2020 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/wu-similarity-acl-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning for Machine Translation</title>
+      <link>//localhost:1313/pages/dl4mt/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/pages/dl4mt/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Lecturers: &lt;a href=&#34;https://hsajjad.github.io/&#34; target=&#34;_blank&#34;&gt;Hassan Sajjad&lt;/a&gt; and &lt;a href=&#34;https://fdalvi.github.io/&#34; target=&#34;_blank&#34;&gt;Fahim Dalvi&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;In this lecture series, we first cover the basics of statistical machine translation to establish the intuition behind machine translation. We then cover the basics of neural network models - word embedding and neural language model. Finally, we learn an end-to-end translation system based completely on deep neural networks. In the last part of the lecture series, we learn to peek into these neural systems and analyze what they learn about the intricacies of a language like morphology and syntax, without ever explicitly seeing these details in the training data.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Background reading&lt;/strong&gt;
+* &lt;a href=&#34;https://cs231n.github.io/python-numpy-tutorial/&#34; target=&#34;_blank&#34;&gt;Python Numpy Tutorial&lt;/a&gt;
+* &lt;a href=&#34;https://cs231n.github.io/ipython-tutorial/&#34; target=&#34;_blank&#34;&gt;IPython Tutorial&lt;/a&gt;
+* &lt;a href=&#34;http://www.cedar.buffalo.edu/~srihari/CSE574/Chap1/LinearAlgebra.pdf&#34; target=&#34;_blank&#34;&gt;Linear Aljebra for Machine Learning&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Slides&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Lecture 0&lt;/strong&gt; - Introduction &amp;amp; Roadmap &lt;a href=&#34;https://drive.google.com/open?id=0BzdJvZytWnuzYkYxYzJaZUY0anc&#34; target=&#34;_blank&#34;&gt;slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lecture 1&lt;/strong&gt; - Language &amp;amp; Translation &lt;a href=&#34;https://drive.google.com/open?id=0BzdJvZytWnuzZkhrcG9mSWo0cEE&#34; target=&#34;_blank&#34;&gt;slides&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Lecture 2&lt;/strong&gt; - Language Modeling &lt;a href=&#34;https://drive.google.com/open?id=0BzdJvZytWnuzSjhoanNaQTdlNDQ&#34; target=&#34;_blank&#34;&gt;slides&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://drive.google.com/open?id=0BzdJvZytWnuzTnc5d1VWa3ItbUU&#34; target=&#34;_blank&#34;&gt;Python tutorial&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://drive.google.com/open?id=0BzdJvZytWnuzMDRKbTNWWk96V3M&#34; target=&#34;_blank&#34;&gt;Python tutorial as a PDF&lt;/a&gt; [non-editable]&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Lecture 3&lt;/strong&gt; - Machine Learning &lt;a href=&#34;https://drive.google.com/open?id=0BzdJvZytWnuzWDhUbDV6T3hZTDg&#34; target=&#34;_blank&#34;&gt;slides&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://drive.google.com/open?id=0BzdJvZytWnuzU2RjOFFQUW5IQk0&#34; target=&#34;_blank&#34;&gt;Decision Boundary Exercise&lt;/a&gt; [iPython/Jupyter Notebook]&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://drive.google.com/open?id=0BzdJvZytWnuzYUxKMGY2ZkluQ3c&#34; target=&#34;_blank&#34;&gt;Optimization functions demonstration&lt;/a&gt; [iPython/Jupyter Notebook]&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Lecture 4&lt;/strong&gt; - Machine Learning II &lt;a href=&#34;https://drive.google.com/open?id=0BzdJvZytWnuzSllqVWFXemUyNk0&#34; target=&#34;_blank&#34;&gt;slides&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://drive.google.com/open?id=0BzdJvZytWnuzTDVjdWJ2NFNxaTQ&#34; target=&#34;_blank&#34;&gt;Linear Classifier with MSE&lt;/a&gt; [iPython/Jupyter Notebook]&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://drive.google.com/open?id=0BzdJvZytWnuzeVBDOWJ0ckhQQjg&#34; target=&#34;_blank&#34;&gt;Linear Classifier with Softmax and Cross Entropy&lt;/a&gt; [iPython/Jupyter Notebook]&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Lecture 5&lt;/strong&gt; - Machine Learning and Neural Networks &lt;a href=&#34;https://drive.google.com/open?id=0BzdJvZytWnuzSmJjR2wwZjJjbEU&#34; target=&#34;_blank&#34;&gt;slides&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://drive.google.com/open?id=0BzdJvZytWnuzQVZtVmZsNTNqNE0&#34; target=&#34;_blank&#34;&gt;Efficient Linear Classifier with Softmax and Cross Entropy&lt;/a&gt; [iPython/Jupyter Notebook]&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://drive.google.com/open?id=0BzwwwL3SyiJYVlAta1JhSk5pLXc&#34; target=&#34;_blank&#34;&gt;Neural Network&lt;/a&gt; [iPython/Jupyter Notebook]&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://drive.google.com/open?id=0BzdJvZytWnuzLU00MjZJQ2tXa1k&#34; target=&#34;_blank&#34;&gt;Neural Network with Keras toolkit&lt;/a&gt; [iPython/Jupyter Notebook]&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Lecture 6&lt;/strong&gt; - Neural Network Language Models &lt;a href=&#34;https://drive.google.com/open?id=0BzdJvZytWnuzazUyZjdPVkZYRGc&#34; target=&#34;_blank&#34;&gt;slides&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://drive.google.com/open?id=0BzdJvZytWnuzMVE4d1o0YlVtbzA&#34; target=&#34;_blank&#34;&gt;Language Modeling with Keras&lt;/a&gt; [iPython/Jupyter Notebook]&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Lecture 7&lt;/strong&gt; - Sequence to Sequence &lt;a href=&#34;https://drive.google.com/open?id=0BzdJvZytWnuzdjIwSWI2Mnk1ZHc&#34; target=&#34;_blank&#34;&gt;slides&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Lecture 8&lt;/strong&gt; - Practical Neural MT &lt;a href=&#34;https://drive.google.com/open?id=0BzdJvZytWnuzNjFSOUYwZ0txUzA&#34; target=&#34;_blank&#34;&gt;slides&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Lecture 9&lt;/strong&gt; - Analysis of Neural MT &lt;a href=&#34;https://drive.google.com/open?id=0BzdJvZytWnuzME1GWVlnWUdCREU&#34; target=&#34;_blank&#34;&gt;slides&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Lecture 10&lt;/strong&gt; - Recent Advancements &lt;a href=&#34;https://drive.google.com/open?id=0BzdJvZytWnuzS0xPWFlOT0ZOeG8&#34; target=&#34;_blank&#34;&gt;slides&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning for Natural Language Processing</title>
+      <link>//localhost:1313/pages/dl4nlp/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/pages/dl4nlp/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Lecturers: &lt;a href=&#34;https://fdalvi.github.io/&#34; target=&#34;_blank&#34;&gt;Fahim Dalvi&lt;/a&gt; and &lt;a href=&#34;https://hsajjad.github.io/&#34; target=&#34;_blank&#34;&gt;Hassan Sajjad&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;In this lecture series, we cover the basics of machine learning, neural networks and deep neural networks. We look at several deep neural network architectures from the perspective of applying them to various classification tasks, such as sequence prediction and generation. Every lecture is accompanied with practice problems implemented in Keras, a popular Python framework for deep learning.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Background reading&lt;/strong&gt;
+* &lt;a href=&#34;https://cs231n.github.io/python-numpy-tutorial/&#34; target=&#34;_blank&#34;&gt;Python Numpy Tutorial&lt;/a&gt;
+* &lt;a href=&#34;https://cs231n.github.io/ipython-tutorial/&#34; target=&#34;_blank&#34;&gt;IPython Tutorial&lt;/a&gt;
+* &lt;a href=&#34;http://www.cedar.buffalo.edu/~srihari/CSE574/Chap1/LinearAlgebra.pdf&#34; target=&#34;_blank&#34;&gt;Linear Aljebra for Machine Learning&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Slides&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Lecture 0&lt;/strong&gt; - Introduction &amp;amp; Roadmap &lt;a href=&#34;https://drive.google.com/open?id=1SUaoBDjAoFG2f_SAX2FNqM4Wcs3JeXbs&#34; target=&#34;_blank&#34;&gt;slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lecture 1&lt;/strong&gt; - Introduction to Machine Learning &lt;a href=&#34;https://drive.google.com/open?id=1U0289zrCDrABLpTZOUba_IcDoApq1tZT&#34; target=&#34;_blank&#34;&gt;slides&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Practical session &lt;a href=&#34;https://drive.google.com/open?id=1nZTTXiHOlXo5HO4wRy88I5Sk0-_egGwI&#34; target=&#34;_blank&#34;&gt;slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Learning Rate and Optimization Demo &lt;a href=&#34;https://drive.google.com/open?id=1VDBHBh_hGRiiZfIL61b7-RRm6r05Hkg0&#34; target=&#34;_blank&#34;&gt;JupyterNotebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Introduction to Jupyter Notebooks &lt;a href=&#34;https://drive.google.com/open?id=15re_PMcGbg-I-UULld_FJZIIT6OC53A6&#34; target=&#34;_blank&#34;&gt;JupyterNotebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Introduction to Python and Numpy &lt;a href=&#34;https://drive.google.com/open?id=178OeAeD_n-T_MChwiEbkbvZfquko3EZh&#34; target=&#34;_blank&#34;&gt;JupyterNotebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Linear Classification by Regression &lt;a href=&#34;https://drive.google.com/open?id=1PbIKa_u4Y19heQOa0dIenZWODNi354W-&#34; target=&#34;_blank&#34;&gt;JupyterNotebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Binary Linear Classification &lt;a href=&#34;https://drive.google.com/open?id=1GIBoQxs1zlAauI8fY5vX2LDDTtkUXx8C&#34; target=&#34;_blank&#34;&gt;JupyterNotebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Linear Classification on Spiral Data &lt;a href=&#34;https://drive.google.com/open?id=1ZkmhRrI6eISdJppCVTKJ5cbhVYDg8uU5&#34; target=&#34;_blank&#34;&gt;JupyterNotebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Supplementary Material &lt;a href=&#34;https://drive.google.com/open?id=10RjjHIY9W38YwzwiJ_6CPI19qpP1_4L_&#34; target=&#34;_blank&#34;&gt;slides&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lecture 2&lt;/strong&gt; - Neural Networks &lt;a href=&#34;https://drive.google.com/open?id=19m3Cf6_AqjmAZZi-n1gMfwYqUdIaFw7G&#34; target=&#34;_blank&#34;&gt;slides&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Practical session &lt;a href=&#34;https://drive.google.com/open?id=1sYQLeSDxl_i7s5mzoeY5b6kPuxLP36d1&#34; target=&#34;_blank&#34;&gt;slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Neural Networks on Spiral Data &lt;a href=&#34;https://drive.google.com/open?id=1vAGPhE1w7Vc3u0OBBSpdCdwzEqa6Vl0H&#34; target=&#34;_blank&#34;&gt;JupyterNotebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Data &lt;a href=&#34;https://drive.google.com/open?id=1V0ioyI79Qf-Bc4FTs6MFylTGWDMzwMbZ&#34; target=&#34;_blank&#34;&gt;.zip&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Sentiment Classification using Neural Networks &lt;a href=&#34;https://drive.google.com/open?id=11CticibncR7YqF40CwC8I2qUqmMfuRwn&#34; target=&#34;_blank&#34;&gt;JupyterNotebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Neural Network Language Model &lt;a href=&#34;https://drive.google.com/open?id=1uWQ8NWtKqESY5WC7VRrz9fnRJFykmos3&#34; target=&#34;_blank&#34;&gt;JupyterNotebook&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lecture 3&lt;/strong&gt; - Recurrent Neural Networks &lt;a href=&#34;https://drive.google.com/open?id=1jeQCTTxZkJ0E1R9kjGv1Upx4y2g1iMz5&#34; target=&#34;_blank&#34;&gt;slides&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Practical Session &lt;a href=&#34;https://drive.google.com/open?id=1_AURYVRlVsEpIrK1yzkho_rO1E4mQRfD&#34; target=&#34;_blank&#34;&gt;JupyterNotebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Recurrent Neural Networks &lt;a href=&#34;https://drive.google.com/open?id=1_AURYVRlVsEpIrK1yzkho_rO1E4mQRfD&#34; target=&#34;_blank&#34;&gt;JupyterNotebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Hybrid Model &lt;a href=&#34;https://drive.google.com/open?id=1fe5HKrE2KMrLUM68ObrjM1gbB_dSRZE8&#34; target=&#34;_blank&#34;&gt;JupyterNotebook&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lecture 4&lt;/strong&gt; - Sequence to Sequence Models and Practical Considerations
+
+&lt;ul&gt;
+&lt;li&gt;Sequence to Sequence Models &lt;a href=&#34;https://drive.google.com/open?id=19PtpBXrIoj7v2Ux-Tw8zmnd5CNTK59OH&#34; target=&#34;_blank&#34;&gt;slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Practical Considerations &lt;a href=&#34;https://drive.google.com/open?id=1V3XD5_aLpbTOP90mgqsL-EtxZL2PYHME&#34; target=&#34;_blank&#34;&gt;slides&lt;/a&gt;
+&lt;!---  * Practical Session - Per Timestep Prediction  [English POS tagged data](#)  (https://drive.google.com/open?id=1iaN-h5oepAfeWas6bMH8t4RzbBkOccR9)  ---&gt;&lt;/li&gt;
+&lt;li&gt;Per Timestep Prediction &lt;a href=&#34;https://drive.google.com/open?id=13L75QInaEmpF12YptSvGqvKwLGgytj7k&#34; target=&#34;_blank&#34;&gt;JupyterNotebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Pretrained Embeddings &lt;a href=&#34;https://drive.google.com/open?id=1fiYX7cXKSZhcpNuuO_vkvOO_QDyIEEWT&#34; target=&#34;_blank&#34;&gt;JupyterNotebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Imbalanced Classes &lt;a href=&#34;https://drive.google.com/open?id=1ND2Gqjo5mDuG0H9O58yLuMsNsKhWC2g1&#34; target=&#34;_blank&#34;&gt;JupyterNotebook&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lecture 5&lt;/strong&gt; - Advanced Topics, CNN, Multitask, GAN, RL, etc. &lt;a href=&#34;https://drive.google.com/open?id=1vimK8YQXJLP1z2dxZUHph-pW40hJ8FEg&#34; target=&#34;_blank&#34;&gt;slides&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Machine Translation</title>
+      <link>//localhost:1313/pages/mt/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/pages/mt/</guid>
+      <description>
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://st.qcri.org/demos/livetranslation/&#34; target=&#34;_blank&#34;&gt;Live Speech Translation&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;First industry scale &lt;a href=&#34;https://mt.qcri.org/api/&#34; target=&#34;_blank&#34;&gt;dialectal Arabic to English machine translation system&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Machine Translation licensed to &lt;a href=&#34;http://www.kanerai.com&#34; target=&#34;_blank&#34;&gt;KanariAI&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Speech Translation System won the best Innovation award at @&lt;a href=&#34;https://www.qf-arc.org/en-us/ARC-18&#34; target=&#34;_blank&#34;&gt;ARC&amp;rsquo;18&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;best-innovation-award-arc-18-https-www-qf-arc-org-en-us-arc-18-media-coverage-http-www-gulf-times-com-story-585737-sheikha-moza-honours-qf-arc-18-award-winners&#34;&gt;Best Innovation Award @&lt;a href=&#34;https://www.qf-arc.org/en-us/ARC-18&#34; target=&#34;_blank&#34;&gt;ARC&amp;rsquo;18&lt;/a&gt;, &lt;a href=&#34;http://www.gulf-times.com/story/585737/Sheikha-Moza-honours-QF-ARC-18-award-winners&#34; target=&#34;_blank&#34;&gt;media coverage&lt;/a&gt;&lt;/h2&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;I worked on machine translation.&lt;/p&gt;
+
+&lt;hr /&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Recent Talks</title>
+      <link>//localhost:1313/pages/talks/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/pages/talks/</guid>
+      <description>&lt;hr /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1KFNUQvK3NYClYkFNnU775F5BC3Irglw7Pe81Xf_-nJY/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Interpreting Deep NLP Models&lt;/a&gt;, University of Edinburgh, UK (April 2020)&lt;/li&gt;
+&lt;li&gt;Summarizing Research on Interpreting Machine Translation Models, University of Sheffield, UK (Mar 2020)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1N2mwnoIhzx7RLPQDmkX2W_J6GDPElHHHYYI7U3mXxBo/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Efficient Transfer Learning of Pretrained Model&lt;/a&gt;, 7th International Conference on Language and Technology, Pakistan (February 2020)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1UL-p4Cj2Sr2DaFguFlNd17MmkDsRHxT2lObt_l8tlFA/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Analyzing Individual Neurons in Deep NLP Models&lt;/a&gt; at Google, Facebook, Amazon, Salesforce and Bosch, US (April 2019)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/12ETd8Ox_xseuD9es2h45DguRJDiJ2qByWkG67RM2rMs/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Hidden Linguistics in Deep NLP Models&lt;/a&gt;, Symposium on Natural Language Processing, University of Moratuwa, Sri Lanka (March 2019)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>//localhost:1313/pages/teaching/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/pages/teaching/</guid>
+      <description>
+
+&lt;hr /&gt;
+
+&lt;div style=&#34;display: flex;flex-direction: row;align-items: center;&#34;&gt;
+  &lt;img src=&#34;//localhost:1313/files/testimonial-dl4mt-1.png&#34; alt=&#34;Drawing&#34; style=&#34;width: 45%;height: 100%;&#34;&gt; 
+    &lt;div style=&#34;width:10%&#34;&gt;&lt;/div&gt;
+  &lt;img src=&#34;//localhost:1313/files/testimonial-dl4mt-2.png&#34; alt=&#34;Drawing&#34; style=&#34;width: 45%;height: 100%;&#34;&gt; 
+&lt;/div&gt;
+
+&lt;h3 id=&#34;deep-learning-for-natural-language-processing&#34;&gt;Deep Learning for Natural Language Processing&lt;/h3&gt;
+
+&lt;p&gt;A 15 hours crash course covering the basics and advancements in deep learning. The lecture series is conducted at the department of Computer Science and Applied Cognitive Science of the &lt;a href=&#34;https://www.uni-due.de/en/&#34; target=&#34;_blank&#34;&gt;University of Duisburg-Essen&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;introduction-to-deep-learning-for-natural-language-processing&#34;&gt;Introduction to Deep Learning for Natural Language Processing&lt;/h3&gt;
+
+&lt;p&gt;A one week introductory course delivered at the DAAD organized Spring School, University of Moratuwa, Sri Lanka in March 2019.&lt;/p&gt;
+
+&lt;h3 id=&#34;from-theory-to-practice-deep-learning-for-natural-language-processing-hahahugoshortcode-s0-hbhb&#34;&gt;&lt;a href=&#34;//localhost:1313/pages/dl4nlp/&#34; target=&#34;_blank&#34;&gt;From Theory to Practice: Deep Learning for Natural Language Processing&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;A 15 hours crash course on deep learning for NLP with practical exercises in Keras. The lecture series is conducted at the department of Computer Science and Applied Cognitive Science of the &lt;a href=&#34;https://www.uni-due.de/en/&#34; target=&#34;_blank&#34;&gt;University of Duisburg-Essen&lt;/a&gt;. Here is the course material including slides, python notebooks, etc. &lt;a href=&#34;//localhost:1313/pages/dl4nlp/&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;deep-learning-for-machine-translation-hahahugoshortcode-s2-hbhb&#34;&gt;&lt;a href=&#34;//localhost:1313/pages/dl4mt/&#34; target=&#34;_blank&#34;&gt;Deep Learning for Machine Translation&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;I with &lt;a href=&#34;https://fdalvi.github.io&#34; target=&#34;_blank&#34;&gt;Fahim Dalvi&lt;/a&gt; delivered a 15 hours intensive course on deep learning for machine translation in September 2017 at &lt;a href=&#34;http://cl-fallschool2017.phil.hhu.de/&#34; target=&#34;_blank&#34;&gt;DGfS-CL Fall School&lt;/a&gt; in &lt;a href=&#34;https://www.uni-duesseldorf.de/home/startseite.html&#34; target=&#34;_blank&#34;&gt;Heinrich Heine Universität Düsseldorf&lt;/a&gt;. We covered neural networks, language models, recurrent neural network and how they fit in to become a neural machine translation.
+&lt;a href=&#34;//localhost:1313/pages/dl4mt/&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Exploiting Redundancy in Pre-trained Language Models for Efficient Transfer Learning</title>
+      <link>//localhost:1313/publication/dalvi-featureselection-arxiv/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/dalvi-featureselection-arxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Clustering Framework for Lexical Normalization of Roman Urdu</title>
+      <link>//localhost:1313/publication/rafae-2018-cl/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/rafae-2018-cl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compressing Large-Scale Transformer-Based Models: A Case Study on BERT</title>
+      <link>//localhost:1313/publication/ganeshcompressingbert-arxiv/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/ganeshcompressingbert-arxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Linguistic Representational Power of Neural Machine Translation Models</title>
+      <link>//localhost:1313/publication/belinkov-2020-cl/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/belinkov-2020-cl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poor Man&#39;s BERT: Smaller and Faster Transformer Models</title>
+      <link>//localhost:1313/publication/sajjad-poormanbert-arxiv/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/sajjad-poormanbert-arxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A System for Diacritizing Four Varieties of Arabic</title>
+      <link>//localhost:1313/publication/diacritic-2019-emnlp/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/diacritic-2019-emnlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Highly Effective Arabic Diacritization using Sequence to Sequence Modeling</title>
+      <link>//localhost:1313/publication/mubarak-2019-naacl/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/mubarak-2019-naacl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One Size Does Not Fit All: Comparing NMT Representations of Different Granularities</title>
+      <link>//localhost:1313/publication/durrani-2019-naacl/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/durrani-2019-naacl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying and Controlling Important Neurons in Neural Machine Translation</title>
+      <link>//localhost:1313/publication/individual-iclr-19/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/individual-iclr-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What is one Grain of Sand in the Desert? Analyzing Individual Neurons in Deep NLP Models</title>
+      <link>//localhost:1313/publication/grain-aaai-19-1/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/grain-aaai-19-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NeuroX: A Toolkit for Analyzing Individual Neurons in Neural Networks</title>
+      <link>//localhost:1313/publication/neurox-aaai-19-demo/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/neurox-aaai-19-demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incremental Decoding and Training Methods for Simultaneous Translation in Neural Machine Translation</title>
+      <link>//localhost:1313/publication/dalvi-2018-naacl/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/dalvi-2018-naacl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H2@BUCC18: Parallel Sentence Extraction from Comparable Corpora Using Multilingual Sentence Embeddings</title>
+      <link>//localhost:1313/publication/bouamor-bucc-18/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/bouamor-bucc-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Machine Translation Training in a Multi-Domain Scenario</title>
+      <link>//localhost:1313/publication/sajjad-etal-iwslt-17/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/sajjad-etal-iwslt-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating Layers of Representation in Neural Machine Translation on Part-of-Speech and Semantic Tagging Tasks</title>
+      <link>//localhost:1313/publication/belinkov-ijcnlp-2017/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/belinkov-ijcnlp-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding and Improving Morphological Learning in the Neural Machine Translation Decoder</title>
+      <link>//localhost:1313/publication/dalvi-ijcnlp-2017/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/dalvi-ijcnlp-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Challenging Language-Dependent Segmentation for Arabic: An Application to Machine Translation and Part-of-Speech Tagging</title>
+      <link>//localhost:1313/publication/sajjad-etal-2017-acl-short/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/sajjad-etal-2017-acl-short/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What do Neural Machine Translation Models Learn about Morphology?</title>
+      <link>//localhost:1313/publication/belinkov-2017-acl/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/belinkov-2017-acl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Classification of Crisis-Related Data on Social Networks using Convolutional Neural Networks</title>
+      <link>//localhost:1313/publication/nguyen-icwsm-2017/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/nguyen-icwsm-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QCRI Live Speech Translation System</title>
+      <link>//localhost:1313/publication/dalvi-2017-qcri/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/dalvi-2017-qcri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The SUMMA Platform Prototype</title>
+      <link>//localhost:1313/publication/liepins-2017-summa/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/liepins-2017-summa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Domain Adaptation using Neural Network Joint Model</title>
+      <link>//localhost:1313/publication/joty-2017-csl/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/joty-2017-csl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical models for unsupervised, semi-supervised and supervised transliteration mining</title>
+      <link>//localhost:1313/publication/sajjad-2017-statistical/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/sajjad-2017-statistical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Deep Fusion Model for Domain Adaptation in Phrase-based MT</title>
+      <link>//localhost:1313/publication/durrani-et-al-2016-coling/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/durrani-et-al-2016-coling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QCRI @ DSL 2016: Spoken Arabic Dialect Identification Using Textual</title>
+      <link>//localhost:1313/publication/eldesouki-2016-qcri/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/eldesouki-2016-qcri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QCRI’s Machine Translation Systems for IWSLT’2016</title>
+      <link>//localhost:1313/publication/durrani-etal-iwslt-16/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/durrani-etal-iwslt-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Empirical Study: Post-editing Effort for English to Arabic Hybrid Machine Translation</title>
+      <link>//localhost:1313/publication/sajjad-16-postediting/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/sajjad-16-postediting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Applications of Online Deep Learning for Crisis Response Using Social Media Information</title>
+      <link>//localhost:1313/publication/nguyen-2016-swdm/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/nguyen-2016-swdm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Normalizing Mathematical Expressions to Improve the Translation of Educational Content</title>
+      <link>//localhost:1313/publication/zaghouani-2016-normalizing/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/zaghouani-2016-normalizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eyes Don&#39;t Lie: Predicting Machine Translation Quality Using Eye Movement.</title>
+      <link>//localhost:1313/publication/sajjad-2016-eyes/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/sajjad-2016-eyes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Joint Models for Domain Adaptation in Statistical Machine Translation</title>
+      <link>//localhost:1313/publication/durrani-et-al-mt-summit-2015/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/durrani-et-al-mt-summit-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Unsupervised Method for Discovering Lexical Variations in Roman Urdu Informal Text.</title>
+      <link>//localhost:1313/publication/rafae-2015-unsupervised/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/rafae-2015-unsupervised/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How do Humans Evaluate Machine Translation</title>
+      <link>//localhost:1313/publication/guzman-wmt-15/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/guzman-wmt-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to Avoid Unwanted Pregnancies: Domain Adaptation using Neural Network Models</title>
+      <link>//localhost:1313/publication/joty-et-al-2015-emnlp/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/joty-et-al-2015-emnlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QCMUQ@QALB-2015 Shared Task: Combining Character level MT and Error-tolerant Finite-State Recognition for ArabicSpelling Correction</title>
+      <link>//localhost:1313/publication/bouamor-anlp-15/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/bouamor-anlp-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QCN Egyptian Arabic to English MachineTranslation System for NIST OpenMT15</title>
+      <link>//localhost:1313/publication/sajjad-nist-15/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/sajjad-nist-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distant Supervision for Tweet Classification Using YouTube Labels</title>
+      <link>//localhost:1313/publication/magdy-2015-distant/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/magdy-2015-distant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bridging social media via distant supervision</title>
+      <link>//localhost:1313/publication/madgy-2015-snam/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/madgy-2015-snam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised word segmentation improves dialectal Arabic to English machine translation</title>
+      <link>//localhost:1313/publication/kamla-anlp-2014/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/kamla-anlp-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Verifiably Effective Arabic Dialect Identification.</title>
+      <link>//localhost:1313/publication/darwish-2014-verifiably/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/darwish-2014-verifiably/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The AMARA Corpus: Building Parallel Language Resources for the Educational Domain</title>
+      <link>//localhost:1313/publication/abdelali-2014-lrec/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/abdelali-2014-lrec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding Types of Users on Twitter</title>
+      <link>//localhost:1313/publication/uddin-socialcom-2014/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/uddin-socialcom-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating an Unsupervised Transliteration Model into Statistical Machine Translation</title>
+      <link>//localhost:1313/publication/durrani-et-al-2014-eacl/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/durrani-et-al-2014-eacl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QCRI at IWSLT 2013: Experiments in Arabic-English and English-Arabic Spoken Language Translation</title>
+      <link>//localhost:1313/publication/sajjad-etal-iwslt-13/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/sajjad-etal-iwslt-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The AMARA Corpus: Building Resources for Translating the Web&#39;s Educational Content</title>
+      <link>//localhost:1313/publication/guzman-sajjad-etal-iwslt-13/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/guzman-sajjad-etal-iwslt-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Munich-Edinburgh-Stuttgart Submissions at WMT13: Morphological and Syntactic Processing for SMT</title>
+      <link>//localhost:1313/publication/weller-13-wmt-13/</link>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/weller-13-wmt-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Munich-Edinburgh-Stuttgart Submissions of OSM Systems at WMT13</title>
+      <link>//localhost:1313/publication/durrani-et-al-2013-wmt/</link>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/durrani-et-al-2013-wmt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QCRI-MES Submission at WMT13: Using Transliteration Mining to Improve Statistical Machine Translation</title>
+      <link>//localhost:1313/publication/sajjad-et-al-2013-wmt/</link>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/sajjad-et-al-2013-wmt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Translating Dialectal Arabic to English</title>
+      <link>//localhost:1313/publication/sajjad-2013-translating/</link>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/sajjad-2013-translating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Underspecified Query Refinement via Natural Language Question Generation</title>
+      <link>//localhost:1313/publication/sajjad-coling-2012/</link>
+      <pubDate>Sat, 01 Dec 2012 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/sajjad-coling-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Statistical Model for Unsupervised and Semi-supervised Transliteration Mining</title>
+      <link>//localhost:1313/publication/sajjad-acl-12/</link>
+      <pubDate>Sun, 01 Jul 2012 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/sajjad-acl-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparing Two Techniques for Learning Transliteration Models Using a Parallel Corpus</title>
+      <link>//localhost:1313/publication/sajjad-et-al-2011-ijcnlp-2011/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/sajjad-et-al-2011-ijcnlp-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Algorithm for Unsupervised Transliteration Mining with an Application to Word Alignment</title>
+      <link>//localhost:1313/publication/sajjad-acl-11/</link>
+      <pubDate>Wed, 01 Jun 2011 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/sajjad-acl-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hindi-to-Urdu Machine Translation through Transliteration</title>
+      <link>//localhost:1313/publication/durrani-et-al-2010-acl/</link>
+      <pubDate>Thu, 01 Jul 2010 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/durrani-et-al-2010-acl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tagging Urdu Text with Parts of Speech: A Tagger Comparison</title>
+      <link>//localhost:1313/publication/sajjad-eacl-09/</link>
+      <pubDate>Wed, 01 Apr 2009 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/sajjad-eacl-09/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

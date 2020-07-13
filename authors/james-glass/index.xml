@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>James Glass | Hassan Sajjad</title>
+    <link>//localhost:1313/authors/james-glass/</link>
+      <atom:link href="//localhost:1313/authors/james-glass/index.xml" rel="self" type="application/rss+xml" />
+    <description>James Glass</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 05 Jul 2020 00:00:00 +0300</lastBuildDate>
+    <image>
+      <url>//localhost:1313/img/icon-192.png</url>
+      <title>James Glass</title>
+      <link>//localhost:1313/authors/james-glass/</link>
+    </image>
+    
+    <item>
+      <title>Similarity Analysis of Contextual Word Representation Models</title>
+      <link>//localhost:1313/publication/wu-similarity-acl-20/</link>
+      <pubDate>Sun, 05 Jul 2020 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/wu-similarity-acl-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Linguistic Representational Power of Neural Machine Translation Models</title>
+      <link>//localhost:1313/publication/belinkov-2020-cl/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/belinkov-2020-cl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying and Controlling Important Neurons in Neural Machine Translation</title>
+      <link>//localhost:1313/publication/individual-iclr-19/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/individual-iclr-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What is one Grain of Sand in the Desert? Analyzing Individual Neurons in Deep NLP Models</title>
+      <link>//localhost:1313/publication/grain-aaai-19-1/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/grain-aaai-19-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NeuroX: A Toolkit for Analyzing Individual Neurons in Neural Networks</title>
+      <link>//localhost:1313/publication/neurox-aaai-19-demo/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/neurox-aaai-19-demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating Layers of Representation in Neural Machine Translation on Part-of-Speech and Semantic Tagging Tasks</title>
+      <link>//localhost:1313/publication/belinkov-ijcnlp-2017/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/belinkov-ijcnlp-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What do Neural Machine Translation Models Learn about Morphology?</title>
+      <link>//localhost:1313/publication/belinkov-2017-acl/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/belinkov-2017-acl/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

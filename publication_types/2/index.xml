@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Hassan Sajjad</title>
+    <link>//localhost:1313/publication_types/2/</link>
+      <atom:link href="//localhost:1313/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0300</lastBuildDate>
+    <image>
+      <url>//localhost:1313/img/icon-192.png</url>
+      <title>2</title>
+      <link>//localhost:1313/publication_types/2/</link>
+    </image>
+    
+    <item>
+      <title>A Clustering Framework for Lexical Normalization of Roman Urdu</title>
+      <link>//localhost:1313/publication/rafae-2018-cl/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/rafae-2018-cl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Linguistic Representational Power of Neural Machine Translation Models</title>
+      <link>//localhost:1313/publication/belinkov-2020-cl/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/belinkov-2020-cl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Domain Adaptation using Neural Network Joint Model</title>
+      <link>//localhost:1313/publication/joty-2017-csl/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/joty-2017-csl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical models for unsupervised, semi-supervised and supervised transliteration mining</title>
+      <link>//localhost:1313/publication/sajjad-2017-statistical/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/sajjad-2017-statistical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bridging social media via distant supervision</title>
+      <link>//localhost:1313/publication/madgy-2015-snam/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/madgy-2015-snam/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

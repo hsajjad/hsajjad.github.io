@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yonatan Belinkov | Hassan Sajjad</title>
+    <link>//localhost:1313/authors/yonatan-belinkov/</link>
+      <atom:link href="//localhost:1313/authors/yonatan-belinkov/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yonatan Belinkov</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 05 Jul 2020 00:00:00 +0300</lastBuildDate>
+    <image>
+      <url>//localhost:1313/img/icon-192.png</url>
+      <title>Yonatan Belinkov</title>
+      <link>//localhost:1313/authors/yonatan-belinkov/</link>
+    </image>
+    
+    <item>
+      <title>Similarity Analysis of Contextual Word Representation Models</title>
+      <link>//localhost:1313/publication/wu-similarity-acl-20/</link>
+      <pubDate>Sun, 05 Jul 2020 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/wu-similarity-acl-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting Redundancy in Pre-trained Language Models for Efficient Transfer Learning</title>
+      <link>//localhost:1313/publication/dalvi-featureselection-arxiv/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/dalvi-featureselection-arxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Linguistic Representational Power of Neural Machine Translation Models</title>
+      <link>//localhost:1313/publication/belinkov-2020-cl/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/belinkov-2020-cl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One Size Does Not Fit All: Comparing NMT Representations of Different Granularities</title>
+      <link>//localhost:1313/publication/durrani-2019-naacl/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/durrani-2019-naacl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying and Controlling Important Neurons in Neural Machine Translation</title>
+      <link>//localhost:1313/publication/individual-iclr-19/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/individual-iclr-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What is one Grain of Sand in the Desert? Analyzing Individual Neurons in Deep NLP Models</title>
+      <link>//localhost:1313/publication/grain-aaai-19-1/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/grain-aaai-19-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NeuroX: A Toolkit for Analyzing Individual Neurons in Neural Networks</title>
+      <link>//localhost:1313/publication/neurox-aaai-19-demo/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/neurox-aaai-19-demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Machine Translation Training in a Multi-Domain Scenario</title>
+      <link>//localhost:1313/publication/sajjad-etal-iwslt-17/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/sajjad-etal-iwslt-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating Layers of Representation in Neural Machine Translation on Part-of-Speech and Semantic Tagging Tasks</title>
+      <link>//localhost:1313/publication/belinkov-ijcnlp-2017/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/belinkov-ijcnlp-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding and Improving Morphological Learning in the Neural Machine Translation Decoder</title>
+      <link>//localhost:1313/publication/dalvi-ijcnlp-2017/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/dalvi-ijcnlp-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Challenging Language-Dependent Segmentation for Arabic: An Application to Machine Translation and Part-of-Speech Tagging</title>
+      <link>//localhost:1313/publication/sajjad-etal-2017-acl-short/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/sajjad-etal-2017-acl-short/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What do Neural Machine Translation Models Learn about Morphology?</title>
+      <link>//localhost:1313/publication/belinkov-2017-acl/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/belinkov-2017-acl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Translating Dialectal Arabic to English</title>
+      <link>//localhost:1313/publication/sajjad-2013-translating/</link>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/sajjad-2013-translating/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

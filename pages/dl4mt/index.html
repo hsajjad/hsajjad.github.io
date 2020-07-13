@@ -1,0 +1,889 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.5.0">
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Hassan Sajjad">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Lecturers: Hassan Sajjad and Fahim Dalvi
+ In this lecture series, we first cover the basics of statistical machine translation to establish the intuition behind machine translation. We then cover the basics of neural network models - word embedding and neural language model. Finally, we learn an end-to-end translation system based completely on deep neural networks. In the last part of the lecture series, we learn to peek into these neural systems and analyze what they learn about the intricacies of a language like morphology and syntax, without ever explicitly seeing these details in the training data.">
+
+  
+  <link rel="alternate" hreflang="en-us" href="//localhost:1313/pages/dl4mt/">
+
+  
+
+
+  
+  
+  
+  <meta name="theme-color" content="#2962ff">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==" crossorigin="anonymous">
+    
+
+    
+
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.min.add361214873757ed055b7cc88f09d06.css">
+
+  
+
+  
+
+
+
+
+  
+
+
+  
+
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon-32.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="//localhost:1313/pages/dl4mt/">
+
+  
+  
+  
+  
+    
+    
+  
+  
+  <meta property="twitter:card" content="summary">
+  
+  <meta property="og:site_name" content="Hassan Sajjad">
+  <meta property="og:url" content="//localhost:1313/pages/dl4mt/">
+  <meta property="og:title" content="Deep Learning for Machine Translation | Hassan Sajjad">
+  <meta property="og:description" content="Lecturers: Hassan Sajjad and Fahim Dalvi
+ In this lecture series, we first cover the basics of statistical machine translation to establish the intuition behind machine translation. We then cover the basics of neural network models - word embedding and neural language model. Finally, we learn an end-to-end translation system based completely on deep neural networks. In the last part of the lecture series, we learn to peek into these neural systems and analyze what they learn about the intricacies of a language like morphology and syntax, without ever explicitly seeing these details in the training data."><meta property="og:image" content="//localhost:1313/img/icon-192.png">
+  <meta property="twitter:image" content="//localhost:1313/img/icon-192.png"><meta property="og:locale" content="en-us">
+  
+    
+      <meta property="article:published_time" content="2020-06-28T00:00:00&#43;00:00">
+    
+    <meta property="article:modified_time" content="2020-06-28T00:00:00&#43;00:00">
+  
+
+  
+
+
+
+  
+
+
+  
+
+
+  
+
+
+
+
+
+  <title>Deep Learning for Machine Translation | Hassan Sajjad</title>
+
+</head>
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0 compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+      <a class="navbar-brand" href="/">Hassan Sajjad</a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+
+      
+      
+      <ul class="navbar-nav mr-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/publication/"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/pages/teaching"><span>Teaching</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/pages/talks"><span>Talks</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/files/cv.pdf"><span>CV</span></a>
+        </li>
+
+        
+        
+
+      
+      </ul>
+      <ul class="navbar-nav ml-auto">
+      
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+        </li>
+        
+
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+  <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>Deep Learning for Machine Translation</h1>
+
+  
+
+  
+    
+
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Jun 28, 2020
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+  
+    
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=//localhost:1313/pages/dl4mt/&amp;text=Deep%20Learning%20for%20Machine%20Translation" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=//localhost:1313/pages/dl4mt/&amp;t=Deep%20Learning%20for%20Machine%20Translation" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook-f"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Deep%20Learning%20for%20Machine%20Translation&amp;body=//localhost:1313/pages/dl4mt/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=//localhost:1313/pages/dl4mt/&amp;title=Deep%20Learning%20for%20Machine%20Translation" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://web.whatsapp.com/send?text=Deep%20Learning%20for%20Machine%20Translation%20//localhost:1313/pages/dl4mt/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=//localhost:1313/pages/dl4mt/&amp;title=Deep%20Learning%20for%20Machine%20Translation" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <blockquote>
+<p>Lecturers: <a href="https://hsajjad.github.io/" target="_blank">Hassan Sajjad</a> and <a href="https://fdalvi.github.io/" target="_blank">Fahim Dalvi</a></p>
+</blockquote>
+
+<hr />
+
+<p>In this lecture series, we first cover the basics of statistical machine translation to establish the intuition behind machine translation. We then cover the basics of neural network models - word embedding and neural language model. Finally, we learn an end-to-end translation system based completely on deep neural networks. In the last part of the lecture series, we learn to peek into these neural systems and analyze what they learn about the intricacies of a language like morphology and syntax, without ever explicitly seeing these details in the training data.</p>
+
+<hr />
+
+<p><strong>Background reading</strong>
+* <a href="https://cs231n.github.io/python-numpy-tutorial/" target="_blank">Python Numpy Tutorial</a>
+* <a href="https://cs231n.github.io/ipython-tutorial/" target="_blank">IPython Tutorial</a>
+* <a href="http://www.cedar.buffalo.edu/~srihari/CSE574/Chap1/LinearAlgebra.pdf" target="_blank">Linear Aljebra for Machine Learning</a></p>
+
+<p><strong>Slides</strong></p>
+
+<ul>
+<li><strong>Lecture 0</strong> - Introduction &amp; Roadmap <a href="https://drive.google.com/open?id=0BzdJvZytWnuzYkYxYzJaZUY0anc" target="_blank">slides</a></li>
+<li><strong>Lecture 1</strong> - Language &amp; Translation <a href="https://drive.google.com/open?id=0BzdJvZytWnuzZkhrcG9mSWo0cEE" target="_blank">slides</a></li>
+
+<li><p><strong>Lecture 2</strong> - Language Modeling <a href="https://drive.google.com/open?id=0BzdJvZytWnuzSjhoanNaQTdlNDQ" target="_blank">slides</a></p>
+
+<ul>
+<li><a href="https://drive.google.com/open?id=0BzdJvZytWnuzTnc5d1VWa3ItbUU" target="_blank">Python tutorial</a></li>
+<li><a href="https://drive.google.com/open?id=0BzdJvZytWnuzMDRKbTNWWk96V3M" target="_blank">Python tutorial as a PDF</a> [non-editable]</li>
+</ul></li>
+
+<li><p><strong>Lecture 3</strong> - Machine Learning <a href="https://drive.google.com/open?id=0BzdJvZytWnuzWDhUbDV6T3hZTDg" target="_blank">slides</a></p>
+
+<ul>
+<li><a href="https://drive.google.com/open?id=0BzdJvZytWnuzU2RjOFFQUW5IQk0" target="_blank">Decision Boundary Exercise</a> [iPython/Jupyter Notebook]</li>
+<li><a href="https://drive.google.com/open?id=0BzdJvZytWnuzYUxKMGY2ZkluQ3c" target="_blank">Optimization functions demonstration</a> [iPython/Jupyter Notebook]</li>
+</ul></li>
+
+<li><p><strong>Lecture 4</strong> - Machine Learning II <a href="https://drive.google.com/open?id=0BzdJvZytWnuzSllqVWFXemUyNk0" target="_blank">slides</a></p>
+
+<ul>
+<li><a href="https://drive.google.com/open?id=0BzdJvZytWnuzTDVjdWJ2NFNxaTQ" target="_blank">Linear Classifier with MSE</a> [iPython/Jupyter Notebook]</li>
+<li><a href="https://drive.google.com/open?id=0BzdJvZytWnuzeVBDOWJ0ckhQQjg" target="_blank">Linear Classifier with Softmax and Cross Entropy</a> [iPython/Jupyter Notebook]</li>
+</ul></li>
+
+<li><p><strong>Lecture 5</strong> - Machine Learning and Neural Networks <a href="https://drive.google.com/open?id=0BzdJvZytWnuzSmJjR2wwZjJjbEU" target="_blank">slides</a></p>
+
+<ul>
+<li><a href="https://drive.google.com/open?id=0BzdJvZytWnuzQVZtVmZsNTNqNE0" target="_blank">Efficient Linear Classifier with Softmax and Cross Entropy</a> [iPython/Jupyter Notebook]</li>
+<li><a href="https://drive.google.com/open?id=0BzwwwL3SyiJYVlAta1JhSk5pLXc" target="_blank">Neural Network</a> [iPython/Jupyter Notebook]</li>
+<li><a href="https://drive.google.com/open?id=0BzdJvZytWnuzLU00MjZJQ2tXa1k" target="_blank">Neural Network with Keras toolkit</a> [iPython/Jupyter Notebook]</li>
+</ul></li>
+
+<li><p><strong>Lecture 6</strong> - Neural Network Language Models <a href="https://drive.google.com/open?id=0BzdJvZytWnuzazUyZjdPVkZYRGc" target="_blank">slides</a></p>
+
+<ul>
+<li><a href="https://drive.google.com/open?id=0BzdJvZytWnuzMVE4d1o0YlVtbzA" target="_blank">Language Modeling with Keras</a> [iPython/Jupyter Notebook]</li>
+</ul></li>
+
+<li><p><strong>Lecture 7</strong> - Sequence to Sequence <a href="https://drive.google.com/open?id=0BzdJvZytWnuzdjIwSWI2Mnk1ZHc" target="_blank">slides</a></p></li>
+
+<li><p><strong>Lecture 8</strong> - Practical Neural MT <a href="https://drive.google.com/open?id=0BzdJvZytWnuzNjFSOUYwZ0txUzA" target="_blank">slides</a></p></li>
+
+<li><p><strong>Lecture 9</strong> - Analysis of Neural MT <a href="https://drive.google.com/open?id=0BzdJvZytWnuzME1GWVlnWUdCREU" target="_blank">slides</a></p></li>
+
+<li><p><strong>Lecture 10</strong> - Recent Advancements <a href="https://drive.google.com/open?id=0BzdJvZytWnuzS0xPWFlOT0ZOeG8" target="_blank">slides</a></p></li>
+</ul>
+
+    </div>
+
+    
+
+
+    
+
+
+
+    
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  <div class="media author-card">
+    
+      
+      <img class="portrait mr-3" src="/authors/admin/avatar_hu25bb166f6af393cb11b2c68302be8620_5399085_250x250_fill_lanczos_center_2.png" alt="Avatar">
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="//localhost:1313/">Hassan Sajjad</a></h5>
+      <h6 class="card-subtitle">Research Scientist</h6>
+      <p class="card-text">My research interests include natural language processing, applied machine translation and deep learning</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:hasaan.sajjad@gmail.com" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/hassaan84s" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.de/citations?user=t3BH6NkAAAAJ&amp;hl=en" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/hsajjad" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/files/cv.pdf" >
+        <i class="ai ai-cv"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+
+      
+      
+    
+
+    
+
+    
+
+
+  </div>
+</article>
+
+      
+
+    
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js" integrity="sha256-aYTdUrn6Ow1DDgh5JTc3aDGnnju48y/1c8s1dgkYPQ8=" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/languages/r.min.js"></script>
+        
+      
+
+      
+      
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.js" integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log==" crossorigin="anonymous"></script>
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+    <script>
+      const search_index_filename = "/index.json";
+      const i18n = {
+        'placeholder': "Search...",
+        'results': "results found",
+        'no_results': "No results found"
+      };
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.0bf1e3db85cbb232372ed31d6f10dc70.js"></script>
+
+    
+
+
+
+
+
+
+  
+  <div class="container">
+    <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" class="back-to-top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script data-no-instant>document.write('<script src="/livereload.js?port=1313&mindelay=10&v=2"></' + 'script>')</script></body>
+</html>

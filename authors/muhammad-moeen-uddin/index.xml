@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Muhammad Moeen Uddin | Hassan Sajjad</title>
+    <link>//localhost:1313/authors/muhammad-moeen-uddin/</link>
+      <atom:link href="//localhost:1313/authors/muhammad-moeen-uddin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Muhammad Moeen Uddin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0300</lastBuildDate>
+    <image>
+      <url>//localhost:1313/img/icon-192.png</url>
+      <title>Muhammad Moeen Uddin</title>
+      <link>//localhost:1313/authors/muhammad-moeen-uddin/</link>
+    </image>
+    
+    <item>
+      <title>An Unsupervised Method for Discovering Lexical Variations in Roman Urdu Informal Text.</title>
+      <link>//localhost:1313/publication/rafae-2015-unsupervised/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/rafae-2015-unsupervised/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
