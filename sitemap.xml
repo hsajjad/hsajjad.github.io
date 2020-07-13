@@ -77,6 +77,11 @@
   </url>
   
   <url>
+    <loc>//localhost:1313/pages/interpretation/</loc>
+    <lastmod>2020-06-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>//localhost:1313/pages/mt/</loc>
     <lastmod>2020-06-28T00:00:00+00:00</lastmod>
   </url>
@@ -88,6 +93,16 @@
   
   <url>
     <loc>//localhost:1313/pages/talks/</loc>
+    <lastmod>2020-06-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/pages/bio/</loc>
+    <lastmod>2020-06-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/pages/research/</loc>
     <lastmod>2020-06-28T00:00:00+00:00</lastmod>
   </url>
   

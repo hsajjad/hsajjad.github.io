@@ -187,6 +187,49 @@
     </item>
     
     <item>
+      <title>Interpretation of Deep NLP Models</title>
+      <link>//localhost:1313/pages/interpretation/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/pages/interpretation/</guid>
+      <description>
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Media coverage:&lt;/strong&gt; Our work on NeuroX - Analyzing and Controlling Individual Neurons is featured at &lt;a href=&#34;https://news.mit.edu/2019/neural-networks-nlp-microscope-0201&#34; target=&#34;_blank&#34;&gt;MIT news&lt;/a&gt; and several AI blogs.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Media coverage:&lt;/strong&gt; Our work on understanding Neural Machine Translation has made it to &lt;a href=&#34;http://news.mit.edu/2017/reading-neural-network-mind-1211&#34; target=&#34;_blank&#34;&gt;MIT news&lt;/a&gt; and been picked by several channels like &lt;a href=&#34;https://scienceblog.com/498095/reading-neural-networks-mind/&#34; target=&#34;_blank&#34;&gt;ScienceBlog&lt;/a&gt;, &lt;a href=&#34;https://www.sciencedaily.com/releases/2017/12/171211120131.htm&#34; target=&#34;_blank&#34;&gt;ScienceDaily&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;I am interested in understanding the learning dynamics of deep neural network models. I have worked on analyzing whole vector representations and individual neurons in the network and answer questions such as:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;How much linguistic knowledge is learned?&lt;/li&gt;
+&lt;li&gt;How focused and distributed is the information?&lt;/li&gt;
+&lt;li&gt;What is the role of individual neurons?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I showed that the interpretation analysis enables us to:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;control bias in our models by manipulating individual neurons&lt;/li&gt;
+&lt;li&gt;reduce the model size and speed up inference time by removing irrelevant and redundant neurons&lt;/li&gt;
+&lt;li&gt;improve model performance by injecting linguistic information in a multitask setting&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The interpretation work is mainly done in collaboration with CSAIL MIT. The work has been published at prestigious venues, such as ICLR, AAAI, ACL, etc., and it has been covered by several technology blogs a couple of times.&lt;/p&gt;
+
+&lt;hr /&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Machine Translation</title>
       <link>//localhost:1313/pages/mt/</link>
       <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
@@ -195,25 +238,25 @@
 
 &lt;hr /&gt;
 
-&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;h4 id=&#34;highlights&#34;&gt;Highlights&lt;/h4&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;https://st.qcri.org/demos/livetranslation/&#34; target=&#34;_blank&#34;&gt;Live Speech Translation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://st.qcri.org/demos/livetranslation/&#34; target=&#34;_blank&#34;&gt;Live Speech Translation&lt;/a&gt; System&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://mt.qcri.org/api/&#34; target=&#34;_blank&#34;&gt;Machine Translation&lt;/a&gt; System&lt;/p&gt;
 
 &lt;p&gt;First industry scale &lt;a href=&#34;https://mt.qcri.org/api/&#34; target=&#34;_blank&#34;&gt;dialectal Arabic to English machine translation system&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Machine Translation licensed to &lt;a href=&#34;http://www.kanerai.com&#34; target=&#34;_blank&#34;&gt;KanariAI&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Speech Translation System won the best Innovation award at @&lt;a href=&#34;https://www.qf-arc.org/en-us/ARC-18&#34; target=&#34;_blank&#34;&gt;ARC&amp;rsquo;18&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;best-innovation-award-arc-18-https-www-qf-arc-org-en-us-arc-18-media-coverage-http-www-gulf-times-com-story-585737-sheikha-moza-honours-qf-arc-18-award-winners&#34;&gt;Best Innovation Award @&lt;a href=&#34;https://www.qf-arc.org/en-us/ARC-18&#34; target=&#34;_blank&#34;&gt;ARC&amp;rsquo;18&lt;/a&gt;, &lt;a href=&#34;http://www.gulf-times.com/story/585737/Sheikha-Moza-honours-QF-ARC-18-award-winners&#34; target=&#34;_blank&#34;&gt;media coverage&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://st.qcri.org/demos/livetranslation/&#34; target=&#34;_blank&#34;&gt;Live Speech Translation&lt;/a&gt; won the best Innovation award at @&lt;a href=&#34;https://www.qf-arc.org/en-us/ARC-18&#34; target=&#34;_blank&#34;&gt;ARC&amp;rsquo;18&lt;/a&gt;, see &lt;a href=&#34;http://www.gulf-times.com/story/585737/Sheikha-Moza-honours-QF-ARC-18-award-winners&#34; target=&#34;_blank&#34;&gt;media coverage&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;I worked on machine translation.&lt;/p&gt;
+&lt;p&gt;I have worked on both statistical and neural machine translation, involving several language pairs such as English, German, Russian, Arabic, Hebrew, etc. I have been interested in improving the translation of resource-poor languages and morphologically-rich languages. Additionally, I worked on domain adaptation and the handling of unknown words. My research work has been published in top tier venues such as ACL, NAACL, EMNLP, etc.&lt;/p&gt;
 
-&lt;hr /&gt;
+&lt;p&gt;In addition to research, I have expertise in building industry-grade and customized machine translation systems. As of July 2020, &lt;a href=&#34;https://mt.qcri.org/api/&#34; target=&#34;_blank&#34;&gt;our system&lt;/a&gt; has translated 950 million tokens. The system has been used by Aljazeera, BBC, and DW, and is deployed as part of the H2020 SUMMA project.&lt;/p&gt;
 </description>
     </item>
     
@@ -229,7 +272,90 @@
 &lt;li&gt;Summarizing Research on Interpreting Machine Translation Models, University of Sheffield, UK (Mar 2020)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1N2mwnoIhzx7RLPQDmkX2W_J6GDPElHHHYYI7U3mXxBo/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Efficient Transfer Learning of Pretrained Model&lt;/a&gt;, 7th International Conference on Language and Technology, Pakistan (February 2020)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1UL-p4Cj2Sr2DaFguFlNd17MmkDsRHxT2lObt_l8tlFA/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Analyzing Individual Neurons in Deep NLP Models&lt;/a&gt; at Google, Facebook, Amazon, Salesforce and Bosch, US (April 2019)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/12ETd8Ox_xseuD9es2h45DguRJDiJ2qByWkG67RM2rMs/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Hidden Linguistics in Deep NLP Models&lt;/a&gt;, Symposium on Natural Language Processing, University of Moratuwa, Sri Lanka (March 2019)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/12ETd8Ox_xseuD9es2h45DguRJDiJ2qByWkG67RM2rMs/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Hidden Linguistics in Deep NLP Models&lt;/a&gt;, Symposium on Natural Language Processing, University of Moratuwa, Sri Lanka (March 2019)
+&amp;mdash;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>//localhost:1313/pages/bio/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/pages/bio/</guid>
+      <description>&lt;p&gt;My name is Hassan Sajjad. I am an NLP researcher, consultant and coach blended with entrepreneurial interests.&lt;/p&gt;
+
+&lt;p&gt;Currently, I am working as a research scientist in &lt;a href=&#34;http://qcri.com/our-research/arabic-language-technologies&#34; target=&#34;_blank&#34;&gt;Arabic Language Technologies group&lt;/a&gt; at &lt;a href=&#34;http://qcri.com/&#34; target=&#34;_blank&#34;&gt;Qatar Computing Research Institute&lt;/a&gt;, Qatar. I manage applied machine learning team that mainly work on interpretation of deep NLP models, machine translation and transfer learning.&lt;/p&gt;
+
+&lt;p&gt;Following is a summary of my areas of interest:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Research Interests&lt;/strong&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Applied deep learning and machine learning, unsupervised and semi-supervised learning methods, interpretability and manipulation of neural models, multi-task learning, transfer learning&lt;/li&gt;
+&lt;li&gt;Natural language processing, statistical and neural machine translation, transliteration, domain adaptation, NLP for resource poor languages, and user-generated content processing and analysis&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Application Interests&lt;/strong&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Building large scale practical systems, issues related to deployment of models, problem solving from the perspective of end user, machine translation competitions&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Coaching Interests&lt;/strong&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Deep learning from scratch, explanation of models by developing intuition from real world examples, making understanding theory easy with animations, practical insight of deep learning models&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Entrepreneurial Interests&lt;/strong&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Lean startup, technology transfer, business development, customer validation&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Coming back to my bio, &lt;strong&gt;other than research work at QCRI&lt;/strong&gt; I manage applied machine learning group at QCRI, lead deployment and commercialization efforts of QCRI&amp;rsquo;s machine translation technology, managed Arabic machine translation part of the European Project on media monitoring, &lt;a href=&#34;http://summa-project.eu/&#34; target=&#34;_blank&#34;&gt;SUMMA&lt;/a&gt; and the collaboration with &lt;a href=&#34;http://web.mit.edu/&#34; target=&#34;_blank&#34;&gt;MIT&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Before coming to QCRI&lt;/strong&gt;, I graduated from University of Stuttgart in Fall 2012 under the supervision of &lt;a href=&#34;http://www.cis.uni-muenchen.de/schuetze/&#34; target=&#34;_blank&#34;&gt;Prof. Dr. Hinrich Schütze&lt;/a&gt;. There I closely worked with &lt;a href=&#34;http://www.cis.uni-muenchen.de/~fraser/&#34; target=&#34;_blank&#34;&gt;Alex Fraser&lt;/a&gt;, &lt;a href=&#34;http://www.cis.uni-muenchen.de/~schmid/&#34; target=&#34;_blank&#34;&gt;Helmut Schmid&lt;/a&gt; and &lt;a href=&#34;http://alt.qcri.org/~ndurrani/&#34; target=&#34;_blank&#34;&gt;Nadir Durrani&lt;/a&gt;. In my PhD, I worked on part-of-speech tagging, statistical machine translation, and unsupervised models for transliteration mining. I also worked at &lt;a href=&#34;https://www.microsoft.com/en-us/research/&#34; target=&#34;_blank&#34;&gt;Microsoft Research&lt;/a&gt; as an intern where I worked on query expansion for natural language question generation. Before starting PhD, I did &lt;strong&gt;bachelors and masters&lt;/strong&gt; in Computer Science from &lt;a href=&#34;http://www.nu.edu.pk/&#34; target=&#34;_blank&#34;&gt;National University of Computer and Emerging Sciences&lt;/a&gt;, Pakistan. In my master thesis, I worked on Part of Speech tagging of Urdu language under the supervision of &lt;a href=&#34;http://www.cle.org.pk/information/people/drsarmadhussain.html&#34; target=&#34;_blank&#34;&gt;Dr. Sarmad Hussain&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>//localhost:1313/pages/research/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/pages/research/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;I worked on several NLP problems in general. However, the two dominating areas where I worked the most are; machine translation and interpretation of deep NLP models. I have summarized them here: &lt;a href=&#34;../mt&#34;&gt;Machine Translation&lt;/a&gt; and &lt;a href=&#34;../interpretation&#34;&gt;Interpretation&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In the following, I provide a non-exhaustive summary of my areas of interest:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Research Interests&lt;/strong&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Applied deep learning and machine learning, unsupervised and semi-supervised learning methods, interpretability and manipulation of neural models, multi-task learning, transfer learning, representation learning, efficient modeling&lt;/li&gt;
+&lt;li&gt;Natural language processing, statistical and neural machine translation, transliteration, domain adaptation, NLP for resource poor languages, and social media content processing and analysis&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Application Interests&lt;/strong&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Building large scale practical systems, issues related to deployment of models, problem solving from the perspective of end user, machine translation competitions&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Coaching Interests&lt;/strong&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Deep learning from scratch, explanation of models by developing intuition from real world examples, making understanding theory easy with animations, practical insight of deep learning models&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Entrepreneurial Interests&lt;/strong&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Lean startup, technology transfer, business development, customer validation&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -259,12 +385,11 @@
 
 &lt;h3 id=&#34;from-theory-to-practice-deep-learning-for-natural-language-processing-hahahugoshortcode-s0-hbhb&#34;&gt;&lt;a href=&#34;//localhost:1313/pages/dl4nlp/&#34; target=&#34;_blank&#34;&gt;From Theory to Practice: Deep Learning for Natural Language Processing&lt;/a&gt;&lt;/h3&gt;
 
-&lt;p&gt;A 15 hours crash course on deep learning for NLP with practical exercises in Keras. The lecture series is conducted at the department of Computer Science and Applied Cognitive Science of the &lt;a href=&#34;https://www.uni-due.de/en/&#34; target=&#34;_blank&#34;&gt;University of Duisburg-Essen&lt;/a&gt;. Here is the course material including slides, python notebooks, etc. &lt;a href=&#34;//localhost:1313/pages/dl4nlp/&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A 15 hours crash course on deep learning for NLP with practical exercises in Keras. The lecture series is conducted at the department of Computer Science and Applied Cognitive Science of the &lt;a href=&#34;https://www.uni-due.de/en/&#34; target=&#34;_blank&#34;&gt;University of Duisburg-Essen&lt;/a&gt;. Here is the course material including slides, python notebooks, etc. &lt;a href=&#34;../dl4nlp&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;deep-learning-for-machine-translation-hahahugoshortcode-s2-hbhb&#34;&gt;&lt;a href=&#34;//localhost:1313/pages/dl4mt/&#34; target=&#34;_blank&#34;&gt;Deep Learning for Machine Translation&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;deep-learning-for-machine-translation-hahahugoshortcode-s1-hbhb&#34;&gt;&lt;a href=&#34;//localhost:1313/pages/dl4mt/&#34; target=&#34;_blank&#34;&gt;Deep Learning for Machine Translation&lt;/a&gt;&lt;/h3&gt;
 
-&lt;p&gt;I with &lt;a href=&#34;https://fdalvi.github.io&#34; target=&#34;_blank&#34;&gt;Fahim Dalvi&lt;/a&gt; delivered a 15 hours intensive course on deep learning for machine translation in September 2017 at &lt;a href=&#34;http://cl-fallschool2017.phil.hhu.de/&#34; target=&#34;_blank&#34;&gt;DGfS-CL Fall School&lt;/a&gt; in &lt;a href=&#34;https://www.uni-duesseldorf.de/home/startseite.html&#34; target=&#34;_blank&#34;&gt;Heinrich Heine Universität Düsseldorf&lt;/a&gt;. We covered neural networks, language models, recurrent neural network and how they fit in to become a neural machine translation.
-&lt;a href=&#34;//localhost:1313/pages/dl4mt/&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I with &lt;a href=&#34;https://fdalvi.github.io&#34; target=&#34;_blank&#34;&gt;Fahim Dalvi&lt;/a&gt; delivered a 15 hours intensive course on deep learning for machine translation in September 2017 at &lt;a href=&#34;http://cl-fallschool2017.phil.hhu.de/&#34; target=&#34;_blank&#34;&gt;DGfS-CL Fall School&lt;/a&gt; in &lt;a href=&#34;https://www.uni-duesseldorf.de/home/startseite.html&#34; target=&#34;_blank&#34;&gt;Heinrich Heine Universität Düsseldorf&lt;/a&gt;. We covered neural networks, language models, recurrent neural network and how they fit in to become a neural machine translation. &lt;a href=&#34;../dl4mt&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 </description>
