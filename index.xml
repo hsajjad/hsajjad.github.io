@@ -269,28 +269,6 @@
     </item>
     
     <item>
-      <title>Recent Talks</title>
-      <link>//localhost:1313/pages/talks/</link>
-      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/pages/talks/</guid>
-      <description>&lt;hr /&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1KFNUQvK3NYClYkFNnU775F5BC3Irglw7Pe81Xf_-nJY/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Interpreting Deep NLP Models&lt;/a&gt;, University of Edinburgh, UK (April 2020)&lt;/li&gt;
-&lt;li&gt;Summarizing Research on Interpreting Machine Translation Models, University of Sheffield, UK (Mar 2020)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1N2mwnoIhzx7RLPQDmkX2W_J6GDPElHHHYYI7U3mXxBo/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Efficient Transfer Learning of Pretrained Model&lt;/a&gt;, 7th International Conference on Language and Technology, Pakistan (February 2020)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1UL-p4Cj2Sr2DaFguFlNd17MmkDsRHxT2lObt_l8tlFA/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Analyzing Individual Neurons in Deep NLP Models&lt;/a&gt; at Google, Facebook, Amazon, Salesforce and Bosch, US (April 2019)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/12ETd8Ox_xseuD9es2h45DguRJDiJ2qByWkG67RM2rMs/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Hidden Linguistics in Deep NLP Models&lt;/a&gt;, Symposium on Natural Language Processing, University of Moratuwa, Sri Lanka (March 2019)
-&amp;mdash;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Research</title>
       <link>//localhost:1313/pages/bio/</link>
       <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
@@ -336,9 +314,69 @@
       <link>//localhost:1313/pages/research/</link>
       <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/pages/research/</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;I worked on several NLP problems in general. However, the two dominating areas where I worked the most are; machine translation and interpretation of deep NLP models. I have summarized them here: &lt;a href=&#34;../mt&#34;&gt;Machine Translation&lt;/a&gt; and &lt;a href=&#34;../interpretation&#34;&gt;Interpretation&lt;/a&gt;.&lt;/p&gt;
+      <description>
+
+&lt;p&gt;I worked on several NLP problems in general. However, the two dominating areas where I worked the most are; machine translation and interpretation of deep NLP models. I have summarized them here: &lt;a href=&#34;#machine-translation&#34;&gt;Machine Translation&lt;/a&gt; and &lt;a href=&#34;#interpretation&#34;&gt;Interpretation&lt;/a&gt;. Later, I summarized my &lt;a href=&#34;#research-interests&#34;&gt;research interests&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;machine-translation&#34;&gt;Machine Translation&lt;/h3&gt;
+
+&lt;h4 id=&#34;highlights&#34;&gt;Highlights&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://st.qcri.org/demos/livetranslation/&#34; target=&#34;_blank&#34;&gt;Live Speech Translation&lt;/a&gt; System&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://mt.qcri.org/api/&#34; target=&#34;_blank&#34;&gt;Machine Translation&lt;/a&gt; System&lt;/p&gt;
+
+&lt;p&gt;First industry scale &lt;a href=&#34;https://mt.qcri.org/api/&#34; target=&#34;_blank&#34;&gt;dialectal Arabic to English machine translation system&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Machine Translation licensed to &lt;a href=&#34;http://www.kanerai.com&#34; target=&#34;_blank&#34;&gt;KanariAI&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://st.qcri.org/demos/livetranslation/&#34; target=&#34;_blank&#34;&gt;Live Speech Translation&lt;/a&gt; won the best Innovation award at @&lt;a href=&#34;https://www.qf-arc.org/en-us/ARC-18&#34; target=&#34;_blank&#34;&gt;ARC&amp;rsquo;18&lt;/a&gt;, see &lt;a href=&#34;http://www.gulf-times.com/story/585737/Sheikha-Moza-honours-QF-ARC-18-award-winners&#34; target=&#34;_blank&#34;&gt;media coverage&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;p&gt;I have worked on both statistical and neural machine translation, involving several language pairs such as English, German, Russian, Arabic, Hebrew, etc. I have been interested in improving the translation of resource-poor languages and morphologically-rich languages. Additionally, I worked on domain adaptation and the handling of unknown words. My research work has been published in top tier venues such as ACL, NAACL, EMNLP, etc.&lt;/p&gt;
+
+&lt;p&gt;In addition to research, I have expertise in building industry-grade and customized machine translation systems. As of July 2020, &lt;a href=&#34;https://mt.qcri.org/api/&#34; target=&#34;_blank&#34;&gt;our system&lt;/a&gt; has translated 950 million tokens. The system has been used by Aljazeera, BBC, and DW, and is deployed as part of the H2020 SUMMA project.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;#top&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;interpretation&#34;&gt;Interpretation&lt;/h3&gt;
+
+&lt;h4 id=&#34;highlights-1&#34;&gt;Highlights&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Media coverage:&lt;/strong&gt; Our work on NeuroX - Analyzing and Controlling Individual Neurons is featured at &lt;a href=&#34;https://news.mit.edu/2019/neural-networks-nlp-microscope-0201&#34; target=&#34;_blank&#34;&gt;MIT news&lt;/a&gt; and several AI blogs.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Media coverage:&lt;/strong&gt; Our work on understanding Neural Machine Translation has made it to &lt;a href=&#34;http://news.mit.edu/2017/reading-neural-network-mind-1211&#34; target=&#34;_blank&#34;&gt;MIT news&lt;/a&gt; and been picked by several channels like &lt;a href=&#34;https://scienceblog.com/498095/reading-neural-networks-mind/&#34; target=&#34;_blank&#34;&gt;ScienceBlog&lt;/a&gt;, &lt;a href=&#34;https://www.sciencedaily.com/releases/2017/12/171211120131.htm&#34; target=&#34;_blank&#34;&gt;ScienceDaily&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I am interested in understanding the learning dynamics of deep neural network models. I have worked on analyzing whole vector representations and individual neurons in the network and answer questions such as:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;How much linguistic knowledge is learned?&lt;/li&gt;
+&lt;li&gt;How focused and distributed is the information?&lt;/li&gt;
+&lt;li&gt;What is the role of individual neurons?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I showed that the interpretation analysis enables us to:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;control bias in our models by manipulating individual neurons&lt;/li&gt;
+&lt;li&gt;reduce the model size and speed up inference time by removing irrelevant and redundant neurons&lt;/li&gt;
+&lt;li&gt;improve model performance by injecting linguistic information in a multitask setting&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The interpretation work is mainly done in collaboration with CSAIL MIT. The work has been published at prestigious venues, such as ICLR, AAAI, ACL, etc., and it has been covered by several technology blogs a couple of times.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;#top&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h3&gt;
 
 &lt;p&gt;In the following, I provide a non-exhaustive summary of my areas of interest:&lt;/p&gt;
 
@@ -346,7 +384,7 @@
 &lt;li&gt;&lt;strong&gt;Research Interests&lt;/strong&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Applied deep learning and machine learning, unsupervised and semi-supervised learning methods, interpretability and manipulation of neural models, multi-task learning, transfer learning, representation learning, efficient modeling&lt;/li&gt;
+&lt;li&gt;Applied deep learning and machine learning, unsupervised and semi-supervised learning methods, interpretability and manipulation of neural models, generalization, multi-task learning, transfer learning, representation learning, efficient modeling&lt;/li&gt;
 &lt;li&gt;Natural language processing, statistical and neural machine translation, transliteration, domain adaptation, NLP for resource poor languages, and social media content processing and analysis&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Application Interests&lt;/strong&gt;
@@ -365,6 +403,45 @@
 &lt;li&gt;Lean startup, technology transfer, business development, customer validation&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;#top&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>//localhost:1313/pages/talks/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/pages/talks/</guid>
+      <description>&lt;hr /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1KFNUQvK3NYClYkFNnU775F5BC3Irglw7Pe81Xf_-nJY/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Interpreting Deep NLP Models&lt;/a&gt;, University of Edinburgh, UK (April 2020)&lt;/li&gt;
+&lt;li&gt;Summarizing Research on Interpreting Machine Translation Models, University of Sheffield, UK (Mar 2020)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1N2mwnoIhzx7RLPQDmkX2W_J6GDPElHHHYYI7U3mXxBo/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Efficient Transfer Learning of Pretrained Model&lt;/a&gt;, 7th International Conference on Language and Technology, Pakistan (February 2020)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1UL-p4Cj2Sr2DaFguFlNd17MmkDsRHxT2lObt_l8tlFA/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Analyzing Individual Neurons in Deep NLP Models&lt;/a&gt; at Google, Facebook, Amazon, Salesforce and Bosch, US (April 2019)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/12ETd8Ox_xseuD9es2h45DguRJDiJ2qByWkG67RM2rMs/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Hidden Linguistics in Deep NLP Models&lt;/a&gt;, Symposium on Natural Language Processing, University of Moratuwa, Sri Lanka (March 2019)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1X3zEdgOo7TlwxkssI4o1TmUO2txqdFJ5obycIM_D_qE/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Machine Translation in the Real World&lt;/a&gt;, Kings College London, UK (March 2019)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1Ia2fdSZsODKJqUvCZF83hAm8POgo9hbX2xoSPmlmZ3k/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Analyzing Individual Neurons in Deep NLP Models&lt;/a&gt;, University of Melbourne, Melbourne, Australia (Feb. 2019)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1Ia2fdSZsODKJqUvCZF83hAm8POgo9hbX2xoSPmlmZ3k/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Analyzing Individual Neurons in Deep NLP Models&lt;/a&gt;, Thomson Reuters, Toronto, Canada (Feb. 2019)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1310_sysMKfowALnAT-8yuK_ADy6LM61Xzp_L15WiXPM/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Research Findings&lt;/a&gt;, NRC, Ottawa, Canada (Feb. 2018)&lt;/li&gt;
+&lt;li&gt;What do Neural Machine Translation Models Learn about Morphology, Macquarie University, Sydney, Australia (Apr. 2017)&lt;/li&gt;
+&lt;li&gt;What do Neural Machine Translation Models Learn about Morphology, University of Melbourne, Melbourne, Australia (Apr. 2017)&lt;/li&gt;
+&lt;li&gt;From Phrase-based to Neural Machine Translation. Workshop on Semitic Machine Translation, AMTA, Austin, US (Nov. 2016) (Keynote)&lt;/li&gt;
+&lt;li&gt;Deep Learning – Neural Machine Translation. Sixth Conference on Language and Technology (CLT16), Lahore, Pakistan (Nov. 2016) (Keynote)&lt;/li&gt;
+&lt;li&gt;Content Model Applications for Promoting Local Language Content. Workshop on Facilitating Local Language Content Access and Generation using Human Language Technologies, UET, Lahore, Pakistan (Aug. 2015) (Keynote)&lt;/li&gt;
+&lt;li&gt;Statistical Machine Translation for Community Service: Translating Educational Content. Fifth Conference on Language and Technology (CLT14), Karachi, Pakistan (Nov. 2014) (Keynote)&lt;/li&gt;
+&lt;li&gt;Separating Transliterations from Translations in Transliteration Mining Context. FBK, Trento, Italy (Oct. 2012)&lt;/li&gt;
+&lt;li&gt;Unsupervised Transliteration Mining. School of Science and Engineering, Lahore University of Management and Sciences, Pakistan (Apr. 2012)&lt;/li&gt;
+&lt;li&gt;Unsupervised Transliteration Mining, Punjab University College of Information Technology, Pak- istan (Apr. 2012)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
 </description>
     </item>
     
