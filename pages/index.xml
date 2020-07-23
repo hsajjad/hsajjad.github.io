@@ -261,28 +261,6 @@
     </item>
     
     <item>
-      <title>Recent Talks</title>
-      <link>//localhost:1313/pages/talks/</link>
-      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/pages/talks/</guid>
-      <description>&lt;hr /&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1KFNUQvK3NYClYkFNnU775F5BC3Irglw7Pe81Xf_-nJY/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Interpreting Deep NLP Models&lt;/a&gt;, University of Edinburgh, UK (April 2020)&lt;/li&gt;
-&lt;li&gt;Summarizing Research on Interpreting Machine Translation Models, University of Sheffield, UK (Mar 2020)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1N2mwnoIhzx7RLPQDmkX2W_J6GDPElHHHYYI7U3mXxBo/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Efficient Transfer Learning of Pretrained Model&lt;/a&gt;, 7th International Conference on Language and Technology, Pakistan (February 2020)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1UL-p4Cj2Sr2DaFguFlNd17MmkDsRHxT2lObt_l8tlFA/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Analyzing Individual Neurons in Deep NLP Models&lt;/a&gt; at Google, Facebook, Amazon, Salesforce and Bosch, US (April 2019)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/12ETd8Ox_xseuD9es2h45DguRJDiJ2qByWkG67RM2rMs/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Hidden Linguistics in Deep NLP Models&lt;/a&gt;, Symposium on Natural Language Processing, University of Moratuwa, Sri Lanka (March 2019)
-&amp;mdash;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Research</title>
       <link>//localhost:1313/pages/bio/</link>
       <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
@@ -419,6 +397,43 @@
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;a href=&#34;#top&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>//localhost:1313/pages/talks/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/pages/talks/</guid>
+      <description>&lt;hr /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1KFNUQvK3NYClYkFNnU775F5BC3Irglw7Pe81Xf_-nJY/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Interpreting Deep NLP Models&lt;/a&gt;, University of Edinburgh, UK (April 2020)&lt;/li&gt;
+&lt;li&gt;Summarizing Research on Interpreting Machine Translation Models, University of Sheffield, UK (Mar 2020)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1N2mwnoIhzx7RLPQDmkX2W_J6GDPElHHHYYI7U3mXxBo/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Efficient Transfer Learning of Pretrained Model&lt;/a&gt;, 7th International Conference on Language and Technology, Pakistan (February 2020)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1UL-p4Cj2Sr2DaFguFlNd17MmkDsRHxT2lObt_l8tlFA/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Analyzing Individual Neurons in Deep NLP Models&lt;/a&gt; at Google, Facebook, Amazon, Salesforce and Bosch, US (April 2019)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/12ETd8Ox_xseuD9es2h45DguRJDiJ2qByWkG67RM2rMs/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Hidden Linguistics in Deep NLP Models&lt;/a&gt;, Symposium on Natural Language Processing, University of Moratuwa, Sri Lanka (March 2019)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1X3zEdgOo7TlwxkssI4o1TmUO2txqdFJ5obycIM_D_qE/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Machine Translation in the Real World&lt;/a&gt;, Kings College London, UK (March 2019)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1Ia2fdSZsODKJqUvCZF83hAm8POgo9hbX2xoSPmlmZ3k/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Analyzing Individual Neurons in Deep NLP Models&lt;/a&gt;, University of Melbourne, Melbourne, Australia (Feb. 2019)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1Ia2fdSZsODKJqUvCZF83hAm8POgo9hbX2xoSPmlmZ3k/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Analyzing Individual Neurons in Deep NLP Models&lt;/a&gt;, Thomson Reuters, Toronto, Canada (Feb. 2019)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1310_sysMKfowALnAT-8yuK_ADy6LM61Xzp_L15WiXPM/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Research Findings&lt;/a&gt;, NRC, Ottawa, Canada (Feb. 2018)&lt;/li&gt;
+&lt;li&gt;What do Neural Machine Translation Models Learn about Morphology, Macquarie University, Sydney, Australia (Apr. 2017)&lt;/li&gt;
+&lt;li&gt;What do Neural Machine Translation Models Learn about Morphology, University of Melbourne, Melbourne, Australia (Apr. 2017)&lt;/li&gt;
+&lt;li&gt;From Phrase-based to Neural Machine Translation. Workshop on Semitic Machine Translation, AMTA, Austin, US (Nov. 2016) (Keynote)&lt;/li&gt;
+&lt;li&gt;Deep Learning – Neural Machine Translation. Sixth Conference on Language and Technology (CLT16), Lahore, Pakistan (Nov. 2016) (Keynote)&lt;/li&gt;
+&lt;li&gt;Content Model Applications for Promoting Local Language Content. Workshop on Facilitating Local Language Content Access and Generation using Human Language Technologies, UET, Lahore, Pakistan (Aug. 2015) (Keynote)&lt;/li&gt;
+&lt;li&gt;Statistical Machine Translation for Community Service: Translating Educational Content. Fifth Conference on Language and Technology (CLT14), Karachi, Pakistan (Nov. 2014) (Keynote)&lt;/li&gt;
+&lt;li&gt;Separating Transliterations from Translations in Transliteration Mining Context. FBK, Trento, Italy (Oct. 2012)&lt;/li&gt;
+&lt;li&gt;Unsupervised Transliteration Mining. School of Science and Engineering, Lahore University of Management and Sciences, Pakistan (Apr. 2012)&lt;/li&gt;
+&lt;li&gt;Unsupervised Transliteration Mining, Punjab University College of Information Technology, Pak- istan (Apr. 2012)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
 </description>
     </item>
     
