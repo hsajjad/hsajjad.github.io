@@ -5,7 +5,7 @@
     <link>//localhost:1313/</link>
       <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <description>Hassan Sajjad</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 05 Jul 2020 00:00:00 +0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0300</lastBuildDate>
     <image>
       <url>//localhost:1313/img/icon-192.png</url>
       <title>Hassan Sajjad</title>
@@ -18,6 +18,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/pages/news/</guid>
       <description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Accepted Tutorial @NAACL 2020:&lt;/strong&gt; Fine-grained Interpretation and Causation Analysis in Deep NLP Models&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Talk:&lt;/strong&gt; Exploiting Redundancy in Pre-trained Models for Efficient Transfer Learning. National Research Council, Canada&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Talk:&lt;/strong&gt; Hidden Linguistics in Deep NLP Models. Heinrich-Heine Universität Düsseldorf, Germany&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Accepted @COLING 2020:&lt;/strong&gt; Two long papers, 1) Dialect Arabic machine translation, 2) location mention recognition&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Accepted @EMNLP 2020:&lt;/strong&gt; Two long papers on interpretabiliy are accepted. Details coming soon!&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Media Coverage:&lt;/strong&gt; One billion tokens translated. &lt;a href=&#34;https://www.gulf-times.com/story/671869/QCRI-s-Shaheen-achieves-milestone-with-over-1bn-words-translated&#34; target=&#34;_blank&#34;&gt;Gulf times&lt;/a&gt;, &lt;a href=&#34;https://www.qatar-tribune.com/news-details/id/196901/qcri-s-shaheen-celebrates-milestone-with-over-1-billion-translated-words&#34; target=&#34;_blank&#34;&gt;Qatar tribune&lt;/a&gt; and several TV/radio channels such as Qatar radio and Qatar TV&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Released:&lt;/strong&gt; First-ever &lt;a href=&#34;http://mt.qcri.org/api&#34; target=&#34;_blank&#34;&gt;Dialectal Arabic to English Machine Translation System&lt;/a&gt; covering a large variety of Arabic dialects&lt;/li&gt;
@@ -47,6 +51,46 @@
 &lt;li&gt;Read my &lt;a href=&#34;https://www.linkedin.com/pulse/what-do-neural-machine-translation-models-learn-hassan-sajjad/&#34; target=&#34;_blank&#34;&gt;post&lt;/a&gt; about What does Neural Machine Translation Learn about Morphology&lt;/li&gt;
 &lt;/ul&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>AraBench: Benchmarking Dialectal Arabic-English Machine Translation</title>
+      <link>//localhost:1313/publication/sajjad-etal-2020-arabench/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/sajjad-etal-2020-arabench/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Are We Ready for this Disaster? Towards Location Mention Recognition from Crisis Tweets</title>
+      <link>//localhost:1313/publication/suwaileh-etal-2020-ready/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/suwaileh-etal-2020-ready/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing Individual Neurons in Pre-trained Language Models</title>
+      <link>//localhost:1313/publication/durrani-individual-emnlp-20/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/durrani-individual-emnlp-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing Redundancy in Pretrained Transformer Models</title>
+      <link>//localhost:1313/publication/dalvi-featureselection-emnlp-20/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/dalvi-featureselection-emnlp-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Findings of the WMT 2020 Shared Task on Machine Translation Robustness.</title>
+      <link>//localhost:1313/publication/mtrobustness-2020/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/mtrobustness-2020/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -527,6 +571,14 @@
       <link>//localhost:1313/publication/diacritic-2019-emnlp/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0300</pubDate>
       <guid>//localhost:1313/publication/diacritic-2019-emnlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Findings of the WMT 2019 Shared Task on Machine Translation Robustness.</title>
+      <link>//localhost:1313/publication/mtrobustness-2019/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/mtrobustness-2019/</guid>
       <description></description>
     </item>
     

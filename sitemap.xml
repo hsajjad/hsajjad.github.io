@@ -8,27 +8,102 @@
   
   <url>
     <loc>//localhost:1313/publication_types/1/</loc>
-    <lastmod>2020-07-05T00:00:00+03:00</lastmod>
+    <lastmod>2020-12-01T00:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/authors/ahmed-abdelali/</loc>
+    <lastmod>2020-12-01T00:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/publication/sajjad-etal-2020-arabench/</loc>
+    <lastmod>2020-12-01T00:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/publication/suwaileh-etal-2020-ready/</loc>
+    <lastmod>2020-12-01T00:00:00+03:00</lastmod>
   </url>
   
   <url>
     <loc>//localhost:1313/authors/</loc>
-    <lastmod>2020-07-05T00:00:00+03:00</lastmod>
+    <lastmod>2020-12-01T00:00:00+03:00</lastmod>
   </url>
   
   <url>
     <loc>//localhost:1313/authors/fahim-dalvi/</loc>
-    <lastmod>2020-07-05T00:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//localhost:1313/authors/hassan-sajjad/</loc>
-    <lastmod>2020-07-05T00:00:00+03:00</lastmod>
+    <lastmod>2020-12-01T00:00:00+03:00</lastmod>
   </url>
   
   <url>
     <loc>//localhost:1313/</loc>
-    <lastmod>2020-07-05T00:00:00+03:00</lastmod>
+    <lastmod>2020-12-01T00:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/authors/hassan-sajjad/</loc>
+    <lastmod>2020-12-01T00:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/authors/muhammad-imran/</loc>
+    <lastmod>2020-12-01T00:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/authors/nadir-durrani/</loc>
+    <lastmod>2020-12-01T00:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/publication_types/</loc>
+    <lastmod>2020-12-01T00:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/authors/reem-suwaileh/</loc>
+    <lastmod>2020-12-01T00:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/authors/tamer-elsayed/</loc>
+    <lastmod>2020-12-01T00:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/publication_types/9/</loc>
+    <lastmod>2020-11-01T00:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/publication/durrani-individual-emnlp-20/</loc>
+    <lastmod>2020-11-01T00:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/publication/dalvi-featureselection-emnlp-20/</loc>
+    <lastmod>2020-11-01T00:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/publication/mtrobustness-2020/</loc>
+    <lastmod>2020-11-01T00:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/publication/</loc>
+    <lastmod>2020-11-01T00:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/authors/yonatan-belinkov/</loc>
+    <lastmod>2020-11-01T00:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/authors/zhenhai-li-juan-pino-vishrav-chudhary-francisco-guzman-paul-michel-graham-neubig-hassan-sajjad-nadir-durrani-yonatan-belinkov-philipp-koehn-xian-li-lucia-specia/</loc>
+    <lastmod>2020-11-01T00:00:00+03:00</lastmod>
   </url>
   
   <url>
@@ -42,27 +117,7 @@
   </url>
   
   <url>
-    <loc>//localhost:1313/authors/nadir-durrani/</loc>
-    <lastmod>2020-07-05T00:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//localhost:1313/publication_types/</loc>
-    <lastmod>2020-07-05T00:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//localhost:1313/publication/</loc>
-    <lastmod>2020-07-05T00:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>//localhost:1313/publication/wu-similarity-acl-20/</loc>
-    <lastmod>2020-07-05T00:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//localhost:1313/authors/yonatan-belinkov/</loc>
     <lastmod>2020-07-05T00:00:00+03:00</lastmod>
   </url>
   
@@ -222,11 +277,6 @@
   </url>
   
   <url>
-    <loc>//localhost:1313/authors/ahmed-abdelali/</loc>
-    <lastmod>2019-11-01T00:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>//localhost:1313/authors/hamdy-mubarak/</loc>
     <lastmod>2019-11-01T00:00:00+03:00</lastmod>
   </url>
@@ -244,6 +294,16 @@
   <url>
     <loc>//localhost:1313/authors/younes-samih/</loc>
     <lastmod>2019-11-01T00:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/publication/mtrobustness-2019/</loc>
+    <lastmod>2019-08-01T00:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/authors/paul-michel-antonios-anastasopoulos-yonatan-belinkov-nadir-durrani-orhan-firat-philipp-koehn-graham-neubig-juan-pino-xian-li/</loc>
+    <lastmod>2019-08-01T00:00:00+03:00</lastmod>
   </url>
   
   <url>
@@ -297,11 +357,6 @@
   </url>
   
   <url>
-    <loc>//localhost:1313/publication_types/9/</loc>
-    <lastmod>2018-05-01T00:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>//localhost:1313/publication/bouamor-bucc-18/</loc>
     <lastmod>2018-05-01T00:00:00+03:00</lastmod>
   </url>
@@ -348,11 +403,6 @@
   
   <url>
     <loc>//localhost:1313/authors/kamla-al-mannai/</loc>
-    <lastmod>2017-05-01T00:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//localhost:1313/authors/muhammad-imran/</loc>
     <lastmod>2017-05-01T00:00:00+03:00</lastmod>
   </url>
   

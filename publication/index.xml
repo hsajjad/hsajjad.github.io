@@ -5,12 +5,52 @@
     <link>//localhost:1313/publication/</link>
       <atom:link href="//localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 05 Jul 2020 00:00:00 +0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0300</lastBuildDate>
     <image>
       <url>//localhost:1313/img/icon-192.png</url>
       <title>Publications</title>
       <link>//localhost:1313/publication/</link>
     </image>
+    
+    <item>
+      <title>AraBench: Benchmarking Dialectal Arabic-English Machine Translation</title>
+      <link>//localhost:1313/publication/sajjad-etal-2020-arabench/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/sajjad-etal-2020-arabench/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Are We Ready for this Disaster? Towards Location Mention Recognition from Crisis Tweets</title>
+      <link>//localhost:1313/publication/suwaileh-etal-2020-ready/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/suwaileh-etal-2020-ready/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing Individual Neurons in Pre-trained Language Models</title>
+      <link>//localhost:1313/publication/durrani-individual-emnlp-20/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/durrani-individual-emnlp-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing Redundancy in Pretrained Transformer Models</title>
+      <link>//localhost:1313/publication/dalvi-featureselection-emnlp-20/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/dalvi-featureselection-emnlp-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Findings of the WMT 2020 Shared Task on Machine Translation Robustness.</title>
+      <link>//localhost:1313/publication/mtrobustness-2020/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/mtrobustness-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Similarity Analysis of Contextual Word Representation Models</title>
@@ -65,6 +105,14 @@
       <link>//localhost:1313/publication/diacritic-2019-emnlp/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0300</pubDate>
       <guid>//localhost:1313/publication/diacritic-2019-emnlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Findings of the WMT 2019 Shared Task on Machine Translation Robustness.</title>
+      <link>//localhost:1313/publication/mtrobustness-2019/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/mtrobustness-2019/</guid>
       <description></description>
     </item>
     

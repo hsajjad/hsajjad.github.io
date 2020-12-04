@@ -5,12 +5,28 @@
     <link>//localhost:1313/authors/nadir-durrani/</link>
       <atom:link href="//localhost:1313/authors/nadir-durrani/index.xml" rel="self" type="application/rss+xml" />
     <description>Nadir Durrani</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 05 Jul 2020 00:00:00 +0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0300</lastBuildDate>
     <image>
       <url>//localhost:1313/img/icon-192.png</url>
       <title>Nadir Durrani</title>
       <link>//localhost:1313/authors/nadir-durrani/</link>
     </image>
+    
+    <item>
+      <title>Analyzing Individual Neurons in Pre-trained Language Models</title>
+      <link>//localhost:1313/publication/durrani-individual-emnlp-20/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/durrani-individual-emnlp-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing Redundancy in Pretrained Transformer Models</title>
+      <link>//localhost:1313/publication/dalvi-featureselection-emnlp-20/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/dalvi-featureselection-emnlp-20/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Similarity Analysis of Contextual Word Representation Models</title>
