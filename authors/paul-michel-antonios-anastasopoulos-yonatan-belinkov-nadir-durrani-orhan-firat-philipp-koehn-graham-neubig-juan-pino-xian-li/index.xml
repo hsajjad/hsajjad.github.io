@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paul Michel, Antonios Anastasopoulos, Yonatan Belinkov, Nadir Durrani, Orhan Firat, Philipp Koehn, Graham Neubig, Juan Pino, Xian Li | Hassan Sajjad</title>
+    <link>//localhost:1313/authors/paul-michel-antonios-anastasopoulos-yonatan-belinkov-nadir-durrani-orhan-firat-philipp-koehn-graham-neubig-juan-pino-xian-li/</link>
+      <atom:link href="//localhost:1313/authors/paul-michel-antonios-anastasopoulos-yonatan-belinkov-nadir-durrani-orhan-firat-philipp-koehn-graham-neubig-juan-pino-xian-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Paul Michel, Antonios Anastasopoulos, Yonatan Belinkov, Nadir Durrani, Orhan Firat, Philipp Koehn, Graham Neubig, Juan Pino, Xian Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0300</lastBuildDate>
+    <image>
+      <url>//localhost:1313/img/icon-192.png</url>
+      <title>Paul Michel, Antonios Anastasopoulos, Yonatan Belinkov, Nadir Durrani, Orhan Firat, Philipp Koehn, Graham Neubig, Juan Pino, Xian Li</title>
+      <link>//localhost:1313/authors/paul-michel-antonios-anastasopoulos-yonatan-belinkov-nadir-durrani-orhan-firat-philipp-koehn-graham-neubig-juan-pino-xian-li/</link>
+    </image>
+    
+    <item>
+      <title>Findings of the WMT 2019 Shared Task on Machine Translation Robustness.</title>
+      <link>//localhost:1313/publication/mtrobustness-2019/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/mtrobustness-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

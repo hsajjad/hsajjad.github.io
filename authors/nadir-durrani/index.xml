@@ -5,12 +5,20 @@
     <link>//localhost:1313/authors/nadir-durrani/</link>
       <atom:link href="//localhost:1313/authors/nadir-durrani/index.xml" rel="self" type="application/rss+xml" />
     <description>Nadir Durrani</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0300</lastBuildDate>
     <image>
       <url>//localhost:1313/img/icon-192.png</url>
       <title>Nadir Durrani</title>
       <link>//localhost:1313/authors/nadir-durrani/</link>
     </image>
+    
+    <item>
+      <title>AraBench: Benchmarking Dialectal Arabic-English Machine Translation</title>
+      <link>//localhost:1313/publication/sajjad-etal-2020-arabench/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/sajjad-etal-2020-arabench/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Analyzing Individual Neurons in Pre-trained Language Models</title>

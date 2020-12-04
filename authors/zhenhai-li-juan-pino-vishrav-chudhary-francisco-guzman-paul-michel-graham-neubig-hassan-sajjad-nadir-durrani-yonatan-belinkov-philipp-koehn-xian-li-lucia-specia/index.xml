@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhenhai Li, Juan Pino, Vishrav Chudhary, Francisco Guzman, Paul Michel, Graham Neubig, Hassan Sajjad, Nadir Durrani, Yonatan Belinkov, Philipp Koehn, Xian Li Lucia Specia | Hassan Sajjad</title>
+    <link>//localhost:1313/authors/zhenhai-li-juan-pino-vishrav-chudhary-francisco-guzman-paul-michel-graham-neubig-hassan-sajjad-nadir-durrani-yonatan-belinkov-philipp-koehn-xian-li-lucia-specia/</link>
+      <atom:link href="//localhost:1313/authors/zhenhai-li-juan-pino-vishrav-chudhary-francisco-guzman-paul-michel-graham-neubig-hassan-sajjad-nadir-durrani-yonatan-belinkov-philipp-koehn-xian-li-lucia-specia/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhenhai Li, Juan Pino, Vishrav Chudhary, Francisco Guzman, Paul Michel, Graham Neubig, Hassan Sajjad, Nadir Durrani, Yonatan Belinkov, Philipp Koehn, Xian Li Lucia Specia</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0300</lastBuildDate>
+    <image>
+      <url>//localhost:1313/img/icon-192.png</url>
+      <title>Zhenhai Li, Juan Pino, Vishrav Chudhary, Francisco Guzman, Paul Michel, Graham Neubig, Hassan Sajjad, Nadir Durrani, Yonatan Belinkov, Philipp Koehn, Xian Li Lucia Specia</title>
+      <link>//localhost:1313/authors/zhenhai-li-juan-pino-vishrav-chudhary-francisco-guzman-paul-michel-graham-neubig-hassan-sajjad-nadir-durrani-yonatan-belinkov-philipp-koehn-xian-li-lucia-specia/</link>
+    </image>
+    
+    <item>
+      <title>Findings of the WMT 2020 Shared Task on Machine Translation Robustness.</title>
+      <link>//localhost:1313/publication/mtrobustness-2020/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/mtrobustness-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
