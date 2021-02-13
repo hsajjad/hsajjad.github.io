@@ -366,33 +366,9 @@
 
 &lt;hr /&gt;
 
-&lt;h3 id=&#34;machine-translation&#34;&gt;Machine Translation&lt;/h3&gt;
-
-&lt;h4 id=&#34;highlights&#34;&gt;Highlights&lt;/h4&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;https://st.qcri.org/demos/livetranslation/&#34; target=&#34;_blank&#34;&gt;Live Speech Translation&lt;/a&gt; System&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://mt.qcri.org/api/&#34; target=&#34;_blank&#34;&gt;Machine Translation&lt;/a&gt; System&lt;/p&gt;
-
-&lt;p&gt;First industry scale &lt;a href=&#34;https://mt.qcri.org/api/&#34; target=&#34;_blank&#34;&gt;dialectal Arabic to English machine translation system&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Machine Translation licensed to &lt;a href=&#34;http://www.kanerai.com&#34; target=&#34;_blank&#34;&gt;KanariAI&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://st.qcri.org/demos/livetranslation/&#34; target=&#34;_blank&#34;&gt;Live Speech Translation&lt;/a&gt; won the best Innovation award at @&lt;a href=&#34;https://www.qf-arc.org/en-us/ARC-18&#34; target=&#34;_blank&#34;&gt;ARC&amp;rsquo;18&lt;/a&gt;, see &lt;a href=&#34;http://www.gulf-times.com/story/585737/Sheikha-Moza-honours-QF-ARC-18-award-winners&#34; target=&#34;_blank&#34;&gt;media coverage&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;I have worked on both statistical and neural machine translation, involving several language pairs such as English, German, Russian, Arabic, Hebrew, etc. I have been interested in improving the translation of resource-poor languages and morphologically-rich languages. Additionally, I worked on domain adaptation and the handling of unknown words. My research work has been published in top tier venues such as ACL, NAACL, EMNLP, etc.&lt;/p&gt;
-
-&lt;p&gt;In addition to research, I have expertise in building industry-grade and customized machine translation systems. As of July 2020, &lt;a href=&#34;https://mt.qcri.org/api/&#34; target=&#34;_blank&#34;&gt;our system&lt;/a&gt; has translated 950 million tokens. The system has been used by Aljazeera, BBC, and DW, and is deployed as part of the H2020 SUMMA project.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;#top&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
 &lt;h3 id=&#34;interpretation&#34;&gt;Interpretation&lt;/h3&gt;
 
-&lt;h4 id=&#34;highlights-1&#34;&gt;Highlights&lt;/h4&gt;
+&lt;h4 id=&#34;highlights&#34;&gt;Highlights&lt;/h4&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Media coverage:&lt;/strong&gt; Our work on NeuroX - Analyzing and Controlling Individual Neurons is featured at &lt;a href=&#34;https://news.mit.edu/2019/neural-networks-nlp-microscope-0201&#34; target=&#34;_blank&#34;&gt;MIT news&lt;/a&gt; and several AI blogs.&lt;/p&gt;
@@ -400,7 +376,7 @@
 &lt;p&gt;&lt;strong&gt;Media coverage:&lt;/strong&gt; Our work on understanding Neural Machine Translation has made it to &lt;a href=&#34;http://news.mit.edu/2017/reading-neural-network-mind-1211&#34; target=&#34;_blank&#34;&gt;MIT news&lt;/a&gt; and been picked by several channels like &lt;a href=&#34;https://scienceblog.com/498095/reading-neural-networks-mind/&#34; target=&#34;_blank&#34;&gt;ScienceBlog&lt;/a&gt;, &lt;a href=&#34;https://www.sciencedaily.com/releases/2017/12/171211120131.htm&#34; target=&#34;_blank&#34;&gt;ScienceDaily&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;I am interested in understanding the learning dynamics of deep neural network models. I have worked on analyzing whole vector representations and individual neurons in the network and answer questions such as:&lt;/p&gt;
+&lt;p&gt;I am interested in interpreting and understanding the learning dynamics of deep neural network models. I have worked on analyzing whole vector representations and individual neurons in the network and answer questions such as:&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;How much linguistic knowledge is learned?&lt;/li&gt;
@@ -417,6 +393,30 @@
 &lt;/ul&gt;
 
 &lt;p&gt;The interpretation work is mainly done in collaboration with CSAIL MIT. The work has been published at prestigious venues, such as ICLR, AAAI, ACL, etc., and it has been covered by several technology blogs a couple of times.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;#top&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;machine-translation&#34;&gt;Machine Translation&lt;/h3&gt;
+
+&lt;h4 id=&#34;highlights-1&#34;&gt;Highlights&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://st.qcri.org/demos/livetranslation/&#34; target=&#34;_blank&#34;&gt;Live Speech Translation&lt;/a&gt; System&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://mt.qcri.org/api/&#34; target=&#34;_blank&#34;&gt;Machine Translation&lt;/a&gt; System&lt;/p&gt;
+
+&lt;p&gt;First industry scale &lt;a href=&#34;https://mt.qcri.org/api/&#34; target=&#34;_blank&#34;&gt;dialectal Arabic to English machine translation system&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Machine Translation licensed to &lt;a href=&#34;http://www.kanerai.com&#34; target=&#34;_blank&#34;&gt;KanariAI&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://st.qcri.org/demos/livetranslation/&#34; target=&#34;_blank&#34;&gt;Live Speech Translation&lt;/a&gt; won the best Innovation award at @&lt;a href=&#34;https://www.qf-arc.org/en-us/ARC-18&#34; target=&#34;_blank&#34;&gt;ARC&amp;rsquo;18&lt;/a&gt;, see &lt;a href=&#34;http://www.gulf-times.com/story/585737/Sheikha-Moza-honours-QF-ARC-18-award-winners&#34; target=&#34;_blank&#34;&gt;media coverage&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I have worked on both statistical and neural machine translation, involving several language pairs such as English, German, Russian, Arabic, Hebrew, etc. I have been interested in improving the translation of resource-poor languages and morphologically-rich languages. Additionally, I worked on domain adaptation and the handling of unknown words. My research work has been published in top tier venues such as ACL, NAACL, EMNLP, etc.&lt;/p&gt;
+
+&lt;p&gt;In addition to research, I have expertise in building industry-grade and customized machine translation systems. As of July 2020, &lt;a href=&#34;https://mt.qcri.org/api/&#34; target=&#34;_blank&#34;&gt;our system&lt;/a&gt; has translated 950 million tokens. The system has been used by Aljazeera, BBC, and DW, and is deployed as part of the H2020 SUMMA project.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;#top&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
 
@@ -462,6 +462,8 @@
       <description>&lt;hr /&gt;
 
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1yWQZ8qUL8EaDeIRqegNQefz_UH4Np-O9WbiNkbyuqLs/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Exploiting Redundancy in Pre-trained Models for Efficient Transfer Learning&lt;/a&gt;, Facebook, US (Feb 2021)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1yWQZ8qUL8EaDeIRqegNQefz_UH4Np-O9WbiNkbyuqLs/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Exploiting Redundancy in Pre-trained Models for Efficient Transfer Learning&lt;/a&gt;, National Research Council, Canada (Nov 2020)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1KFNUQvK3NYClYkFNnU775F5BC3Irglw7Pe81Xf_-nJY/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Interpreting Deep NLP Models&lt;/a&gt;, University of Edinburgh, UK (April 2020)&lt;/li&gt;
 &lt;li&gt;Summarizing Research on Interpreting Machine Translation Models, University of Sheffield, UK (Mar 2020)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1N2mwnoIhzx7RLPQDmkX2W_J6GDPElHHHYYI7U3mXxBo/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;Efficient Transfer Learning of Pretrained Model&lt;/a&gt;, 7th International Conference on Language and Technology, Pakistan (February 2020)&lt;/li&gt;
