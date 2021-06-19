@@ -8,12 +8,172 @@
   
   <url>
     <loc>//localhost:1313/publication_types/1/</loc>
-    <lastmod>2020-12-01T00:00:00+03:00</lastmod>
+    <lastmod>2021-06-01T00:00:00+03:00</lastmod>
   </url>
   
   <url>
     <loc>//localhost:1313/authors/ahmed-abdelali/</loc>
-    <lastmod>2020-12-01T00:00:00+03:00</lastmod>
+    <lastmod>2021-06-01T00:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/authors/alex-nikolov/</loc>
+    <lastmod>2021-06-01T00:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/authors/</loc>
+    <lastmod>2021-06-01T00:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/publication/crisis-benchmarking-icwsm-21/</loc>
+    <lastmod>2021-06-01T00:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/authors/esther-seyffarth/</loc>
+    <lastmod>2021-06-01T00:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/authors/fahim-dalvi/</loc>
+    <lastmod>2021-06-01T00:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/authors/ferda-ofli/</loc>
+    <lastmod>2021-06-01T00:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/publication/firoj-covid-icwsm-21/</loc>
+    <lastmod>2021-06-01T00:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/publication/sajjad-tutorial-naacl-2021/</loc>
+    <lastmod>2021-06-01T00:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/authors/firoj-alam/</loc>
+    <lastmod>2021-06-01T00:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/authors/giovanni-da-san-martino/</loc>
+    <lastmod>2021-06-01T00:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/authors/hamdy-mubarak/</loc>
+    <lastmod>2021-06-01T00:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/authors/hassan-sajjad/</loc>
+    <lastmod>2021-06-01T00:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2021-06-01T00:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/publication/esther-causativity-iwcs-21/</loc>
+    <lastmod>2021-06-01T00:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/authors/kareem-darwish/</loc>
+    <lastmod>2021-06-01T00:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/authors/laura-kallmeyer/</loc>
+    <lastmod>2021-06-01T00:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/authors/muhammad-imran/</loc>
+    <lastmod>2021-06-01T00:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/authors/nadir-durrani/</loc>
+    <lastmod>2021-06-01T00:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/authors/narine-kokhlikyan/</loc>
+    <lastmod>2021-06-01T00:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/authors/preslav-nakov/</loc>
+    <lastmod>2021-06-01T00:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/publication_types/</loc>
+    <lastmod>2021-06-01T00:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/authors/shaden-shaar/</loc>
+    <lastmod>2021-06-01T00:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/authors/younes-samih/</loc>
+    <lastmod>2021-06-01T00:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/publication_types/2/</loc>
+    <lastmod>2021-01-01T00:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/publication/bert-survey-tacl-20/</loc>
+    <lastmod>2021-01-01T00:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/authors/deming-chen/</loc>
+    <lastmod>2021-01-01T00:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/authors/marianne-winslett/</loc>
+    <lastmod>2021-01-01T00:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/authors/mohammad-ali-khan/</loc>
+    <lastmod>2021-01-01T00:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/authors/prakhar-ganesh/</loc>
+    <lastmod>2021-01-01T00:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/authors/xin-lou/</loc>
+    <lastmod>2021-01-01T00:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/authors/yao-chen/</loc>
+    <lastmod>2021-01-01T00:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/authors/yin-yang/</loc>
+    <lastmod>2021-01-01T00:00:00+03:00</lastmod>
   </url>
   
   <url>
@@ -23,41 +183,6 @@
   
   <url>
     <loc>//localhost:1313/publication/suwaileh-etal-2020-ready/</loc>
-    <lastmod>2020-12-01T00:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//localhost:1313/authors/</loc>
-    <lastmod>2020-12-01T00:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//localhost:1313/authors/fahim-dalvi/</loc>
-    <lastmod>2020-12-01T00:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//localhost:1313/authors/hassan-sajjad/</loc>
-    <lastmod>2020-12-01T00:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//localhost:1313/</loc>
-    <lastmod>2020-12-01T00:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//localhost:1313/authors/muhammad-imran/</loc>
-    <lastmod>2020-12-01T00:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//localhost:1313/authors/nadir-durrani/</loc>
-    <lastmod>2020-12-01T00:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//localhost:1313/publication_types/</loc>
     <lastmod>2020-12-01T00:00:00+03:00</lastmod>
   </url>
   
@@ -177,11 +302,6 @@
   </url>
   
   <url>
-    <loc>//localhost:1313/publication_types/2/</loc>
-    <lastmod>2020-03-01T00:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>//localhost:1313/publication/rafae-2018-cl/</loc>
     <lastmod>2020-03-01T00:00:00+03:00</lastmod>
   </url>
@@ -222,16 +342,6 @@
   </url>
   
   <url>
-    <loc>//localhost:1313/authors/deming-chen/</loc>
-    <lastmod>2020-01-01T00:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//localhost:1313/authors/marianne-winslett/</loc>
-    <lastmod>2020-01-01T00:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>//localhost:1313/authors/mohammad-haris-ali-khan/</loc>
     <lastmod>2020-01-01T00:00:00+03:00</lastmod>
   </url>
@@ -247,52 +357,12 @@
   </url>
   
   <url>
-    <loc>//localhost:1313/authors/prakhar-ganesh/</loc>
-    <lastmod>2020-01-01T00:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//localhost:1313/authors/preslav-nakov/</loc>
-    <lastmod>2020-01-01T00:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//localhost:1313/authors/xin-lou/</loc>
-    <lastmod>2020-01-01T00:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//localhost:1313/authors/yao-chen/</loc>
-    <lastmod>2020-01-01T00:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//localhost:1313/authors/yin-yang/</loc>
-    <lastmod>2020-01-01T00:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>//localhost:1313/publication/diacritic-2019-emnlp/</loc>
     <lastmod>2019-11-01T00:00:00+03:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/authors/hamdy-mubarak/</loc>
-    <lastmod>2019-11-01T00:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//localhost:1313/authors/kareem-darwish/</loc>
-    <lastmod>2019-11-01T00:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>//localhost:1313/authors/mohamed-eldesouki/</loc>
-    <lastmod>2019-11-01T00:00:00+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//localhost:1313/authors/younes-samih/</loc>
     <lastmod>2019-11-01T00:00:00+03:00</lastmod>
   </url>
   

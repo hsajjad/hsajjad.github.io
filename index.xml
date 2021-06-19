@@ -5,7 +5,7 @@
     <link>//localhost:1313/</link>
       <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <description>Hassan Sajjad</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0300</lastBuildDate>
     <image>
       <url>//localhost:1313/img/icon-192.png</url>
       <title>Hassan Sajjad</title>
@@ -18,10 +18,12 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/pages/news/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Accepted Tutorial @NAACL 2021:&lt;/strong&gt; Fine-grained Interpretation and Causation Analysis in Deep NLP Models&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;NeuroX Toolkit on pip:&lt;/strong&gt; &lt;a href=&#34;https://pypi.org/project/neurox/&#34; target=&#34;_blank&#34;&gt;https://pypi.org/project/neurox/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tutorial @NAACL 2021:&lt;/strong&gt; &lt;a href=&#34;https://github.com/hsajjad/Interpretability-Tutorial-NAACL2021&#34; target=&#34;_blank&#34;&gt;Fine-grained Interpretation and Causation Analysis in Deep NLP Models&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Accepted Papers 2021:&lt;/strong&gt; 1 TACL, 1 NAACL, 1 ACL findings, 2 ICWSM, 1 IWCS&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Talk:&lt;/strong&gt; Exploiting Redundancy in Pre-trained Models for Efficient Transfer Learning. Facebook (Feb. 2021), Machine Learning and Data Analytics Symposium (Mar. 2021), National Research Council, Canada&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Talk:&lt;/strong&gt; Hidden Linguistics in Deep NLP Models. Heinrich-Heine Universität Düsseldorf, Germany&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Accepted @COLING 2020:&lt;/strong&gt; Two long papers, 1) Dialect Arabic machine translation, 2) location mention recognition&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Accepted @COLING 2020:&lt;/strong&gt; Two long papers, 1) Dialect Arabic machine translation, 2) Location mention recognition&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Accepted @EMNLP 2020:&lt;/strong&gt; Two long papers on interpretabiliy are accepted. Details coming soon!&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Media Coverage:&lt;/strong&gt; One billion tokens translated. &lt;a href=&#34;https://www.gulf-times.com/story/671869/QCRI-s-Shaheen-achieves-milestone-with-over-1bn-words-translated&#34; target=&#34;_blank&#34;&gt;Gulf times&lt;/a&gt;, &lt;a href=&#34;https://www.qatar-tribune.com/news-details/id/196901/qcri-s-shaheen-celebrates-milestone-with-over-1-billion-translated-words&#34; target=&#34;_blank&#34;&gt;Qatar tribune&lt;/a&gt; and several TV/radio channels such as Qatar radio and Qatar TV&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Released:&lt;/strong&gt; First-ever &lt;a href=&#34;http://mt.qcri.org/api&#34; target=&#34;_blank&#34;&gt;Dialectal Arabic to English Machine Translation System&lt;/a&gt; covering a large variety of Arabic dialects&lt;/li&gt;
@@ -51,6 +53,46 @@
 &lt;li&gt;Read my &lt;a href=&#34;https://www.linkedin.com/pulse/what-do-neural-machine-translation-models-learn-hassan-sajjad/&#34; target=&#34;_blank&#34;&gt;post&lt;/a&gt; about What does Neural Machine Translation Learn about Morphology&lt;/li&gt;
 &lt;/ul&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>CrisisBench: Benchmarking Crisis-related Social Media Datasets for Humanitarian Information Processing</title>
+      <link>//localhost:1313/publication/crisis-benchmarking-icwsm-21/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/crisis-benchmarking-icwsm-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fighting the COVID-19 Infodemic in Social Media: A Holistic Perspective and a Call to Arms</title>
+      <link>//localhost:1313/publication/firoj-covid-icwsm-21/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/firoj-covid-icwsm-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fine-grained Interpretationand Causation Analysis in Deep NLP Models</title>
+      <link>//localhost:1313/publication/sajjad-tutorial-naacl-2021/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/sajjad-tutorial-naacl-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implicit representations of event properties within contextual language models:Searching for ``causativity neurons&#34;</title>
+      <link>//localhost:1313/publication/esther-causativity-iwcs-21/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/esther-causativity-iwcs-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compressing Large-Scale Transformer-Based Models: A Case Study on BERT</title>
+      <link>//localhost:1313/publication/bert-survey-tacl-20/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0300</pubDate>
+      <guid>//localhost:1313/publication/bert-survey-tacl-20/</guid>
+      <description></description>
     </item>
     
     <item>
