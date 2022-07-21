@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wajdi Zaghouani | Hassan Sajjad</title>
-    <link>//localhost:1313/authors/wajdi-zaghouani/</link>
-      <atom:link href="//localhost:1313/authors/wajdi-zaghouani/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:54935/authors/wajdi-zaghouani/</link>
+      <atom:link href="//localhost:54935/authors/wajdi-zaghouani/index.xml" rel="self" type="application/rss+xml" />
     <description>Wajdi Zaghouani</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2016 00:00:00 +0300</lastBuildDate>
     <image>
-      <url>//localhost:1313/img/icon-192.png</url>
+      <url>//localhost:54935/img/icon-192.png</url>
       <title>Wajdi Zaghouani</title>
-      <link>//localhost:1313/authors/wajdi-zaghouani/</link>
+      <link>//localhost:54935/authors/wajdi-zaghouani/</link>
     </image>
     
     <item>
       <title>Normalizing Mathematical Expressions to Improve the Translation of Educational Content</title>
-      <link>//localhost:1313/publication/zaghouani-2016-normalizing/</link>
+      <link>//localhost:54935/publication/zaghouani-2016-normalizing/</link>
       <pubDate>Sat, 01 Oct 2016 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/publication/zaghouani-2016-normalizing/</guid>
+      <guid>//localhost:54935/publication/zaghouani-2016-normalizing/</guid>
       <description></description>
     </item>
     

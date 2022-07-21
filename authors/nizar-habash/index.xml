@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nizar Habash | Hassan Sajjad</title>
-    <link>//localhost:1313/authors/nizar-habash/</link>
-      <atom:link href="//localhost:1313/authors/nizar-habash/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:54935/authors/nizar-habash/</link>
+      <atom:link href="//localhost:54935/authors/nizar-habash/index.xml" rel="self" type="application/rss+xml" />
     <description>Nizar Habash</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2015 00:00:00 +0300</lastBuildDate>
     <image>
-      <url>//localhost:1313/img/icon-192.png</url>
+      <url>//localhost:54935/img/icon-192.png</url>
       <title>Nizar Habash</title>
-      <link>//localhost:1313/authors/nizar-habash/</link>
+      <link>//localhost:54935/authors/nizar-habash/</link>
     </image>
     
     <item>
       <title>QCN Egyptian Arabic to English MachineTranslation System for NIST OpenMT15</title>
-      <link>//localhost:1313/publication/sajjad-nist-15/</link>
+      <link>//localhost:54935/publication/sajjad-nist-15/</link>
       <pubDate>Mon, 01 Jun 2015 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/publication/sajjad-nist-15/</guid>
+      <guid>//localhost:54935/publication/sajjad-nist-15/</guid>
       <description></description>
     </item>
     

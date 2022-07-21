@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fabrizio Sebastiani | Hassan Sajjad</title>
-    <link>//localhost:1313/authors/fabrizio-sebastiani/</link>
-      <atom:link href="//localhost:1313/authors/fabrizio-sebastiani/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:54935/authors/fabrizio-sebastiani/</link>
+      <atom:link href="//localhost:54935/authors/fabrizio-sebastiani/index.xml" rel="self" type="application/rss+xml" />
     <description>Fabrizio Sebastiani</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2015 00:00:00 +0300</lastBuildDate>
     <image>
-      <url>//localhost:1313/img/icon-192.png</url>
+      <url>//localhost:54935/img/icon-192.png</url>
       <title>Fabrizio Sebastiani</title>
-      <link>//localhost:1313/authors/fabrizio-sebastiani/</link>
+      <link>//localhost:54935/authors/fabrizio-sebastiani/</link>
     </image>
     
     <item>
       <title>Distant Supervision for Tweet Classification Using YouTube Labels</title>
-      <link>//localhost:1313/publication/magdy-2015-distant/</link>
+      <link>//localhost:54935/publication/magdy-2015-distant/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/publication/magdy-2015-distant/</guid>
+      <guid>//localhost:54935/publication/magdy-2015-distant/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bridging social media via distant supervision</title>
-      <link>//localhost:1313/publication/madgy-2015-snam/</link>
+      <link>//localhost:54935/publication/madgy-2015-snam/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/publication/madgy-2015-snam/</guid>
+      <guid>//localhost:54935/publication/madgy-2015-snam/</guid>
       <description></description>
     </item>
     

@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>D. Anthony Bau | Hassan Sajjad</title>
-    <link>//localhost:1313/authors/d.-anthony-bau/</link>
-      <atom:link href="//localhost:1313/authors/d.-anthony-bau/index.xml" rel="self" type="application/rss+xml" />
-    <description>D. Anthony Bau</description>
+    <title>D. Anthony Bau* | Hassan Sajjad</title>
+    <link>//localhost:54935/authors/d.-anthony-bau/</link>
+      <atom:link href="//localhost:54935/authors/d.-anthony-bau/index.xml" rel="self" type="application/rss+xml" />
+    <description>D. Anthony Bau*</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2019 00:00:00 +0300</lastBuildDate>
     <image>
-      <url>//localhost:1313/img/icon-192.png</url>
-      <title>D. Anthony Bau</title>
-      <link>//localhost:1313/authors/d.-anthony-bau/</link>
+      <url>//localhost:54935/img/icon-192.png</url>
+      <title>D. Anthony Bau*</title>
+      <link>//localhost:54935/authors/d.-anthony-bau/</link>
     </image>
     
     <item>
       <title>Identifying and Controlling Important Neurons in Neural Machine Translation</title>
-      <link>//localhost:1313/publication/individual-iclr-19/</link>
+      <link>//localhost:54935/publication/individual-iclr-19/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/publication/individual-iclr-19/</guid>
+      <guid>//localhost:54935/publication/individual-iclr-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>What is one Grain of Sand in the Desert? Analyzing Individual Neurons in Deep NLP Models</title>
-      <link>//localhost:1313/publication/grain-aaai-19-1/</link>
+      <link>//localhost:54935/publication/grain-aaai-19-1/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/publication/grain-aaai-19-1/</guid>
+      <guid>//localhost:54935/publication/grain-aaai-19-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NeuroX: A Toolkit for Analyzing Individual Neurons in Neural Networks</title>
-      <link>//localhost:1313/publication/neurox-aaai-19-demo/</link>
+      <link>//localhost:54935/publication/neurox-aaai-19-demo/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/publication/neurox-aaai-19-demo/</guid>
+      <guid>//localhost:54935/publication/neurox-aaai-19-demo/</guid>
       <description></description>
     </item>
     

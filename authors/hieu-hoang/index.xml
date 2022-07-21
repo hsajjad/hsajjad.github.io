@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hieu Hoang | Hassan Sajjad</title>
-    <link>//localhost:1313/authors/hieu-hoang/</link>
-      <atom:link href="//localhost:1313/authors/hieu-hoang/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:54935/authors/hieu-hoang/</link>
+      <atom:link href="//localhost:54935/authors/hieu-hoang/index.xml" rel="self" type="application/rss+xml" />
     <description>Hieu Hoang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Apr 2014 00:00:00 +0300</lastBuildDate>
     <image>
-      <url>//localhost:1313/img/icon-192.png</url>
+      <url>//localhost:54935/img/icon-192.png</url>
       <title>Hieu Hoang</title>
-      <link>//localhost:1313/authors/hieu-hoang/</link>
+      <link>//localhost:54935/authors/hieu-hoang/</link>
     </image>
     
     <item>
       <title>Integrating an Unsupervised Transliteration Model into Statistical Machine Translation</title>
-      <link>//localhost:1313/publication/durrani-et-al-2014-eacl/</link>
+      <link>//localhost:54935/publication/durrani-et-al-2014-eacl/</link>
       <pubDate>Tue, 01 Apr 2014 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/publication/durrani-et-al-2014-eacl/</guid>
+      <guid>//localhost:54935/publication/durrani-et-al-2014-eacl/</guid>
       <description></description>
     </item>
     

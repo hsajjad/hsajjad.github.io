@@ -2,141 +2,141 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stephan Vogel | Hassan Sajjad</title>
-    <link>//localhost:1313/authors/stephan-vogel/</link>
-      <atom:link href="//localhost:1313/authors/stephan-vogel/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:54935/authors/stephan-vogel/</link>
+      <atom:link href="//localhost:54935/authors/stephan-vogel/index.xml" rel="self" type="application/rss+xml" />
     <description>Stephan Vogel</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0300</lastBuildDate>
     <image>
-      <url>//localhost:1313/img/icon-192.png</url>
+      <url>//localhost:54935/img/icon-192.png</url>
       <title>Stephan Vogel</title>
-      <link>//localhost:1313/authors/stephan-vogel/</link>
+      <link>//localhost:54935/authors/stephan-vogel/</link>
     </image>
     
     <item>
       <title>Incremental Decoding and Training Methods for Simultaneous Translation in Neural Machine Translation</title>
-      <link>//localhost:1313/publication/dalvi-2018-naacl/</link>
+      <link>//localhost:54935/publication/dalvi-2018-naacl/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/publication/dalvi-2018-naacl/</guid>
+      <guid>//localhost:54935/publication/dalvi-2018-naacl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neural Machine Translation Training in a Multi-Domain Scenario</title>
-      <link>//localhost:1313/publication/sajjad-etal-iwslt-17/</link>
+      <link>//localhost:54935/publication/sajjad-etal-iwslt-17/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/publication/sajjad-etal-iwslt-17/</guid>
+      <guid>//localhost:54935/publication/sajjad-etal-iwslt-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Understanding and Improving Morphological Learning in the Neural Machine Translation Decoder</title>
-      <link>//localhost:1313/publication/dalvi-ijcnlp-2017/</link>
+      <link>//localhost:54935/publication/dalvi-ijcnlp-2017/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/publication/dalvi-ijcnlp-2017/</guid>
+      <guid>//localhost:54935/publication/dalvi-ijcnlp-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Challenging Language-Dependent Segmentation for Arabic: An Application to Machine Translation and Part-of-Speech Tagging</title>
-      <link>//localhost:1313/publication/sajjad-etal-2017-acl-short/</link>
+      <link>//localhost:54935/publication/sajjad-etal-2017-acl-short/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/publication/sajjad-etal-2017-acl-short/</guid>
+      <guid>//localhost:54935/publication/sajjad-etal-2017-acl-short/</guid>
       <description></description>
     </item>
     
     <item>
       <title>QCRI Live Speech Translation System</title>
-      <link>//localhost:1313/publication/dalvi-2017-qcri/</link>
+      <link>//localhost:54935/publication/dalvi-2017-qcri/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/publication/dalvi-2017-qcri/</guid>
+      <guid>//localhost:54935/publication/dalvi-2017-qcri/</guid>
       <description></description>
     </item>
     
     <item>
       <title>QCRI’s Machine Translation Systems for IWSLT’2016</title>
-      <link>//localhost:1313/publication/durrani-etal-iwslt-16/</link>
+      <link>//localhost:54935/publication/durrani-etal-iwslt-16/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/publication/durrani-etal-iwslt-16/</guid>
+      <guid>//localhost:54935/publication/durrani-etal-iwslt-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Empirical Study: Post-editing Effort for English to Arabic Hybrid Machine Translation</title>
-      <link>//localhost:1313/publication/sajjad-16-postediting/</link>
+      <link>//localhost:54935/publication/sajjad-16-postediting/</link>
       <pubDate>Sat, 01 Oct 2016 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/publication/sajjad-16-postediting/</guid>
+      <guid>//localhost:54935/publication/sajjad-16-postediting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Eyes Don&#39;t Lie: Predicting Machine Translation Quality Using Eye Movement.</title>
-      <link>//localhost:1313/publication/sajjad-2016-eyes/</link>
+      <link>//localhost:54935/publication/sajjad-2016-eyes/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/publication/sajjad-2016-eyes/</guid>
+      <guid>//localhost:54935/publication/sajjad-2016-eyes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using Joint Models for Domain Adaptation in Statistical Machine Translation</title>
-      <link>//localhost:1313/publication/durrani-et-al-mt-summit-2015/</link>
+      <link>//localhost:54935/publication/durrani-et-al-mt-summit-2015/</link>
       <pubDate>Sun, 01 Nov 2015 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/publication/durrani-et-al-mt-summit-2015/</guid>
+      <guid>//localhost:54935/publication/durrani-et-al-mt-summit-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How do Humans Evaluate Machine Translation</title>
-      <link>//localhost:1313/publication/guzman-wmt-15/</link>
+      <link>//localhost:54935/publication/guzman-wmt-15/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/publication/guzman-wmt-15/</guid>
+      <guid>//localhost:54935/publication/guzman-wmt-15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How to Avoid Unwanted Pregnancies: Domain Adaptation using Neural Network Models</title>
-      <link>//localhost:1313/publication/joty-et-al-2015-emnlp/</link>
+      <link>//localhost:54935/publication/joty-et-al-2015-emnlp/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/publication/joty-et-al-2015-emnlp/</guid>
+      <guid>//localhost:54935/publication/joty-et-al-2015-emnlp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>QCN Egyptian Arabic to English MachineTranslation System for NIST OpenMT15</title>
-      <link>//localhost:1313/publication/sajjad-nist-15/</link>
+      <link>//localhost:54935/publication/sajjad-nist-15/</link>
       <pubDate>Mon, 01 Jun 2015 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/publication/sajjad-nist-15/</guid>
+      <guid>//localhost:54935/publication/sajjad-nist-15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unsupervised word segmentation improves dialectal Arabic to English machine translation</title>
-      <link>//localhost:1313/publication/kamla-anlp-2014/</link>
+      <link>//localhost:54935/publication/kamla-anlp-2014/</link>
       <pubDate>Wed, 01 Oct 2014 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/publication/kamla-anlp-2014/</guid>
+      <guid>//localhost:54935/publication/kamla-anlp-2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The AMARA Corpus: Building Parallel Language Resources for the Educational Domain</title>
-      <link>//localhost:1313/publication/abdelali-2014-lrec/</link>
+      <link>//localhost:54935/publication/abdelali-2014-lrec/</link>
       <pubDate>Thu, 01 May 2014 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/publication/abdelali-2014-lrec/</guid>
+      <guid>//localhost:54935/publication/abdelali-2014-lrec/</guid>
       <description></description>
     </item>
     
     <item>
       <title>QCRI at IWSLT 2013: Experiments in Arabic-English and English-Arabic Spoken Language Translation</title>
-      <link>//localhost:1313/publication/sajjad-etal-iwslt-13/</link>
+      <link>//localhost:54935/publication/sajjad-etal-iwslt-13/</link>
       <pubDate>Sun, 01 Dec 2013 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/publication/sajjad-etal-iwslt-13/</guid>
+      <guid>//localhost:54935/publication/sajjad-etal-iwslt-13/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The AMARA Corpus: Building Resources for Translating the Web&#39;s Educational Content</title>
-      <link>//localhost:1313/publication/guzman-sajjad-etal-iwslt-13/</link>
+      <link>//localhost:54935/publication/guzman-sajjad-etal-iwslt-13/</link>
       <pubDate>Sun, 01 Dec 2013 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/publication/guzman-sajjad-etal-iwslt-13/</guid>
+      <guid>//localhost:54935/publication/guzman-sajjad-etal-iwslt-13/</guid>
       <description></description>
     </item>
     

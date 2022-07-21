@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kamla Al-Mannai | Hassan Sajjad</title>
-    <link>//localhost:1313/authors/kamla-al-mannai/</link>
-      <atom:link href="//localhost:1313/authors/kamla-al-mannai/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:54935/authors/kamla-al-mannai/</link>
+      <atom:link href="//localhost:54935/authors/kamla-al-mannai/index.xml" rel="self" type="application/rss+xml" />
     <description>Kamla Al-Mannai</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 May 2017 00:00:00 +0300</lastBuildDate>
     <image>
-      <url>//localhost:1313/img/icon-192.png</url>
+      <url>//localhost:54935/img/icon-192.png</url>
       <title>Kamla Al-Mannai</title>
-      <link>//localhost:1313/authors/kamla-al-mannai/</link>
+      <link>//localhost:54935/authors/kamla-al-mannai/</link>
     </image>
     
     <item>
       <title>Robust Classification of Crisis-Related Data on Social Networks using Convolutional Neural Networks</title>
-      <link>//localhost:1313/publication/nguyen-icwsm-2017/</link>
+      <link>//localhost:54935/publication/nguyen-icwsm-2017/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/publication/nguyen-icwsm-2017/</guid>
+      <guid>//localhost:54935/publication/nguyen-icwsm-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How to Avoid Unwanted Pregnancies: Domain Adaptation using Neural Network Models</title>
-      <link>//localhost:1313/publication/joty-et-al-2015-emnlp/</link>
+      <link>//localhost:54935/publication/joty-et-al-2015-emnlp/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/publication/joty-et-al-2015-emnlp/</guid>
+      <guid>//localhost:54935/publication/joty-et-al-2015-emnlp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unsupervised word segmentation improves dialectal Arabic to English machine translation</title>
-      <link>//localhost:1313/publication/kamla-anlp-2014/</link>
+      <link>//localhost:54935/publication/kamla-anlp-2014/</link>
       <pubDate>Wed, 01 Oct 2014 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/publication/kamla-anlp-2014/</guid>
+      <guid>//localhost:54935/publication/kamla-anlp-2014/</guid>
       <description></description>
     </item>
     

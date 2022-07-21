@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Svetlana Smekalova | Hassan Sajjad</title>
-    <link>//localhost:1313/authors/svetlana-smekalova/</link>
-      <atom:link href="//localhost:1313/authors/svetlana-smekalova/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:54935/authors/svetlana-smekalova/</link>
+      <atom:link href="//localhost:54935/authors/svetlana-smekalova/index.xml" rel="self" type="application/rss+xml" />
     <description>Svetlana Smekalova</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2013 00:00:00 +0300</lastBuildDate>
     <image>
-      <url>//localhost:1313/img/icon-192.png</url>
+      <url>//localhost:54935/img/icon-192.png</url>
       <title>Svetlana Smekalova</title>
-      <link>//localhost:1313/authors/svetlana-smekalova/</link>
+      <link>//localhost:54935/authors/svetlana-smekalova/</link>
     </image>
     
     <item>
       <title>Munich-Edinburgh-Stuttgart Submissions at WMT13: Morphological and Syntactic Processing for SMT</title>
-      <link>//localhost:1313/publication/weller-13-wmt-13/</link>
+      <link>//localhost:54935/publication/weller-13-wmt-13/</link>
       <pubDate>Thu, 01 Aug 2013 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/publication/weller-13-wmt-13/</guid>
+      <guid>//localhost:54935/publication/weller-13-wmt-13/</guid>
       <description></description>
     </item>
     
     <item>
       <title>QCRI-MES Submission at WMT13: Using Transliteration Mining to Improve Statistical Machine Translation</title>
-      <link>//localhost:1313/publication/sajjad-et-al-2013-wmt/</link>
+      <link>//localhost:54935/publication/sajjad-et-al-2013-wmt/</link>
       <pubDate>Thu, 01 Aug 2013 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/publication/sajjad-et-al-2013-wmt/</guid>
+      <guid>//localhost:54935/publication/sajjad-et-al-2013-wmt/</guid>
       <description></description>
     </item>
     

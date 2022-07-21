@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Narine Kokhlikyan | Hassan Sajjad</title>
+    <link>//localhost:54935/authors/narine-kokhlikyan/</link>
+      <atom:link href="//localhost:54935/authors/narine-kokhlikyan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Narine Kokhlikyan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0300</lastBuildDate>
+    <image>
+      <url>//localhost:54935/img/icon-192.png</url>
+      <title>Narine Kokhlikyan</title>
+      <link>//localhost:54935/authors/narine-kokhlikyan/</link>
+    </image>
+    
+    <item>
+      <title>Fine-grained Interpretationand Causation Analysis in Deep NLP Models</title>
+      <link>//localhost:54935/publication/sajjad-tutorial-naacl-2021/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0300</pubDate>
+      <guid>//localhost:54935/publication/sajjad-tutorial-naacl-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

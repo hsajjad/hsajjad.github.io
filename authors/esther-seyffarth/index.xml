@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Esther Seyffarth | Hassan Sajjad</title>
+    <link>//localhost:54935/authors/esther-seyffarth/</link>
+      <atom:link href="//localhost:54935/authors/esther-seyffarth/index.xml" rel="self" type="application/rss+xml" />
+    <description>Esther Seyffarth</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0300</lastBuildDate>
+    <image>
+      <url>//localhost:54935/img/icon-192.png</url>
+      <title>Esther Seyffarth</title>
+      <link>//localhost:54935/authors/esther-seyffarth/</link>
+    </image>
+    
+    <item>
+      <title>Implicit Representations of Event Properties within Contextual Language Models:Searching for ``Causativity Neurons&#34;</title>
+      <link>//localhost:54935/publication/esther-causativity-iwcs-21/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0300</pubDate>
+      <guid>//localhost:54935/publication/esther-causativity-iwcs-21/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

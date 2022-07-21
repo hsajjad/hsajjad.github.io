@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Michael Gamon | Hassan Sajjad</title>
-    <link>//localhost:1313/authors/michael-gamon/</link>
-      <atom:link href="//localhost:1313/authors/michael-gamon/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:54935/authors/michael-gamon/</link>
+      <atom:link href="//localhost:54935/authors/michael-gamon/index.xml" rel="self" type="application/rss+xml" />
     <description>Michael Gamon</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Dec 2012 00:00:00 +0300</lastBuildDate>
     <image>
-      <url>//localhost:1313/img/icon-192.png</url>
+      <url>//localhost:54935/img/icon-192.png</url>
       <title>Michael Gamon</title>
-      <link>//localhost:1313/authors/michael-gamon/</link>
+      <link>//localhost:54935/authors/michael-gamon/</link>
     </image>
     
     <item>
       <title>Underspecified Query Refinement via Natural Language Question Generation</title>
-      <link>//localhost:1313/publication/sajjad-coling-2012/</link>
+      <link>//localhost:54935/publication/sajjad-coling-2012/</link>
       <pubDate>Sat, 01 Dec 2012 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/publication/sajjad-coling-2012/</guid>
+      <guid>//localhost:54935/publication/sajjad-coling-2012/</guid>
       <description></description>
     </item>
     

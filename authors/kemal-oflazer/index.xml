@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kemal Oflazer | Hassan Sajjad</title>
-    <link>//localhost:1313/authors/kemal-oflazer/</link>
-      <atom:link href="//localhost:1313/authors/kemal-oflazer/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:54935/authors/kemal-oflazer/</link>
+      <atom:link href="//localhost:54935/authors/kemal-oflazer/index.xml" rel="self" type="application/rss+xml" />
     <description>Kemal Oflazer</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2015 00:00:00 +0300</lastBuildDate>
     <image>
-      <url>//localhost:1313/img/icon-192.png</url>
+      <url>//localhost:54935/img/icon-192.png</url>
       <title>Kemal Oflazer</title>
-      <link>//localhost:1313/authors/kemal-oflazer/</link>
+      <link>//localhost:54935/authors/kemal-oflazer/</link>
     </image>
     
     <item>
       <title>QCMUQ@QALB-2015 Shared Task: Combining Character level MT and Error-tolerant Finite-State Recognition for ArabicSpelling Correction</title>
-      <link>//localhost:1313/publication/bouamor-anlp-15/</link>
+      <link>//localhost:54935/publication/bouamor-anlp-15/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/publication/bouamor-anlp-15/</guid>
+      <guid>//localhost:54935/publication/bouamor-anlp-15/</guid>
       <description></description>
     </item>
     

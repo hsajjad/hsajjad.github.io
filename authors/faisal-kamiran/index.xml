@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Faisal Kamiran | Hassan Sajjad</title>
-    <link>//localhost:1313/authors/faisal-kamiran/</link>
-      <atom:link href="//localhost:1313/authors/faisal-kamiran/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:54935/authors/faisal-kamiran/</link>
+      <atom:link href="//localhost:54935/authors/faisal-kamiran/index.xml" rel="self" type="application/rss+xml" />
     <description>Faisal Kamiran</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0300</lastBuildDate>
     <image>
-      <url>//localhost:1313/img/icon-192.png</url>
+      <url>//localhost:54935/img/icon-192.png</url>
       <title>Faisal Kamiran</title>
-      <link>//localhost:1313/authors/faisal-kamiran/</link>
+      <link>//localhost:54935/authors/faisal-kamiran/</link>
     </image>
     
     <item>
       <title>A Clustering Framework for Lexical Normalization of Roman Urdu</title>
-      <link>//localhost:1313/publication/rafae-2018-cl/</link>
+      <link>//localhost:54935/publication/rafae-2018-cl/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/publication/rafae-2018-cl/</guid>
+      <guid>//localhost:54935/publication/rafae-2018-cl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Unsupervised Method for Discovering Lexical Variations in Roman Urdu Informal Text.</title>
-      <link>//localhost:1313/publication/rafae-2015-unsupervised/</link>
+      <link>//localhost:54935/publication/rafae-2015-unsupervised/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/publication/rafae-2015-unsupervised/</guid>
+      <guid>//localhost:54935/publication/rafae-2015-unsupervised/</guid>
       <description></description>
     </item>
     

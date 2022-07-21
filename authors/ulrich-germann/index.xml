@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ulrich Germann | Hassan Sajjad</title>
-    <link>//localhost:1313/authors/ulrich-germann/</link>
-      <atom:link href="//localhost:1313/authors/ulrich-germann/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:54935/authors/ulrich-germann/</link>
+      <atom:link href="//localhost:54935/authors/ulrich-germann/index.xml" rel="self" type="application/rss+xml" />
     <description>Ulrich Germann</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Apr 2017 00:00:00 +0300</lastBuildDate>
     <image>
-      <url>//localhost:1313/img/icon-192.png</url>
+      <url>//localhost:54935/img/icon-192.png</url>
       <title>Ulrich Germann</title>
-      <link>//localhost:1313/authors/ulrich-germann/</link>
+      <link>//localhost:54935/authors/ulrich-germann/</link>
     </image>
     
     <item>
       <title>The SUMMA Platform Prototype</title>
-      <link>//localhost:1313/publication/liepins-2017-summa/</link>
+      <link>//localhost:54935/publication/liepins-2017-summa/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/publication/liepins-2017-summa/</guid>
+      <guid>//localhost:54935/publication/liepins-2017-summa/</guid>
       <description></description>
     </item>
     

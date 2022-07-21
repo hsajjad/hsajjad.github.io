@@ -2,26 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages | Hassan Sajjad</title>
-    <link>//localhost:1313/pages/</link>
-      <atom:link href="//localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:54935/pages/</link>
+      <atom:link href="//localhost:54935/pages/index.xml" rel="self" type="application/rss+xml" />
     <description>Pages</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 28 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/img/icon-192.png</url>
+      <url>//localhost:54935/img/icon-192.png</url>
       <title>Pages</title>
-      <link>//localhost:1313/pages/</link>
+      <link>//localhost:54935/pages/</link>
     </image>
     
     <item>
       <title>News</title>
-      <link>//localhost:1313/pages/news/</link>
+      <link>//localhost:54935/pages/news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/pages/news/</guid>
+      <guid>//localhost:54935/pages/news/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Accepted Tutorial @NAACL 2021:&lt;/strong&gt; Fine-grained Interpretation and Causation Analysis in Deep NLP Models&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;NeuroX Toolkit on pip:&lt;/strong&gt; &lt;a href=&#34;https://pypi.org/project/neurox/&#34; target=&#34;_blank&#34;&gt;https://pypi.org/project/neurox/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tutorial @NAACL 2021:&lt;/strong&gt; &lt;a href=&#34;https://github.com/hsajjad/Interpretability-Tutorial-NAACL2021&#34; target=&#34;_blank&#34;&gt;Fine-grained Interpretation and Causation Analysis in Deep NLP Models&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Accepted Papers 2021:&lt;/strong&gt; 1 TACL, 1 NAACL, 1 ACL findings, 2 ICWSM, 1 IWCS&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Talk:&lt;/strong&gt; Exploiting Redundancy in Pre-trained Models for Efficient Transfer Learning. Facebook (Feb. 2021), Machine Learning and Data Analytics Symposium (Mar. 2021), National Research Council, Canada&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Talk:&lt;/strong&gt; Hidden Linguistics in Deep NLP Models. Heinrich-Heine Universität Düsseldorf, Germany&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Accepted @COLING 2020:&lt;/strong&gt; Two long papers, 1) Dialect Arabic machine translation, 2) location mention recognition&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Accepted @COLING 2020:&lt;/strong&gt; Two long papers, 1) Dialect Arabic machine translation, 2) Location mention recognition&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Accepted @EMNLP 2020:&lt;/strong&gt; Two long papers on interpretabiliy are accepted. Details coming soon!&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Media Coverage:&lt;/strong&gt; One billion tokens translated. &lt;a href=&#34;https://www.gulf-times.com/story/671869/QCRI-s-Shaheen-achieves-milestone-with-over-1bn-words-translated&#34; target=&#34;_blank&#34;&gt;Gulf times&lt;/a&gt;, &lt;a href=&#34;https://www.qatar-tribune.com/news-details/id/196901/qcri-s-shaheen-celebrates-milestone-with-over-1-billion-translated-words&#34; target=&#34;_blank&#34;&gt;Qatar tribune&lt;/a&gt; and several TV/radio channels such as Qatar radio and Qatar TV&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Released:&lt;/strong&gt; First-ever &lt;a href=&#34;http://mt.qcri.org/api&#34; target=&#34;_blank&#34;&gt;Dialectal Arabic to English Machine Translation System&lt;/a&gt; covering a large variety of Arabic dialects&lt;/li&gt;
@@ -55,9 +57,9 @@
     
     <item>
       <title>Deep Learning for Machine Translation</title>
-      <link>//localhost:1313/pages/dl4mt/</link>
+      <link>//localhost:54935/pages/dl4mt/</link>
       <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/pages/dl4mt/</guid>
+      <guid>//localhost:54935/pages/dl4mt/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;Lecturers: &lt;a href=&#34;https://hsajjad.github.io/&#34; target=&#34;_blank&#34;&gt;Hassan Sajjad&lt;/a&gt; and &lt;a href=&#34;https://fdalvi.github.io/&#34; target=&#34;_blank&#34;&gt;Fahim Dalvi&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -127,9 +129,9 @@
     
     <item>
       <title>Deep Learning for Natural Language Processing</title>
-      <link>//localhost:1313/pages/dl4nlp/</link>
+      <link>//localhost:54935/pages/dl4nlp/</link>
       <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/pages/dl4nlp/</guid>
+      <guid>//localhost:54935/pages/dl4nlp/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;Lecturers: &lt;a href=&#34;https://fdalvi.github.io/&#34; target=&#34;_blank&#34;&gt;Fahim Dalvi&lt;/a&gt; and &lt;a href=&#34;https://hsajjad.github.io/&#34; target=&#34;_blank&#34;&gt;Hassan Sajjad&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -194,9 +196,9 @@
     
     <item>
       <title>Interpretation of Deep NLP Models</title>
-      <link>//localhost:1313/pages/interpretation/</link>
+      <link>//localhost:54935/pages/interpretation/</link>
       <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/pages/interpretation/</guid>
+      <guid>//localhost:54935/pages/interpretation/</guid>
       <description>
 
 &lt;hr /&gt;
@@ -237,9 +239,9 @@
     
     <item>
       <title>Machine Translation</title>
-      <link>//localhost:1313/pages/mt/</link>
+      <link>//localhost:54935/pages/mt/</link>
       <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/pages/mt/</guid>
+      <guid>//localhost:54935/pages/mt/</guid>
       <description>
 
 &lt;hr /&gt;
@@ -268,9 +270,9 @@
     
     <item>
       <title>Research</title>
-      <link>//localhost:1313/pages/bio/</link>
+      <link>//localhost:54935/pages/bio/</link>
       <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/pages/bio/</guid>
+      <guid>//localhost:54935/pages/bio/</guid>
       <description>&lt;p&gt;My name is Hassan Sajjad. I am an NLP researcher, consultant and coach blended with entrepreneurial interests.&lt;/p&gt;
 
 &lt;p&gt;Currently, I am working as a research scientist in &lt;a href=&#34;http://qcri.com/our-research/arabic-language-technologies&#34; target=&#34;_blank&#34;&gt;Arabic Language Technologies group&lt;/a&gt; at &lt;a href=&#34;http://qcri.com/&#34; target=&#34;_blank&#34;&gt;Qatar Computing Research Institute&lt;/a&gt;, Qatar. I manage applied machine learning team that mainly work on interpretation of deep NLP models, machine translation and transfer learning.&lt;/p&gt;
@@ -309,9 +311,9 @@
     
     <item>
       <title>Research</title>
-      <link>//localhost:1313/pages/research/</link>
+      <link>//localhost:54935/pages/research/</link>
       <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/pages/research/</guid>
+      <guid>//localhost:54935/pages/research/</guid>
       <description>
 
 &lt;p&gt;I worked on several NLP problems in general. However, the two dominating areas where I worked the most are; machine translation and interpretation of deep NLP models. I have summarized them here: &lt;a href=&#34;#machine-translation&#34;&gt;Machine Translation&lt;/a&gt; and &lt;a href=&#34;#interpretation&#34;&gt;Interpretation&lt;/a&gt;. Later, I summarized my &lt;a href=&#34;#research-interests&#34;&gt;research interests&lt;/a&gt;.&lt;/p&gt;
@@ -408,9 +410,9 @@
     
     <item>
       <title>Talks</title>
-      <link>//localhost:1313/pages/talks/</link>
+      <link>//localhost:54935/pages/talks/</link>
       <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/pages/talks/</guid>
+      <guid>//localhost:54935/pages/talks/</guid>
       <description>&lt;hr /&gt;
 
 &lt;ul&gt;
@@ -448,17 +450,17 @@
     
     <item>
       <title>Teaching</title>
-      <link>//localhost:1313/pages/teaching/</link>
+      <link>//localhost:54935/pages/teaching/</link>
       <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/pages/teaching/</guid>
+      <guid>//localhost:54935/pages/teaching/</guid>
       <description>
 
 &lt;hr /&gt;
 
 &lt;div style=&#34;display: flex;flex-direction: row;align-items: center;&#34;&gt;
-  &lt;img src=&#34;//localhost:1313/files/testimonial-dl4mt-1.png&#34; alt=&#34;Drawing&#34; style=&#34;width: 45%;height: 100%;&#34;&gt; 
+  &lt;img src=&#34;//localhost:54935/files/testimonial-dl4mt-1.png&#34; alt=&#34;Drawing&#34; style=&#34;width: 45%;height: 100%;&#34;&gt; 
     &lt;div style=&#34;width:10%&#34;&gt;&lt;/div&gt;
-  &lt;img src=&#34;//localhost:1313/files/testimonial-dl4mt-2.png&#34; alt=&#34;Drawing&#34; style=&#34;width: 45%;height: 100%;&#34;&gt; 
+  &lt;img src=&#34;//localhost:54935/files/testimonial-dl4mt-2.png&#34; alt=&#34;Drawing&#34; style=&#34;width: 45%;height: 100%;&#34;&gt; 
 &lt;/div&gt;
 
 &lt;h3 id=&#34;deep-learning-for-natural-language-processing&#34;&gt;Deep Learning for Natural Language Processing&lt;/h3&gt;
@@ -469,11 +471,11 @@
 
 &lt;p&gt;A one week introductory course delivered at the DAAD organized Spring School, University of Moratuwa, Sri Lanka in March 2019.&lt;/p&gt;
 
-&lt;h3 id=&#34;from-theory-to-practice-deep-learning-for-natural-language-processing-hahahugoshortcode-s0-hbhb&#34;&gt;&lt;a href=&#34;//localhost:1313/pages/dl4nlp/&#34; target=&#34;_blank&#34;&gt;From Theory to Practice: Deep Learning for Natural Language Processing&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;from-theory-to-practice-deep-learning-for-natural-language-processing-hahahugoshortcode-s0-hbhb&#34;&gt;&lt;a href=&#34;//localhost:54935/pages/dl4nlp/&#34; target=&#34;_blank&#34;&gt;From Theory to Practice: Deep Learning for Natural Language Processing&lt;/a&gt;&lt;/h3&gt;
 
 &lt;p&gt;A 15 hours crash course on deep learning for NLP with practical exercises in Keras. The lecture series is conducted at the department of Computer Science and Applied Cognitive Science of the &lt;a href=&#34;https://www.uni-due.de/en/&#34; target=&#34;_blank&#34;&gt;University of Duisburg-Essen&lt;/a&gt;. Here is the course material including slides, python notebooks, etc. &lt;a href=&#34;../dl4nlp&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;deep-learning-for-machine-translation-hahahugoshortcode-s1-hbhb&#34;&gt;&lt;a href=&#34;//localhost:1313/pages/dl4mt/&#34; target=&#34;_blank&#34;&gt;Deep Learning for Machine Translation&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;deep-learning-for-machine-translation-hahahugoshortcode-s1-hbhb&#34;&gt;&lt;a href=&#34;//localhost:54935/pages/dl4mt/&#34; target=&#34;_blank&#34;&gt;Deep Learning for Machine Translation&lt;/a&gt;&lt;/h3&gt;
 
 &lt;p&gt;I with &lt;a href=&#34;https://fdalvi.github.io&#34; target=&#34;_blank&#34;&gt;Fahim Dalvi&lt;/a&gt; delivered a 15 hours intensive course on deep learning for machine translation in September 2017 at &lt;a href=&#34;http://cl-fallschool2017.phil.hhu.de/&#34; target=&#34;_blank&#34;&gt;DGfS-CL Fall School&lt;/a&gt; in &lt;a href=&#34;https://www.uni-duesseldorf.de/home/startseite.html&#34; target=&#34;_blank&#34;&gt;Heinrich Heine Universität Düsseldorf&lt;/a&gt;. We covered neural networks, language models, recurrent neural network and how they fit in to become a neural machine translation. &lt;a href=&#34;../dl4mt&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
 

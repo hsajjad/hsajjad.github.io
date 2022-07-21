@@ -2,61 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Preslav Nakov | Hassan Sajjad</title>
-    <link>//localhost:1313/authors/preslav-nakov/</link>
-      <atom:link href="//localhost:1313/authors/preslav-nakov/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:54935/authors/preslav-nakov/</link>
+      <atom:link href="//localhost:54935/authors/preslav-nakov/index.xml" rel="self" type="application/rss+xml" />
     <description>Preslav Nakov</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0300</lastBuildDate>
     <image>
-      <url>//localhost:1313/img/icon-192.png</url>
+      <url>//localhost:54935/img/icon-192.png</url>
       <title>Preslav Nakov</title>
-      <link>//localhost:1313/authors/preslav-nakov/</link>
+      <link>//localhost:54935/authors/preslav-nakov/</link>
     </image>
     
     <item>
+      <title>Fighting the COVID-19 Infodemic in Social Media: A Holistic Perspective and a Call to Arms</title>
+      <link>//localhost:54935/publication/firoj-covid-icwsm-21/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0300</pubDate>
+      <guid>//localhost:54935/publication/firoj-covid-icwsm-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Compressing Large-Scale Transformer-Based Models: A Case Study on BERT</title>
-      <link>//localhost:1313/publication/ganeshcompressingbert-arxiv/</link>
+      <link>//localhost:54935/publication/bert-survey-tacl-20/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0300</pubDate>
+      <guid>//localhost:54935/publication/bert-survey-tacl-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compressing Large-Scale Transformer-Based Models: A Case Study on BERT</title>
+      <link>//localhost:54935/publication/ganeshcompressingbert-arxiv/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/publication/ganeshcompressingbert-arxiv/</guid>
+      <guid>//localhost:54935/publication/ganeshcompressingbert-arxiv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Poor Man&#39;s BERT: Smaller and Faster Transformer Models</title>
-      <link>//localhost:1313/publication/sajjad-poormanbert-arxiv/</link>
+      <link>//localhost:54935/publication/sajjad-poormanbert-arxiv/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/publication/sajjad-poormanbert-arxiv/</guid>
+      <guid>//localhost:54935/publication/sajjad-poormanbert-arxiv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>One Size Does Not Fit All: Comparing NMT Representations of Different Granularities</title>
-      <link>//localhost:1313/publication/durrani-2019-naacl/</link>
+      <link>//localhost:54935/publication/durrani-2019-naacl/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/publication/durrani-2019-naacl/</guid>
+      <guid>//localhost:54935/publication/durrani-2019-naacl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>QCN Egyptian Arabic to English MachineTranslation System for NIST OpenMT15</title>
-      <link>//localhost:1313/publication/sajjad-nist-15/</link>
+      <link>//localhost:54935/publication/sajjad-nist-15/</link>
       <pubDate>Mon, 01 Jun 2015 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/publication/sajjad-nist-15/</guid>
+      <guid>//localhost:54935/publication/sajjad-nist-15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unsupervised word segmentation improves dialectal Arabic to English machine translation</title>
-      <link>//localhost:1313/publication/kamla-anlp-2014/</link>
+      <link>//localhost:54935/publication/kamla-anlp-2014/</link>
       <pubDate>Wed, 01 Oct 2014 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/publication/kamla-anlp-2014/</guid>
+      <guid>//localhost:54935/publication/kamla-anlp-2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>QCRI at IWSLT 2013: Experiments in Arabic-English and English-Arabic Spoken Language Translation</title>
-      <link>//localhost:1313/publication/sajjad-etal-iwslt-13/</link>
+      <link>//localhost:54935/publication/sajjad-etal-iwslt-13/</link>
       <pubDate>Sun, 01 Dec 2013 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/publication/sajjad-etal-iwslt-13/</guid>
+      <guid>//localhost:54935/publication/sajjad-etal-iwslt-13/</guid>
       <description></description>
     </item>
     

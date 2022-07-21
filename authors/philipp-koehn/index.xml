@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Philipp Koehn | Hassan Sajjad</title>
-    <link>//localhost:1313/authors/philipp-koehn/</link>
-      <atom:link href="//localhost:1313/authors/philipp-koehn/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:54935/authors/philipp-koehn/</link>
+      <atom:link href="//localhost:54935/authors/philipp-koehn/index.xml" rel="self" type="application/rss+xml" />
     <description>Philipp Koehn</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Apr 2014 00:00:00 +0300</lastBuildDate>
     <image>
-      <url>//localhost:1313/img/icon-192.png</url>
+      <url>//localhost:54935/img/icon-192.png</url>
       <title>Philipp Koehn</title>
-      <link>//localhost:1313/authors/philipp-koehn/</link>
+      <link>//localhost:54935/authors/philipp-koehn/</link>
     </image>
     
     <item>
       <title>Integrating an Unsupervised Transliteration Model into Statistical Machine Translation</title>
-      <link>//localhost:1313/publication/durrani-et-al-2014-eacl/</link>
+      <link>//localhost:54935/publication/durrani-et-al-2014-eacl/</link>
       <pubDate>Tue, 01 Apr 2014 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/publication/durrani-et-al-2014-eacl/</guid>
+      <guid>//localhost:54935/publication/durrani-et-al-2014-eacl/</guid>
       <description></description>
     </item>
     

@@ -2,661 +2,733 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Hassan Sajjad</title>
-    <link>//localhost:1313/authors/</link>
-      <atom:link href="//localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:54935/authors/</link>
+      <atom:link href="//localhost:54935/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0300</lastBuildDate>
     <image>
-      <url>//localhost:1313/img/icon-192.png</url>
+      <url>//localhost:54935/img/icon-192.png</url>
       <title>Authors</title>
-      <link>//localhost:1313/authors/</link>
+      <link>//localhost:54935/authors/</link>
     </image>
     
     <item>
-      <title>Ahmed Abdelali</title>
-      <link>//localhost:1313/authors/ahmed-abdelali/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/ahmed-abdelali/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Fahim Dalvi</title>
-      <link>//localhost:1313/authors/fahim-dalvi/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/fahim-dalvi/</guid>
+      <link>//localhost:54935/authors/fahim-dalvi/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0300</pubDate>
+      <guid>//localhost:54935/authors/fahim-dalvi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hassan Sajjad</title>
-      <link>//localhost:1313/authors/hassan-sajjad/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/hassan-sajjad/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Muhammad Imran</title>
-      <link>//localhost:1313/authors/muhammad-imran/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/muhammad-imran/</guid>
+      <link>//localhost:54935/authors/hassan-sajjad/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0300</pubDate>
+      <guid>//localhost:54935/authors/hassan-sajjad/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nadir Durrani</title>
-      <link>//localhost:1313/authors/nadir-durrani/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/nadir-durrani/</guid>
+      <link>//localhost:54935/authors/nadir-durrani/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0300</pubDate>
+      <guid>//localhost:54935/authors/nadir-durrani/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Reem Suwaileh</title>
-      <link>//localhost:1313/authors/reem-suwaileh/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/reem-suwaileh/</guid>
+      <title>Ahmed Abdelali</title>
+      <link>//localhost:54935/authors/ahmed-abdelali/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0300</pubDate>
+      <guid>//localhost:54935/authors/ahmed-abdelali/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Tamer Elsayed</title>
-      <link>//localhost:1313/authors/tamer-elsayed/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/tamer-elsayed/</guid>
+      <title>Alex Nikolov</title>
+      <link>//localhost:54935/authors/alex-nikolov/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0300</pubDate>
+      <guid>//localhost:54935/authors/alex-nikolov/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Yonatan Belinkov</title>
-      <link>//localhost:1313/authors/yonatan-belinkov/</link>
-      <pubDate>Sun, 01 Nov 2020 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/yonatan-belinkov/</guid>
+      <title>Esther Seyffarth</title>
+      <link>//localhost:54935/authors/esther-seyffarth/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0300</pubDate>
+      <guid>//localhost:54935/authors/esther-seyffarth/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Zhenhai Li, Juan Pino, Vishrav Chudhary, Francisco Guzman, Paul Michel, Graham Neubig, Hassan Sajjad, Nadir Durrani, Yonatan Belinkov, Philipp Koehn, Xian Li Lucia Specia</title>
-      <link>//localhost:1313/authors/zhenhai-li-juan-pino-vishrav-chudhary-francisco-guzman-paul-michel-graham-neubig-hassan-sajjad-nadir-durrani-yonatan-belinkov-philipp-koehn-xian-li-lucia-specia/</link>
-      <pubDate>Sun, 01 Nov 2020 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/zhenhai-li-juan-pino-vishrav-chudhary-francisco-guzman-paul-michel-graham-neubig-hassan-sajjad-nadir-durrani-yonatan-belinkov-philipp-koehn-xian-li-lucia-specia/</guid>
+      <title>Ferda Ofli</title>
+      <link>//localhost:54935/authors/ferda-ofli/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0300</pubDate>
+      <guid>//localhost:54935/authors/ferda-ofli/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>James Glass</title>
-      <link>//localhost:1313/authors/james-glass/</link>
-      <pubDate>Sun, 05 Jul 2020 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/james-glass/</guid>
+      <title>Firoj Alam</title>
+      <link>//localhost:54935/authors/firoj-alam/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0300</pubDate>
+      <guid>//localhost:54935/authors/firoj-alam/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>John M. Wu</title>
-      <link>//localhost:1313/authors/john-m.-wu/</link>
-      <pubDate>Sun, 05 Jul 2020 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/john-m.-wu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Abdul Rafae</title>
-      <link>//localhost:1313/authors/abdul-rafae/</link>
-      <pubDate>Sun, 01 Mar 2020 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/abdul-rafae/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Asim Karim</title>
-      <link>//localhost:1313/authors/asim-karim/</link>
-      <pubDate>Sun, 01 Mar 2020 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/asim-karim/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Faisal Kamiran</title>
-      <link>//localhost:1313/authors/faisal-kamiran/</link>
-      <pubDate>Sun, 01 Mar 2020 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/faisal-kamiran/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jia Xu</title>
-      <link>//localhost:1313/authors/jia-xu/</link>
-      <pubDate>Sun, 01 Mar 2020 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/jia-xu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deming Chen</title>
-      <link>//localhost:1313/authors/deming-chen/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/deming-chen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Marianne Winslett</title>
-      <link>//localhost:1313/authors/marianne-winslett/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/marianne-winslett/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mohammad Haris Ali Khan</title>
-      <link>//localhost:1313/authors/mohammad-haris-ali-khan/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/mohammad-haris-ali-khan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Prakhar Ganesh</title>
-      <link>//localhost:1313/authors/prakhar-ganesh/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/prakhar-ganesh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Preslav Nakov</title>
-      <link>//localhost:1313/authors/preslav-nakov/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/preslav-nakov/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Xin Lou</title>
-      <link>//localhost:1313/authors/xin-lou/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/xin-lou/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yao Chen</title>
-      <link>//localhost:1313/authors/yao-chen/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/yao-chen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yin Yang</title>
-      <link>//localhost:1313/authors/yin-yang/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/yin-yang/</guid>
+      <title>Giovanni Da San Martino</title>
+      <link>//localhost:54935/authors/giovanni-da-san-martino/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0300</pubDate>
+      <guid>//localhost:54935/authors/giovanni-da-san-martino/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hamdy Mubarak</title>
-      <link>//localhost:1313/authors/hamdy-mubarak/</link>
-      <pubDate>Fri, 01 Nov 2019 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/hamdy-mubarak/</guid>
+      <link>//localhost:54935/authors/hamdy-mubarak/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0300</pubDate>
+      <guid>//localhost:54935/authors/hamdy-mubarak/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kareem Darwish</title>
-      <link>//localhost:1313/authors/kareem-darwish/</link>
-      <pubDate>Fri, 01 Nov 2019 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/kareem-darwish/</guid>
+      <link>//localhost:54935/authors/kareem-darwish/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0300</pubDate>
+      <guid>//localhost:54935/authors/kareem-darwish/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Mohamed Eldesouki</title>
-      <link>//localhost:1313/authors/mohamed-eldesouki/</link>
-      <pubDate>Fri, 01 Nov 2019 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/mohamed-eldesouki/</guid>
+      <title>Laura Kallmeyer</title>
+      <link>//localhost:54935/authors/laura-kallmeyer/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0300</pubDate>
+      <guid>//localhost:54935/authors/laura-kallmeyer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Muhammad Imran</title>
+      <link>//localhost:54935/authors/muhammad-imran/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0300</pubDate>
+      <guid>//localhost:54935/authors/muhammad-imran/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Narine Kokhlikyan</title>
+      <link>//localhost:54935/authors/narine-kokhlikyan/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0300</pubDate>
+      <guid>//localhost:54935/authors/narine-kokhlikyan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preslav Nakov</title>
+      <link>//localhost:54935/authors/preslav-nakov/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0300</pubDate>
+      <guid>//localhost:54935/authors/preslav-nakov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shaden Shaar</title>
+      <link>//localhost:54935/authors/shaden-shaar/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0300</pubDate>
+      <guid>//localhost:54935/authors/shaden-shaar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Younes Samih</title>
-      <link>//localhost:1313/authors/younes-samih/</link>
+      <link>//localhost:54935/authors/younes-samih/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0300</pubDate>
+      <guid>//localhost:54935/authors/younes-samih/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deming Chen</title>
+      <link>//localhost:54935/authors/deming-chen/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0300</pubDate>
+      <guid>//localhost:54935/authors/deming-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marianne Winslett</title>
+      <link>//localhost:54935/authors/marianne-winslett/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0300</pubDate>
+      <guid>//localhost:54935/authors/marianne-winslett/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mohammad Ali Khan</title>
+      <link>//localhost:54935/authors/mohammad-ali-khan/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0300</pubDate>
+      <guid>//localhost:54935/authors/mohammad-ali-khan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prakhar Ganesh</title>
+      <link>//localhost:54935/authors/prakhar-ganesh/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0300</pubDate>
+      <guid>//localhost:54935/authors/prakhar-ganesh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xin Lou</title>
+      <link>//localhost:54935/authors/xin-lou/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0300</pubDate>
+      <guid>//localhost:54935/authors/xin-lou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yao Chen</title>
+      <link>//localhost:54935/authors/yao-chen/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0300</pubDate>
+      <guid>//localhost:54935/authors/yao-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yin Yang</title>
+      <link>//localhost:54935/authors/yin-yang/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0300</pubDate>
+      <guid>//localhost:54935/authors/yin-yang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reem Suwaileh</title>
+      <link>//localhost:54935/authors/reem-suwaileh/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0300</pubDate>
+      <guid>//localhost:54935/authors/reem-suwaileh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tamer Elsayed</title>
+      <link>//localhost:54935/authors/tamer-elsayed/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0300</pubDate>
+      <guid>//localhost:54935/authors/tamer-elsayed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yonatan Belinkov</title>
+      <link>//localhost:54935/authors/yonatan-belinkov/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0300</pubDate>
+      <guid>//localhost:54935/authors/yonatan-belinkov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhenhai Li, Juan Pino, Vishrav Chudhary, Francisco Guzman, Paul Michel, Graham Neubig, Hassan Sajjad, Nadir Durrani, Yonatan Belinkov, Philipp Koehn, Xian Li Lucia Specia</title>
+      <link>//localhost:54935/authors/zhenhai-li-juan-pino-vishrav-chudhary-francisco-guzman-paul-michel-graham-neubig-hassan-sajjad-nadir-durrani-yonatan-belinkov-philipp-koehn-xian-li-lucia-specia/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0300</pubDate>
+      <guid>//localhost:54935/authors/zhenhai-li-juan-pino-vishrav-chudhary-francisco-guzman-paul-michel-graham-neubig-hassan-sajjad-nadir-durrani-yonatan-belinkov-philipp-koehn-xian-li-lucia-specia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>James Glass</title>
+      <link>//localhost:54935/authors/james-glass/</link>
+      <pubDate>Sun, 05 Jul 2020 00:00:00 +0300</pubDate>
+      <guid>//localhost:54935/authors/james-glass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>John M. Wu</title>
+      <link>//localhost:54935/authors/john-m.-wu/</link>
+      <pubDate>Sun, 05 Jul 2020 00:00:00 +0300</pubDate>
+      <guid>//localhost:54935/authors/john-m.-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abdul Rafae</title>
+      <link>//localhost:54935/authors/abdul-rafae/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0300</pubDate>
+      <guid>//localhost:54935/authors/abdul-rafae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asim Karim</title>
+      <link>//localhost:54935/authors/asim-karim/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0300</pubDate>
+      <guid>//localhost:54935/authors/asim-karim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Faisal Kamiran</title>
+      <link>//localhost:54935/authors/faisal-kamiran/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0300</pubDate>
+      <guid>//localhost:54935/authors/faisal-kamiran/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jia Xu</title>
+      <link>//localhost:54935/authors/jia-xu/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0300</pubDate>
+      <guid>//localhost:54935/authors/jia-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mohammad Haris Ali Khan</title>
+      <link>//localhost:54935/authors/mohammad-haris-ali-khan/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0300</pubDate>
+      <guid>//localhost:54935/authors/mohammad-haris-ali-khan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mohamed Eldesouki</title>
+      <link>//localhost:54935/authors/mohamed-eldesouki/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/younes-samih/</guid>
+      <guid>//localhost:54935/authors/mohamed-eldesouki/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Paul Michel, Antonios Anastasopoulos, Yonatan Belinkov, Nadir Durrani, Orhan Firat, Philipp Koehn, Graham Neubig, Juan Pino, Xian Li</title>
-      <link>//localhost:1313/authors/paul-michel-antonios-anastasopoulos-yonatan-belinkov-nadir-durrani-orhan-firat-philipp-koehn-graham-neubig-juan-pino-xian-li/</link>
+      <link>//localhost:54935/authors/paul-michel-antonios-anastasopoulos-yonatan-belinkov-nadir-durrani-orhan-firat-philipp-koehn-graham-neubig-juan-pino-xian-li/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/paul-michel-antonios-anastasopoulos-yonatan-belinkov-nadir-durrani-orhan-firat-philipp-koehn-graham-neubig-juan-pino-xian-li/</guid>
+      <guid>//localhost:54935/authors/paul-michel-antonios-anastasopoulos-yonatan-belinkov-nadir-durrani-orhan-firat-philipp-koehn-graham-neubig-juan-pino-xian-li/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>D. Anthony Bau</title>
-      <link>//localhost:1313/authors/d.-anthony-bau/</link>
+      <title>D. Anthony Bau*</title>
+      <link>//localhost:54935/authors/d.-anthony-bau/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/d.-anthony-bau/</guid>
+      <guid>//localhost:54935/authors/d.-anthony-bau/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Avery Nortonsmith</title>
-      <link>//localhost:1313/authors/avery-nortonsmith/</link>
+      <link>//localhost:54935/authors/avery-nortonsmith/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/avery-nortonsmith/</guid>
+      <guid>//localhost:54935/authors/avery-nortonsmith/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stephan Vogel</title>
-      <link>//localhost:1313/authors/stephan-vogel/</link>
+      <link>//localhost:54935/authors/stephan-vogel/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/stephan-vogel/</guid>
+      <guid>//localhost:54935/authors/stephan-vogel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Houda Bouamor</title>
-      <link>//localhost:1313/authors/houda-bouamor/</link>
+      <link>//localhost:54935/authors/houda-bouamor/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/houda-bouamor/</guid>
+      <guid>//localhost:54935/authors/houda-bouamor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lluís Màrquez</title>
-      <link>//localhost:1313/authors/lluis-marquez/</link>
+      <link>//localhost:54935/authors/lluis-marquez/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/lluis-marquez/</guid>
+      <guid>//localhost:54935/authors/lluis-marquez/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dat Tien Nguyen</title>
-      <link>//localhost:1313/authors/dat-tien-nguyen/</link>
+      <link>//localhost:54935/authors/dat-tien-nguyen/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/dat-tien-nguyen/</guid>
+      <guid>//localhost:54935/authors/dat-tien-nguyen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kamla Al-Mannai</title>
-      <link>//localhost:1313/authors/kamla-al-mannai/</link>
+      <link>//localhost:54935/authors/kamla-al-mannai/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/kamla-al-mannai/</guid>
+      <guid>//localhost:54935/authors/kamla-al-mannai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Prasenjit Mitra</title>
-      <link>//localhost:1313/authors/prasenjit-mitra/</link>
+      <link>//localhost:54935/authors/prasenjit-mitra/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/prasenjit-mitra/</guid>
+      <guid>//localhost:54935/authors/prasenjit-mitra/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shafiq Joty</title>
-      <link>//localhost:1313/authors/shafiq-joty/</link>
+      <link>//localhost:54935/authors/shafiq-joty/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/shafiq-joty/</guid>
+      <guid>//localhost:54935/authors/shafiq-joty/</guid>
       <description></description>
     </item>
     
     <item>
       <title> others</title>
-      <link>//localhost:1313/authors/others/</link>
+      <link>//localhost:54935/authors/others/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/others/</guid>
+      <guid>//localhost:54935/authors/others/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ahmed Ali</title>
-      <link>//localhost:1313/authors/ahmed-ali/</link>
+      <link>//localhost:54935/authors/ahmed-ali/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/ahmed-ali/</guid>
+      <guid>//localhost:54935/authors/ahmed-ali/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alexandra Birch</title>
-      <link>//localhost:1313/authors/alexandra-birch/</link>
+      <link>//localhost:54935/authors/alexandra-birch/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/alexandra-birch/</guid>
+      <guid>//localhost:54935/authors/alexandra-birch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Guntis Barzdins</title>
-      <link>//localhost:1313/authors/guntis-barzdins/</link>
+      <link>//localhost:54935/authors/guntis-barzdins/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/guntis-barzdins/</guid>
+      <guid>//localhost:54935/authors/guntis-barzdins/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hervé Bourlard</title>
-      <link>//localhost:1313/authors/herve-bourlard/</link>
+      <link>//localhost:54935/authors/herve-bourlard/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/herve-bourlard/</guid>
+      <guid>//localhost:54935/authors/herve-bourlard/</guid>
       <description></description>
     </item>
     
     <item>
       <title>João PrietoJ</title>
-      <link>//localhost:1313/authors/joao-prietoj/</link>
+      <link>//localhost:54935/authors/joao-prietoj/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/joao-prietoj/</guid>
+      <guid>//localhost:54935/authors/joao-prietoj/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ondrej Klejch</title>
-      <link>//localhost:1313/authors/ondrej-klejch/</link>
+      <link>//localhost:54935/authors/ondrej-klejch/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/ondrej-klejch/</guid>
+      <guid>//localhost:54935/authors/ondrej-klejch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Peggy van der Kreefti</title>
-      <link>//localhost:1313/authors/peggy-van-der-kreefti/</link>
+      <link>//localhost:54935/authors/peggy-van-der-kreefti/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/peggy-van-der-kreefti/</guid>
+      <guid>//localhost:54935/authors/peggy-van-der-kreefti/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Renars Liepins</title>
-      <link>//localhost:1313/authors/renars-liepins/</link>
+      <link>//localhost:54935/authors/renars-liepins/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/renars-liepins/</guid>
+      <guid>//localhost:54935/authors/renars-liepins/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sameer Khurana</title>
-      <link>//localhost:1313/authors/sameer-khurana/</link>
+      <link>//localhost:54935/authors/sameer-khurana/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/sameer-khurana/</guid>
+      <guid>//localhost:54935/authors/sameer-khurana/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Steve Renals</title>
-      <link>//localhost:1313/authors/steve-renals/</link>
+      <link>//localhost:54935/authors/steve-renals/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/steve-renals/</guid>
+      <guid>//localhost:54935/authors/steve-renals/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Susanne Weberu</title>
-      <link>//localhost:1313/authors/susanne-weberu/</link>
+      <link>//localhost:54935/authors/susanne-weberu/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/susanne-weberu/</guid>
+      <guid>//localhost:54935/authors/susanne-weberu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ulrich Germann</title>
-      <link>//localhost:1313/authors/ulrich-germann/</link>
+      <link>//localhost:54935/authors/ulrich-germann/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/ulrich-germann/</guid>
+      <guid>//localhost:54935/authors/ulrich-germann/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yifan Zhang</title>
-      <link>//localhost:1313/authors/yifan-zhang/</link>
+      <link>//localhost:54935/authors/yifan-zhang/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/yifan-zhang/</guid>
+      <guid>//localhost:54935/authors/yifan-zhang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alexander Fraser</title>
-      <link>//localhost:1313/authors/alexander-fraser/</link>
+      <link>//localhost:54935/authors/alexander-fraser/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/alexander-fraser/</guid>
+      <guid>//localhost:54935/authors/alexander-fraser/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Helmut Schmid</title>
-      <link>//localhost:1313/authors/helmut-schmid/</link>
+      <link>//localhost:54935/authors/helmut-schmid/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/helmut-schmid/</guid>
+      <guid>//localhost:54935/authors/helmut-schmid/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hinrich Schütze</title>
-      <link>//localhost:1313/authors/hinrich-schutze/</link>
+      <link>//localhost:54935/authors/hinrich-schutze/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/hinrich-schutze/</guid>
+      <guid>//localhost:54935/authors/hinrich-schutze/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Francisco Guzman</title>
-      <link>//localhost:1313/authors/francisco-guzman/</link>
+      <link>//localhost:54935/authors/francisco-guzman/</link>
       <pubDate>Sat, 01 Oct 2016 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/francisco-guzman/</guid>
+      <guid>//localhost:54935/authors/francisco-guzman/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wajdi Zaghouani</title>
-      <link>//localhost:1313/authors/wajdi-zaghouani/</link>
+      <link>//localhost:54935/authors/wajdi-zaghouani/</link>
       <pubDate>Sat, 01 Oct 2016 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/wajdi-zaghouani/</guid>
+      <guid>//localhost:54935/authors/wajdi-zaghouani/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Irina P Temnikova</title>
-      <link>//localhost:1313/authors/irina-p-temnikova/</link>
+      <link>//localhost:54935/authors/irina-p-temnikova/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/irina-p-temnikova/</guid>
+      <guid>//localhost:54935/authors/irina-p-temnikova/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Abdul Qayyum</title>
-      <link>//localhost:1313/authors/abdul-qayyum/</link>
+      <link>//localhost:54935/authors/abdul-qayyum/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/abdul-qayyum/</guid>
+      <guid>//localhost:54935/authors/abdul-qayyum/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Irina Temnikova</title>
-      <link>//localhost:1313/authors/irina-temnikova/</link>
+      <link>//localhost:54935/authors/irina-temnikova/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/irina-temnikova/</guid>
+      <guid>//localhost:54935/authors/irina-temnikova/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Muhammad Moeen Uddin</title>
-      <link>//localhost:1313/authors/muhammad-moeen-uddin/</link>
+      <link>//localhost:54935/authors/muhammad-moeen-uddin/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/muhammad-moeen-uddin/</guid>
+      <guid>//localhost:54935/authors/muhammad-moeen-uddin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kemal Oflazer</title>
-      <link>//localhost:1313/authors/kemal-oflazer/</link>
+      <link>//localhost:54935/authors/kemal-oflazer/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/kemal-oflazer/</guid>
+      <guid>//localhost:54935/authors/kemal-oflazer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ahmed El Kholy</title>
-      <link>//localhost:1313/authors/ahmed-el-kholy/</link>
+      <link>//localhost:54935/authors/ahmed-el-kholy/</link>
       <pubDate>Mon, 01 Jun 2015 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/ahmed-el-kholy/</guid>
+      <guid>//localhost:54935/authors/ahmed-el-kholy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nizar Habash</title>
-      <link>//localhost:1313/authors/nizar-habash/</link>
+      <link>//localhost:54935/authors/nizar-habash/</link>
       <pubDate>Mon, 01 Jun 2015 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/nizar-habash/</guid>
+      <guid>//localhost:54935/authors/nizar-habash/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wael Salloum</title>
-      <link>//localhost:1313/authors/wael-salloum/</link>
+      <link>//localhost:54935/authors/wael-salloum/</link>
       <pubDate>Mon, 01 Jun 2015 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/wael-salloum/</guid>
+      <guid>//localhost:54935/authors/wael-salloum/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fabrizio Sebastiani</title>
-      <link>//localhost:1313/authors/fabrizio-sebastiani/</link>
+      <link>//localhost:54935/authors/fabrizio-sebastiani/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/fabrizio-sebastiani/</guid>
+      <guid>//localhost:54935/authors/fabrizio-sebastiani/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tarek El-Ganainy</title>
-      <link>//localhost:1313/authors/tarek-el-ganainy/</link>
+      <link>//localhost:54935/authors/tarek-el-ganainy/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/tarek-el-ganainy/</guid>
+      <guid>//localhost:54935/authors/tarek-el-ganainy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Walid Magdy</title>
-      <link>//localhost:1313/authors/walid-magdy/</link>
+      <link>//localhost:54935/authors/walid-magdy/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/walid-magdy/</guid>
+      <guid>//localhost:54935/authors/walid-magdy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alaa Khader</title>
-      <link>//localhost:1313/authors/alaa-khader/</link>
+      <link>//localhost:54935/authors/alaa-khader/</link>
       <pubDate>Wed, 01 Oct 2014 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/alaa-khader/</guid>
+      <guid>//localhost:54935/authors/alaa-khader/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fahad Al Obaidli</title>
-      <link>//localhost:1313/authors/fahad-al-obaidli/</link>
+      <link>//localhost:54935/authors/fahad-al-obaidli/</link>
       <pubDate>Wed, 01 Oct 2014 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/fahad-al-obaidli/</guid>
+      <guid>//localhost:54935/authors/fahad-al-obaidli/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mohammad Imran</title>
-      <link>//localhost:1313/authors/mohammad-imran/</link>
+      <link>//localhost:54935/authors/mohammad-imran/</link>
       <pubDate>Thu, 01 May 2014 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/mohammad-imran/</guid>
+      <guid>//localhost:54935/authors/mohammad-imran/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mohammad Moeen Uddin</title>
-      <link>//localhost:1313/authors/mohammad-moeen-uddin/</link>
+      <link>//localhost:54935/authors/mohammad-moeen-uddin/</link>
       <pubDate>Thu, 01 May 2014 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/mohammad-moeen-uddin/</guid>
+      <guid>//localhost:54935/authors/mohammad-moeen-uddin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hieu Hoang</title>
-      <link>//localhost:1313/authors/hieu-hoang/</link>
+      <link>//localhost:54935/authors/hieu-hoang/</link>
       <pubDate>Tue, 01 Apr 2014 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/hieu-hoang/</guid>
+      <guid>//localhost:54935/authors/hieu-hoang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Philipp Koehn</title>
-      <link>//localhost:1313/authors/philipp-koehn/</link>
+      <link>//localhost:54935/authors/philipp-koehn/</link>
       <pubDate>Tue, 01 Apr 2014 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/philipp-koehn/</guid>
+      <guid>//localhost:54935/authors/philipp-koehn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kenton Murray</title>
-      <link>//localhost:1313/authors/kenton-murray/</link>
+      <link>//localhost:54935/authors/kenton-murray/</link>
       <pubDate>Sun, 01 Dec 2013 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/kenton-murray/</guid>
+      <guid>//localhost:54935/authors/kenton-murray/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Marion Weller</title>
-      <link>//localhost:1313/authors/marion-weller/</link>
+      <link>//localhost:54935/authors/marion-weller/</link>
       <pubDate>Thu, 01 Aug 2013 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/marion-weller/</guid>
+      <guid>//localhost:54935/authors/marion-weller/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Max Kisselew</title>
-      <link>//localhost:1313/authors/max-kisselew/</link>
+      <link>//localhost:54935/authors/max-kisselew/</link>
       <pubDate>Thu, 01 Aug 2013 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/max-kisselew/</guid>
+      <guid>//localhost:54935/authors/max-kisselew/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Richárd Farkas</title>
-      <link>//localhost:1313/authors/richard-farkas/</link>
+      <link>//localhost:54935/authors/richard-farkas/</link>
       <pubDate>Thu, 01 Aug 2013 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/richard-farkas/</guid>
+      <guid>//localhost:54935/authors/richard-farkas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Svetlana Smekalova</title>
-      <link>//localhost:1313/authors/svetlana-smekalova/</link>
+      <link>//localhost:54935/authors/svetlana-smekalova/</link>
       <pubDate>Thu, 01 Aug 2013 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/svetlana-smekalova/</guid>
+      <guid>//localhost:54935/authors/svetlana-smekalova/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Michael Gamon</title>
-      <link>//localhost:1313/authors/michael-gamon/</link>
+      <link>//localhost:54935/authors/michael-gamon/</link>
       <pubDate>Sat, 01 Dec 2012 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/michael-gamon/</guid>
+      <guid>//localhost:54935/authors/michael-gamon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Patrick Pantel</title>
-      <link>//localhost:1313/authors/patrick-pantel/</link>
+      <link>//localhost:54935/authors/patrick-pantel/</link>
       <pubDate>Sat, 01 Dec 2012 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/authors/patrick-pantel/</guid>
+      <guid>//localhost:54935/authors/patrick-pantel/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>//localhost:1313/authors/admin/</link>
+      <link>//localhost:54935/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/admin/</guid>
+      <guid>//localhost:54935/authors/admin/</guid>
       <description>
 
 &lt;p&gt;I am an NLP researcher, consultant and mentor blended with entrepreneurial interests.
@@ -683,7 +755,9 @@ Currently, I am working as a senior research scientist in &lt;a href=&#34;http:/
 &lt;h3 id=&#34;recent-news&#34;&gt;Recent News&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Accepted Tutorial @NAACL 2021:&lt;/strong&gt; Fine-grained Interpretation and Causation Analysis in Deep NLP Models&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;NeuroX Toolkit on pip:&lt;/strong&gt; &lt;a href=&#34;https://pypi.org/project/neurox/&#34; target=&#34;_blank&#34;&gt;https://pypi.org/project/neurox/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Accepted Papers 2021:&lt;/strong&gt; 1@TACL, 1@NAACL, 1@ACL findings, 2@ICWSM, 1@IWCS&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tutorial @NAACL 2021:&lt;/strong&gt; &lt;a href=&#34;https://github.com/hsajjad/Interpretability-Tutorial-NAACL2021&#34; target=&#34;_blank&#34;&gt;Fine-grained Interpretation and Causation Analysis in Deep NLP Models&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Accepted papers 2020:&lt;/strong&gt; 2@EMNLP, 2@COLING, 1@ACL, 1@CL, 1@NLE&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Talk:&lt;/strong&gt; Exploiting Redundancy in Pre-trained Models for Efficient Transfer Learning at Machine Learning and Data Analytics Symposium, Qatar (Mar. 2021), Facebook, US (Feb 2021) and National Research Council, Canada (Nov. 2020)&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Talk:&lt;/strong&gt; Hidden Linguistics in Deep NLP Models. Heinrich-Heine Universität Düsseldorf, Germany&lt;/li&gt;
@@ -699,7 +773,7 @@ Currently, I am working as a senior research scientist in &lt;a href=&#34;http:/
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
-    See all previous news here: &lt;a href=&#34;//localhost:1313/pages/news/&#34;&gt;News&lt;/a&gt;
+    See all previous news here: &lt;a href=&#34;//localhost:54935/pages/news/&#34;&gt;News&lt;/a&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 </description>

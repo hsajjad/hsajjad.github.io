@@ -2,53 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kareem Darwish | Hassan Sajjad</title>
-    <link>//localhost:1313/authors/kareem-darwish/</link>
-      <atom:link href="//localhost:1313/authors/kareem-darwish/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:54935/authors/kareem-darwish/</link>
+      <atom:link href="//localhost:54935/authors/kareem-darwish/index.xml" rel="self" type="application/rss+xml" />
     <description>Kareem Darwish</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0300</lastBuildDate>
     <image>
-      <url>//localhost:1313/img/icon-192.png</url>
+      <url>//localhost:54935/img/icon-192.png</url>
       <title>Kareem Darwish</title>
-      <link>//localhost:1313/authors/kareem-darwish/</link>
+      <link>//localhost:54935/authors/kareem-darwish/</link>
     </image>
     
     <item>
+      <title>Fighting the COVID-19 Infodemic in Social Media: A Holistic Perspective and a Call to Arms</title>
+      <link>//localhost:54935/publication/firoj-covid-icwsm-21/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0300</pubDate>
+      <guid>//localhost:54935/publication/firoj-covid-icwsm-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A System for Diacritizing Four Varieties of Arabic</title>
-      <link>//localhost:1313/publication/diacritic-2019-emnlp/</link>
+      <link>//localhost:54935/publication/diacritic-2019-emnlp/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/publication/diacritic-2019-emnlp/</guid>
+      <guid>//localhost:54935/publication/diacritic-2019-emnlp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Highly Effective Arabic Diacritization using Sequence to Sequence Modeling</title>
-      <link>//localhost:1313/publication/mubarak-2019-naacl/</link>
+      <link>//localhost:54935/publication/mubarak-2019-naacl/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/publication/mubarak-2019-naacl/</guid>
+      <guid>//localhost:54935/publication/mubarak-2019-naacl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>QCRI @ DSL 2016: Spoken Arabic Dialect Identification Using Textual</title>
-      <link>//localhost:1313/publication/eldesouki-2016-qcri/</link>
+      <link>//localhost:54935/publication/eldesouki-2016-qcri/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/publication/eldesouki-2016-qcri/</guid>
+      <guid>//localhost:54935/publication/eldesouki-2016-qcri/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Verifiably Effective Arabic Dialect Identification.</title>
-      <link>//localhost:1313/publication/darwish-2014-verifiably/</link>
+      <link>//localhost:54935/publication/darwish-2014-verifiably/</link>
       <pubDate>Wed, 01 Oct 2014 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/publication/darwish-2014-verifiably/</guid>
+      <guid>//localhost:54935/publication/darwish-2014-verifiably/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Translating Dialectal Arabic to English</title>
-      <link>//localhost:1313/publication/sajjad-2013-translating/</link>
+      <link>//localhost:54935/publication/sajjad-2013-translating/</link>
       <pubDate>Thu, 01 Aug 2013 00:00:00 +0300</pubDate>
-      <guid>//localhost:1313/publication/sajjad-2013-translating/</guid>
+      <guid>//localhost:54935/publication/sajjad-2013-translating/</guid>
       <description></description>
     </item>
     
