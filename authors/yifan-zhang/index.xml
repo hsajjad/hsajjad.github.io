@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yifan Zhang | Hassan Sajjad</title>
-    <link>//localhost:54935/authors/yifan-zhang/</link>
-      <atom:link href="//localhost:54935/authors/yifan-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/authors/yifan-zhang/</link>
+      <atom:link href="//localhost:1313/authors/yifan-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Yifan Zhang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Apr 2017 00:00:00 +0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Apr 2017 00:00:00 -0300</lastBuildDate>
     <image>
-      <url>//localhost:54935/img/icon-192.png</url>
+      <url>//localhost:1313/img/icon-192.png</url>
       <title>Yifan Zhang</title>
-      <link>//localhost:54935/authors/yifan-zhang/</link>
+      <link>//localhost:1313/authors/yifan-zhang/</link>
     </image>
     
     <item>
       <title>QCRI Live Speech Translation System</title>
-      <link>//localhost:54935/publication/dalvi-2017-qcri/</link>
-      <pubDate>Sat, 01 Apr 2017 00:00:00 +0300</pubDate>
-      <guid>//localhost:54935/publication/dalvi-2017-qcri/</guid>
+      <link>//localhost:1313/publication/dalvi-2017-qcri/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 -0300</pubDate>
+      <guid>//localhost:1313/publication/dalvi-2017-qcri/</guid>
       <description></description>
     </item>
     

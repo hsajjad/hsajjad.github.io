@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alaa Khader | Hassan Sajjad</title>
-    <link>//localhost:54935/authors/alaa-khader/</link>
-      <atom:link href="//localhost:54935/authors/alaa-khader/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/authors/alaa-khader/</link>
+      <atom:link href="//localhost:1313/authors/alaa-khader/index.xml" rel="self" type="application/rss+xml" />
     <description>Alaa Khader</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Oct 2014 00:00:00 +0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Oct 2014 00:00:00 -0300</lastBuildDate>
     <image>
-      <url>//localhost:54935/img/icon-192.png</url>
+      <url>//localhost:1313/img/icon-192.png</url>
       <title>Alaa Khader</title>
-      <link>//localhost:54935/authors/alaa-khader/</link>
+      <link>//localhost:1313/authors/alaa-khader/</link>
     </image>
     
     <item>
       <title>Unsupervised word segmentation improves dialectal Arabic to English machine translation</title>
-      <link>//localhost:54935/publication/kamla-anlp-2014/</link>
-      <pubDate>Wed, 01 Oct 2014 00:00:00 +0300</pubDate>
-      <guid>//localhost:54935/publication/kamla-anlp-2014/</guid>
+      <link>//localhost:1313/publication/kamla-anlp-2014/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 -0300</pubDate>
+      <guid>//localhost:1313/publication/kamla-anlp-2014/</guid>
       <description></description>
     </item>
     

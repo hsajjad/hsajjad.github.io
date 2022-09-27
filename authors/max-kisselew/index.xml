@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Max Kisselew | Hassan Sajjad</title>
-    <link>//localhost:54935/authors/max-kisselew/</link>
-      <atom:link href="//localhost:54935/authors/max-kisselew/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/authors/max-kisselew/</link>
+      <atom:link href="//localhost:1313/authors/max-kisselew/index.xml" rel="self" type="application/rss+xml" />
     <description>Max Kisselew</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2013 00:00:00 +0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2013 00:00:00 -0300</lastBuildDate>
     <image>
-      <url>//localhost:54935/img/icon-192.png</url>
+      <url>//localhost:1313/img/icon-192.png</url>
       <title>Max Kisselew</title>
-      <link>//localhost:54935/authors/max-kisselew/</link>
+      <link>//localhost:1313/authors/max-kisselew/</link>
     </image>
     
     <item>
       <title>Munich-Edinburgh-Stuttgart Submissions at WMT13: Morphological and Syntactic Processing for SMT</title>
-      <link>//localhost:54935/publication/weller-13-wmt-13/</link>
-      <pubDate>Thu, 01 Aug 2013 00:00:00 +0300</pubDate>
-      <guid>//localhost:54935/publication/weller-13-wmt-13/</guid>
+      <link>//localhost:1313/publication/weller-13-wmt-13/</link>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 -0300</pubDate>
+      <guid>//localhost:1313/publication/weller-13-wmt-13/</guid>
       <description></description>
     </item>
     

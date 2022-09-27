@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Avery Nortonsmith | Hassan Sajjad</title>
-    <link>//localhost:54935/authors/avery-nortonsmith/</link>
-      <atom:link href="//localhost:54935/authors/avery-nortonsmith/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/authors/avery-nortonsmith/</link>
+      <atom:link href="//localhost:1313/authors/avery-nortonsmith/index.xml" rel="self" type="application/rss+xml" />
     <description>Avery Nortonsmith</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 -0400</lastBuildDate>
     <image>
-      <url>//localhost:54935/img/icon-192.png</url>
+      <url>//localhost:1313/img/icon-192.png</url>
       <title>Avery Nortonsmith</title>
-      <link>//localhost:54935/authors/avery-nortonsmith/</link>
+      <link>//localhost:1313/authors/avery-nortonsmith/</link>
     </image>
     
     <item>
       <title>NeuroX: A Toolkit for Analyzing Individual Neurons in Neural Networks</title>
-      <link>//localhost:54935/publication/neurox-aaai-19-demo/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0300</pubDate>
-      <guid>//localhost:54935/publication/neurox-aaai-19-demo/</guid>
+      <link>//localhost:1313/publication/neurox-aaai-19-demo/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0400</pubDate>
+      <guid>//localhost:1313/publication/neurox-aaai-19-demo/</guid>
       <description></description>
     </item>
     

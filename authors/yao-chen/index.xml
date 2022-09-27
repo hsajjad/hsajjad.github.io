@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yao Chen | Hassan Sajjad</title>
-    <link>//localhost:54935/authors/yao-chen/</link>
-      <atom:link href="//localhost:54935/authors/yao-chen/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/authors/yao-chen/</link>
+      <atom:link href="//localhost:1313/authors/yao-chen/index.xml" rel="self" type="application/rss+xml" />
     <description>Yao Chen</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 -0400</lastBuildDate>
     <image>
-      <url>//localhost:54935/img/icon-192.png</url>
+      <url>//localhost:1313/img/icon-192.png</url>
       <title>Yao Chen</title>
-      <link>//localhost:54935/authors/yao-chen/</link>
+      <link>//localhost:1313/authors/yao-chen/</link>
     </image>
     
     <item>
       <title>Compressing Large-Scale Transformer-Based Models: A Case Study on BERT</title>
-      <link>//localhost:54935/publication/bert-survey-tacl-20/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0300</pubDate>
-      <guid>//localhost:54935/publication/bert-survey-tacl-20/</guid>
+      <link>//localhost:1313/publication/bert-survey-tacl-20/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 -0400</pubDate>
+      <guid>//localhost:1313/publication/bert-survey-tacl-20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Compressing Large-Scale Transformer-Based Models: A Case Study on BERT</title>
-      <link>//localhost:54935/publication/ganeshcompressingbert-arxiv/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0300</pubDate>
-      <guid>//localhost:54935/publication/ganeshcompressingbert-arxiv/</guid>
+      <link>//localhost:1313/publication/ganeshcompressingbert-arxiv/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 -0400</pubDate>
+      <guid>//localhost:1313/publication/ganeshcompressingbert-arxiv/</guid>
       <description></description>
     </item>
     

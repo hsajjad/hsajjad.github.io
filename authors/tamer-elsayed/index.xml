@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tamer Elsayed | Hassan Sajjad</title>
-    <link>//localhost:54935/authors/tamer-elsayed/</link>
-      <atom:link href="//localhost:54935/authors/tamer-elsayed/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/authors/tamer-elsayed/</link>
+      <atom:link href="//localhost:1313/authors/tamer-elsayed/index.xml" rel="self" type="application/rss+xml" />
     <description>Tamer Elsayed</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 -0400</lastBuildDate>
     <image>
-      <url>//localhost:54935/img/icon-192.png</url>
+      <url>//localhost:1313/img/icon-192.png</url>
       <title>Tamer Elsayed</title>
-      <link>//localhost:54935/authors/tamer-elsayed/</link>
+      <link>//localhost:1313/authors/tamer-elsayed/</link>
     </image>
     
     <item>
       <title>Are We Ready for this Disaster? Towards Location Mention Recognition from Crisis Tweets</title>
-      <link>//localhost:54935/publication/suwaileh-etal-2020-ready/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0300</pubDate>
-      <guid>//localhost:54935/publication/suwaileh-etal-2020-ready/</guid>
+      <link>//localhost:1313/publication/suwaileh-etal-2020-ready/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 -0400</pubDate>
+      <guid>//localhost:1313/publication/suwaileh-etal-2020-ready/</guid>
       <description></description>
     </item>
     

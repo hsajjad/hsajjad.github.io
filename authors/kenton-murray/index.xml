@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kenton Murray | Hassan Sajjad</title>
-    <link>//localhost:54935/authors/kenton-murray/</link>
-      <atom:link href="//localhost:54935/authors/kenton-murray/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/authors/kenton-murray/</link>
+      <atom:link href="//localhost:1313/authors/kenton-murray/index.xml" rel="self" type="application/rss+xml" />
     <description>Kenton Murray</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2013 00:00:00 +0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2013 00:00:00 -0400</lastBuildDate>
     <image>
-      <url>//localhost:54935/img/icon-192.png</url>
+      <url>//localhost:1313/img/icon-192.png</url>
       <title>Kenton Murray</title>
-      <link>//localhost:54935/authors/kenton-murray/</link>
+      <link>//localhost:1313/authors/kenton-murray/</link>
     </image>
     
     <item>
       <title>QCRI at IWSLT 2013: Experiments in Arabic-English and English-Arabic Spoken Language Translation</title>
-      <link>//localhost:54935/publication/sajjad-etal-iwslt-13/</link>
-      <pubDate>Sun, 01 Dec 2013 00:00:00 +0300</pubDate>
-      <guid>//localhost:54935/publication/sajjad-etal-iwslt-13/</guid>
+      <link>//localhost:1313/publication/sajjad-etal-iwslt-13/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 -0400</pubDate>
+      <guid>//localhost:1313/publication/sajjad-etal-iwslt-13/</guid>
       <description></description>
     </item>
     

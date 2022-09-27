@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Irina P Temnikova | Hassan Sajjad</title>
-    <link>//localhost:54935/authors/irina-p-temnikova/</link>
-      <atom:link href="//localhost:54935/authors/irina-p-temnikova/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/authors/irina-p-temnikova/</link>
+      <atom:link href="//localhost:1313/authors/irina-p-temnikova/index.xml" rel="self" type="application/rss+xml" />
     <description>Irina P Temnikova</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2016 00:00:00 +0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2016 00:00:00 -0300</lastBuildDate>
     <image>
-      <url>//localhost:54935/img/icon-192.png</url>
+      <url>//localhost:1313/img/icon-192.png</url>
       <title>Irina P Temnikova</title>
-      <link>//localhost:54935/authors/irina-p-temnikova/</link>
+      <link>//localhost:1313/authors/irina-p-temnikova/</link>
     </image>
     
     <item>
       <title>Eyes Don&#39;t Lie: Predicting Machine Translation Quality Using Eye Movement.</title>
-      <link>//localhost:54935/publication/sajjad-2016-eyes/</link>
-      <pubDate>Wed, 01 Jun 2016 00:00:00 +0300</pubDate>
-      <guid>//localhost:54935/publication/sajjad-2016-eyes/</guid>
+      <link>//localhost:1313/publication/sajjad-2016-eyes/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 -0300</pubDate>
+      <guid>//localhost:1313/publication/sajjad-2016-eyes/</guid>
       <description></description>
     </item>
     

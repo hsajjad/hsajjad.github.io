@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hamdy Mubarak | Hassan Sajjad</title>
-    <link>//localhost:54935/authors/hamdy-mubarak/</link>
-      <atom:link href="//localhost:54935/authors/hamdy-mubarak/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/authors/hamdy-mubarak/</link>
+      <atom:link href="//localhost:1313/authors/hamdy-mubarak/index.xml" rel="self" type="application/rss+xml" />
     <description>Hamdy Mubarak</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 -0300</lastBuildDate>
     <image>
-      <url>//localhost:54935/img/icon-192.png</url>
+      <url>//localhost:1313/img/icon-192.png</url>
       <title>Hamdy Mubarak</title>
-      <link>//localhost:54935/authors/hamdy-mubarak/</link>
+      <link>//localhost:1313/authors/hamdy-mubarak/</link>
     </image>
     
     <item>
       <title>Fighting the COVID-19 Infodemic in Social Media: A Holistic Perspective and a Call to Arms</title>
-      <link>//localhost:54935/publication/firoj-covid-icwsm-21/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0300</pubDate>
-      <guid>//localhost:54935/publication/firoj-covid-icwsm-21/</guid>
+      <link>//localhost:1313/publication/firoj-covid-icwsm-21/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 -0300</pubDate>
+      <guid>//localhost:1313/publication/firoj-covid-icwsm-21/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A System for Diacritizing Four Varieties of Arabic</title>
-      <link>//localhost:54935/publication/diacritic-2019-emnlp/</link>
-      <pubDate>Fri, 01 Nov 2019 00:00:00 +0300</pubDate>
-      <guid>//localhost:54935/publication/diacritic-2019-emnlp/</guid>
+      <link>//localhost:1313/publication/diacritic-2019-emnlp/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 -0300</pubDate>
+      <guid>//localhost:1313/publication/diacritic-2019-emnlp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Highly Effective Arabic Diacritization using Sequence to Sequence Modeling</title>
-      <link>//localhost:54935/publication/mubarak-2019-naacl/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0300</pubDate>
-      <guid>//localhost:54935/publication/mubarak-2019-naacl/</guid>
+      <link>//localhost:1313/publication/mubarak-2019-naacl/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 -0300</pubDate>
+      <guid>//localhost:1313/publication/mubarak-2019-naacl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>QCRI Live Speech Translation System</title>
-      <link>//localhost:54935/publication/dalvi-2017-qcri/</link>
-      <pubDate>Sat, 01 Apr 2017 00:00:00 +0300</pubDate>
-      <guid>//localhost:54935/publication/dalvi-2017-qcri/</guid>
+      <link>//localhost:1313/publication/dalvi-2017-qcri/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 -0300</pubDate>
+      <guid>//localhost:1313/publication/dalvi-2017-qcri/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Verifiably Effective Arabic Dialect Identification.</title>
-      <link>//localhost:54935/publication/darwish-2014-verifiably/</link>
-      <pubDate>Wed, 01 Oct 2014 00:00:00 +0300</pubDate>
-      <guid>//localhost:54935/publication/darwish-2014-verifiably/</guid>
+      <link>//localhost:1313/publication/darwish-2014-verifiably/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 -0300</pubDate>
+      <guid>//localhost:1313/publication/darwish-2014-verifiably/</guid>
       <description></description>
     </item>
     

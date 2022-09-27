@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ondrej Klejch | Hassan Sajjad</title>
-    <link>//localhost:54935/authors/ondrej-klejch/</link>
-      <atom:link href="//localhost:54935/authors/ondrej-klejch/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/authors/ondrej-klejch/</link>
+      <atom:link href="//localhost:1313/authors/ondrej-klejch/index.xml" rel="self" type="application/rss+xml" />
     <description>Ondrej Klejch</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Apr 2017 00:00:00 +0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Apr 2017 00:00:00 -0300</lastBuildDate>
     <image>
-      <url>//localhost:54935/img/icon-192.png</url>
+      <url>//localhost:1313/img/icon-192.png</url>
       <title>Ondrej Klejch</title>
-      <link>//localhost:54935/authors/ondrej-klejch/</link>
+      <link>//localhost:1313/authors/ondrej-klejch/</link>
     </image>
     
     <item>
       <title>The SUMMA Platform Prototype</title>
-      <link>//localhost:54935/publication/liepins-2017-summa/</link>
-      <pubDate>Sat, 01 Apr 2017 00:00:00 +0300</pubDate>
-      <guid>//localhost:54935/publication/liepins-2017-summa/</guid>
+      <link>//localhost:1313/publication/liepins-2017-summa/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 -0300</pubDate>
+      <guid>//localhost:1313/publication/liepins-2017-summa/</guid>
       <description></description>
     </item>
     

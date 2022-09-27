@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Firoj Alam | Hassan Sajjad</title>
-    <link>//localhost:54935/authors/firoj-alam/</link>
-      <atom:link href="//localhost:54935/authors/firoj-alam/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/authors/firoj-alam/</link>
+      <atom:link href="//localhost:1313/authors/firoj-alam/index.xml" rel="self" type="application/rss+xml" />
     <description>Firoj Alam</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 -0300</lastBuildDate>
     <image>
-      <url>//localhost:54935/img/icon-192.png</url>
+      <url>//localhost:1313/img/icon-192.png</url>
       <title>Firoj Alam</title>
-      <link>//localhost:54935/authors/firoj-alam/</link>
+      <link>//localhost:1313/authors/firoj-alam/</link>
     </image>
     
     <item>
       <title>CrisisBench: Benchmarking Crisis-related Social Media Datasets for Humanitarian Information Processing</title>
-      <link>//localhost:54935/publication/crisis-benchmarking-icwsm-21/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0300</pubDate>
-      <guid>//localhost:54935/publication/crisis-benchmarking-icwsm-21/</guid>
+      <link>//localhost:1313/publication/crisis-benchmarking-icwsm-21/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 -0300</pubDate>
+      <guid>//localhost:1313/publication/crisis-benchmarking-icwsm-21/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fighting the COVID-19 Infodemic in Social Media: A Holistic Perspective and a Call to Arms</title>
-      <link>//localhost:54935/publication/firoj-covid-icwsm-21/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0300</pubDate>
-      <guid>//localhost:54935/publication/firoj-covid-icwsm-21/</guid>
+      <link>//localhost:1313/publication/firoj-covid-icwsm-21/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 -0300</pubDate>
+      <guid>//localhost:1313/publication/firoj-covid-icwsm-21/</guid>
       <description></description>
     </item>
     

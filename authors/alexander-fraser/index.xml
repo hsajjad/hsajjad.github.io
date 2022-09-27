@@ -2,77 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alexander Fraser | Hassan Sajjad</title>
-    <link>//localhost:54935/authors/alexander-fraser/</link>
-      <atom:link href="//localhost:54935/authors/alexander-fraser/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/authors/alexander-fraser/</link>
+      <atom:link href="//localhost:1313/authors/alexander-fraser/index.xml" rel="self" type="application/rss+xml" />
     <description>Alexander Fraser</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0400</lastBuildDate>
     <image>
-      <url>//localhost:54935/img/icon-192.png</url>
+      <url>//localhost:1313/img/icon-192.png</url>
       <title>Alexander Fraser</title>
-      <link>//localhost:54935/authors/alexander-fraser/</link>
+      <link>//localhost:1313/authors/alexander-fraser/</link>
     </image>
     
     <item>
       <title>Statistical models for unsupervised, semi-supervised and supervised transliteration mining</title>
-      <link>//localhost:54935/publication/sajjad-2017-statistical/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0300</pubDate>
-      <guid>//localhost:54935/publication/sajjad-2017-statistical/</guid>
+      <link>//localhost:1313/publication/sajjad-2017-statistical/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0400</pubDate>
+      <guid>//localhost:1313/publication/sajjad-2017-statistical/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Munich-Edinburgh-Stuttgart Submissions at WMT13: Morphological and Syntactic Processing for SMT</title>
-      <link>//localhost:54935/publication/weller-13-wmt-13/</link>
-      <pubDate>Thu, 01 Aug 2013 00:00:00 +0300</pubDate>
-      <guid>//localhost:54935/publication/weller-13-wmt-13/</guid>
+      <link>//localhost:1313/publication/weller-13-wmt-13/</link>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 -0300</pubDate>
+      <guid>//localhost:1313/publication/weller-13-wmt-13/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Munich-Edinburgh-Stuttgart Submissions of OSM Systems at WMT13</title>
-      <link>//localhost:54935/publication/durrani-et-al-2013-wmt/</link>
-      <pubDate>Thu, 01 Aug 2013 00:00:00 +0300</pubDate>
-      <guid>//localhost:54935/publication/durrani-et-al-2013-wmt/</guid>
+      <link>//localhost:1313/publication/durrani-et-al-2013-wmt/</link>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 -0300</pubDate>
+      <guid>//localhost:1313/publication/durrani-et-al-2013-wmt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>QCRI-MES Submission at WMT13: Using Transliteration Mining to Improve Statistical Machine Translation</title>
-      <link>//localhost:54935/publication/sajjad-et-al-2013-wmt/</link>
-      <pubDate>Thu, 01 Aug 2013 00:00:00 +0300</pubDate>
-      <guid>//localhost:54935/publication/sajjad-et-al-2013-wmt/</guid>
+      <link>//localhost:1313/publication/sajjad-et-al-2013-wmt/</link>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 -0300</pubDate>
+      <guid>//localhost:1313/publication/sajjad-et-al-2013-wmt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Statistical Model for Unsupervised and Semi-supervised Transliteration Mining</title>
-      <link>//localhost:54935/publication/sajjad-acl-12/</link>
-      <pubDate>Sun, 01 Jul 2012 00:00:00 +0300</pubDate>
-      <guid>//localhost:54935/publication/sajjad-acl-12/</guid>
+      <link>//localhost:1313/publication/sajjad-acl-12/</link>
+      <pubDate>Sun, 01 Jul 2012 00:00:00 -0300</pubDate>
+      <guid>//localhost:1313/publication/sajjad-acl-12/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Comparing Two Techniques for Learning Transliteration Models Using a Parallel Corpus</title>
-      <link>//localhost:54935/publication/sajjad-et-al-2011-ijcnlp-2011/</link>
-      <pubDate>Tue, 01 Nov 2011 00:00:00 +0300</pubDate>
-      <guid>//localhost:54935/publication/sajjad-et-al-2011-ijcnlp-2011/</guid>
+      <link>//localhost:1313/publication/sajjad-et-al-2011-ijcnlp-2011/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 -0300</pubDate>
+      <guid>//localhost:1313/publication/sajjad-et-al-2011-ijcnlp-2011/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Algorithm for Unsupervised Transliteration Mining with an Application to Word Alignment</title>
-      <link>//localhost:54935/publication/sajjad-acl-11/</link>
-      <pubDate>Wed, 01 Jun 2011 00:00:00 +0300</pubDate>
-      <guid>//localhost:54935/publication/sajjad-acl-11/</guid>
+      <link>//localhost:1313/publication/sajjad-acl-11/</link>
+      <pubDate>Wed, 01 Jun 2011 00:00:00 -0300</pubDate>
+      <guid>//localhost:1313/publication/sajjad-acl-11/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hindi-to-Urdu Machine Translation through Transliteration</title>
-      <link>//localhost:54935/publication/durrani-et-al-2010-acl/</link>
-      <pubDate>Thu, 01 Jul 2010 00:00:00 +0300</pubDate>
-      <guid>//localhost:54935/publication/durrani-et-al-2010-acl/</guid>
+      <link>//localhost:1313/publication/durrani-et-al-2010-acl/</link>
+      <pubDate>Thu, 01 Jul 2010 00:00:00 -0300</pubDate>
+      <guid>//localhost:1313/publication/durrani-et-al-2010-acl/</guid>
       <description></description>
     </item>
     

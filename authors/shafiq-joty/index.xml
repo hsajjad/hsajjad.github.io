@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shafiq Joty | Hassan Sajjad</title>
-    <link>//localhost:54935/authors/shafiq-joty/</link>
-      <atom:link href="//localhost:54935/authors/shafiq-joty/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/authors/shafiq-joty/</link>
+      <atom:link href="//localhost:1313/authors/shafiq-joty/index.xml" rel="self" type="application/rss+xml" />
     <description>Shafiq Joty</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 May 2017 00:00:00 +0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 May 2017 00:00:00 -0300</lastBuildDate>
     <image>
-      <url>//localhost:54935/img/icon-192.png</url>
+      <url>//localhost:1313/img/icon-192.png</url>
       <title>Shafiq Joty</title>
-      <link>//localhost:54935/authors/shafiq-joty/</link>
+      <link>//localhost:1313/authors/shafiq-joty/</link>
     </image>
     
     <item>
       <title>Robust Classification of Crisis-Related Data on Social Networks using Convolutional Neural Networks</title>
-      <link>//localhost:54935/publication/nguyen-icwsm-2017/</link>
-      <pubDate>Mon, 01 May 2017 00:00:00 +0300</pubDate>
-      <guid>//localhost:54935/publication/nguyen-icwsm-2017/</guid>
+      <link>//localhost:1313/publication/nguyen-icwsm-2017/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 -0300</pubDate>
+      <guid>//localhost:1313/publication/nguyen-icwsm-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Domain Adaptation using Neural Network Joint Model</title>
-      <link>//localhost:54935/publication/joty-2017-csl/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0300</pubDate>
-      <guid>//localhost:54935/publication/joty-2017-csl/</guid>
+      <link>//localhost:1313/publication/joty-2017-csl/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0400</pubDate>
+      <guid>//localhost:1313/publication/joty-2017-csl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Deep Fusion Model for Domain Adaptation in Phrase-based MT</title>
-      <link>//localhost:54935/publication/durrani-et-al-2016-coling/</link>
-      <pubDate>Thu, 01 Dec 2016 00:00:00 +0300</pubDate>
-      <guid>//localhost:54935/publication/durrani-et-al-2016-coling/</guid>
+      <link>//localhost:1313/publication/durrani-et-al-2016-coling/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 -0400</pubDate>
+      <guid>//localhost:1313/publication/durrani-et-al-2016-coling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Applications of Online Deep Learning for Crisis Response Using Social Media Information</title>
-      <link>//localhost:54935/publication/nguyen-2016-swdm/</link>
-      <pubDate>Sat, 01 Oct 2016 00:00:00 +0300</pubDate>
-      <guid>//localhost:54935/publication/nguyen-2016-swdm/</guid>
+      <link>//localhost:1313/publication/nguyen-2016-swdm/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 -0300</pubDate>
+      <guid>//localhost:1313/publication/nguyen-2016-swdm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using Joint Models for Domain Adaptation in Statistical Machine Translation</title>
-      <link>//localhost:54935/publication/durrani-et-al-mt-summit-2015/</link>
-      <pubDate>Sun, 01 Nov 2015 00:00:00 +0300</pubDate>
-      <guid>//localhost:54935/publication/durrani-et-al-mt-summit-2015/</guid>
+      <link>//localhost:1313/publication/durrani-et-al-mt-summit-2015/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 -0300</pubDate>
+      <guid>//localhost:1313/publication/durrani-et-al-mt-summit-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How to Avoid Unwanted Pregnancies: Domain Adaptation using Neural Network Models</title>
-      <link>//localhost:54935/publication/joty-et-al-2015-emnlp/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0300</pubDate>
-      <guid>//localhost:54935/publication/joty-et-al-2015-emnlp/</guid>
+      <link>//localhost:1313/publication/joty-et-al-2015-emnlp/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 -0300</pubDate>
+      <guid>//localhost:1313/publication/joty-et-al-2015-emnlp/</guid>
       <description></description>
     </item>
     
