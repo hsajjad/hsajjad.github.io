@@ -5,12 +5,36 @@
     <link>//localhost:1313/publication_types/2/</link>
       <atom:link href="//localhost:1313/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 -0400</lastBuildDate>
     <image>
       <url>//localhost:1313/img/icon-192.png</url>
       <title>2</title>
       <link>//localhost:1313/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>Neuron-level Interpretation of Deep NLP Models: A Survey</title>
+      <link>//localhost:1313/publication/sajjad-neuron-survey-tacl-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 -0400</pubDate>
+      <guid>//localhost:1313/publication/sajjad-neuron-survey-tacl-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Effect of Dropping Layers of Pre-trained Transformer Models</title>
+      <link>//localhost:1313/publication/sajjad-poorman-csl-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 -0400</pubDate>
+      <guid>//localhost:1313/publication/sajjad-poorman-csl-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>When a Disaster Happens, We are Ready: Location Mention Recognition from Crisis Tweets</title>
+      <link>//localhost:1313/publication/suwaileh-journal-ijdrr-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 -0400</pubDate>
+      <guid>//localhost:1313/publication/suwaileh-journal-ijdrr-2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Compressing Large-Scale Transformer-Based Models: A Case Study on BERT</title>

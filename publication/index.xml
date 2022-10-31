@@ -5,12 +5,60 @@
     <link>//localhost:1313/publication/</link>
       <atom:link href="//localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Aug 2021 00:00:00 -0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2022 00:00:00 -0300</lastBuildDate>
     <image>
       <url>//localhost:1313/img/icon-192.png</url>
       <title>Publications</title>
       <link>//localhost:1313/publication/</link>
     </image>
+    
+    <item>
+      <title>Effect of Post-processing on Contextualized Word Representations</title>
+      <link>//localhost:1313/publication/sajjad-etal-2022-effect/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 -0300</pubDate>
+      <guid>//localhost:1313/publication/sajjad-etal-2022-effect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing Encoded Concepts in Transformer Language Models</title>
+      <link>//localhost:1313/publication/sajjad-etal-2022-analyzing/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 -0300</pubDate>
+      <guid>//localhost:1313/publication/sajjad-etal-2022-analyzing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discovering Latent Concepts Learned in BERT</title>
+      <link>//localhost:1313/publication/dalvi-2022-discovering/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 -0300</pubDate>
+      <guid>//localhost:1313/publication/dalvi-2022-discovering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neuron-level Interpretation of Deep NLP Models: A Survey</title>
+      <link>//localhost:1313/publication/sajjad-neuron-survey-tacl-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 -0400</pubDate>
+      <guid>//localhost:1313/publication/sajjad-neuron-survey-tacl-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Effect of Dropping Layers of Pre-trained Transformer Models</title>
+      <link>//localhost:1313/publication/sajjad-poorman-csl-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 -0400</pubDate>
+      <guid>//localhost:1313/publication/sajjad-poorman-csl-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>When a Disaster Happens, We are Ready: Location Mention Recognition from Crisis Tweets</title>
+      <link>//localhost:1313/publication/suwaileh-journal-ijdrr-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 -0400</pubDate>
+      <guid>//localhost:1313/publication/suwaileh-journal-ijdrr-2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>How transfer learning impacts linguistic knowledge in deep NLP models?</title>

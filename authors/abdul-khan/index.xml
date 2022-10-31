@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abdul Khan | Hassan Sajjad</title>
+    <link>//localhost:1313/authors/abdul-khan/</link>
+      <atom:link href="//localhost:1313/authors/abdul-khan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Abdul Khan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 -0300</lastBuildDate>
+    <image>
+      <url>//localhost:1313/img/icon-192.png</url>
+      <title>Abdul Khan</title>
+      <link>//localhost:1313/authors/abdul-khan/</link>
+    </image>
+    
+    <item>
+      <title>Analyzing Encoded Concepts in Transformer Language Models</title>
+      <link>//localhost:1313/publication/sajjad-etal-2022-analyzing/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 -0300</pubDate>
+      <guid>//localhost:1313/publication/sajjad-etal-2022-analyzing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

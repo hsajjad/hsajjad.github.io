@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abdul Rafae Khan | Hassan Sajjad</title>
+    <link>//localhost:1313/authors/abdul-rafae-khan/</link>
+      <atom:link href="//localhost:1313/authors/abdul-rafae-khan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Abdul Rafae Khan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2022 00:00:00 -0300</lastBuildDate>
+    <image>
+      <url>//localhost:1313/img/icon-192.png</url>
+      <title>Abdul Rafae Khan</title>
+      <link>//localhost:1313/authors/abdul-rafae-khan/</link>
+    </image>
+    
+    <item>
+      <title>Discovering Latent Concepts Learned in BERT</title>
+      <link>//localhost:1313/publication/dalvi-2022-discovering/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 -0300</pubDate>
+      <guid>//localhost:1313/publication/dalvi-2022-discovering/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

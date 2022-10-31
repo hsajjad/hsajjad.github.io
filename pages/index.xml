@@ -18,7 +18,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/pages/news/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Accepted Papers 2022:&lt;/strong&gt; 3 Journal articles (1 TACL, 1 CSL, 1 IJDRR), 2 conference papers (1 ICLR, 1 NAACL)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Accepted Papers 2022:&lt;/strong&gt; 3 Journal articles (1 TACL, 1 CSL, 1 IJDRR), 3 conference papers (1 ICLR, 1 NAACL, 1 COLING)&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;NeuroX Toolkit on pip:&lt;/strong&gt; &lt;a href=&#34;https://pypi.org/project/neurox/&#34; target=&#34;_blank&#34;&gt;https://pypi.org/project/neurox/&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Tutorial @NAACL 2021:&lt;/strong&gt; &lt;a href=&#34;https://github.com/hsajjad/Interpretability-Tutorial-NAACL2021&#34; target=&#34;_blank&#34;&gt;Fine-grained Interpretation and Causation Analysis in Deep NLP Models&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Accepted Papers 2021:&lt;/strong&gt; 1 TACL, 1 NAACL, 1 ACL findings, 2 ICWSM, 1 IWCS&lt;/li&gt;
@@ -270,6 +270,60 @@
     </item>
     
     <item>
+      <title>Opportunities</title>
+      <link>//localhost:1313/pages/opportunities/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/pages/opportunities/</guid>
+      <description>
+
+&lt;p&gt;I have several open PhD positions and research assistant positions. Please read the following before reaching out to me.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;phd-positions&#34;&gt;PhD positions&lt;/h3&gt;
+
+&lt;p&gt;I have several open PhD positions. &lt;strong&gt;Deadline&lt;/strong&gt; to apply is 5th October, 2022. Only shortlisted candidates will be contacted.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Research Area - Deep learning, NLP, Responsible AI, Explainable AI&lt;/li&gt;
+&lt;li&gt;Qualification - Bachelor or Masters in CS or related discipline&lt;/li&gt;
+&lt;li&gt;Research Experience - at least one of the following
+
+&lt;ul&gt;
+&lt;li&gt;One or more research papers involving any of the above mentioned research area or the related areas&lt;/li&gt;
+&lt;li&gt;Internship or experience working in a research or technology lab&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The undergraduate candidates with exceptional profiles have an option to directly join the PhD.&lt;/p&gt;
+
+&lt;h3 id=&#34;ra-positions-for-dalhousie-students-only&#34;&gt;RA positions (for Dalhousie students only)&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Research position
+
+&lt;ul&gt;
+&lt;li&gt;Research work - Deep learning, NLP and interpreting models&lt;/li&gt;
+&lt;li&gt;Duration - four to six months&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Frontend/Backend developer
+
+&lt;ul&gt;
+&lt;li&gt;Design a webpage for the research group&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Please have a meaningful subject of your email e.g. Inquiring about a PhD position&lt;/li&gt;
+&lt;li&gt;Share your updated CV and the latest transcript&lt;/li&gt;
+&lt;li&gt;write me at hsajjad with domain dal.ca&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Research</title>
       <link>//localhost:1313/pages/bio/</link>
       <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
@@ -307,31 +361,6 @@
 &lt;p&gt;Coming back to my bio, &lt;strong&gt;other than research work at QCRI&lt;/strong&gt; I manage applied machine learning group at QCRI, lead deployment and commercialization efforts of QCRI&amp;rsquo;s machine translation technology, managed Arabic machine translation part of the European Project on media monitoring, &lt;a href=&#34;http://summa-project.eu/&#34; target=&#34;_blank&#34;&gt;SUMMA&lt;/a&gt; and the collaboration with &lt;a href=&#34;http://web.mit.edu/&#34; target=&#34;_blank&#34;&gt;MIT&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Before coming to QCRI&lt;/strong&gt;, I graduated from University of Stuttgart in Fall 2012 under the supervision of &lt;a href=&#34;http://www.cis.uni-muenchen.de/schuetze/&#34; target=&#34;_blank&#34;&gt;Prof. Dr. Hinrich Schütze&lt;/a&gt;. There I closely worked with &lt;a href=&#34;http://www.cis.uni-muenchen.de/~fraser/&#34; target=&#34;_blank&#34;&gt;Alex Fraser&lt;/a&gt;, &lt;a href=&#34;http://www.cis.uni-muenchen.de/~schmid/&#34; target=&#34;_blank&#34;&gt;Helmut Schmid&lt;/a&gt; and &lt;a href=&#34;http://alt.qcri.org/~ndurrani/&#34; target=&#34;_blank&#34;&gt;Nadir Durrani&lt;/a&gt;. In my PhD, I worked on part-of-speech tagging, statistical machine translation, and unsupervised models for transliteration mining. I also worked at &lt;a href=&#34;https://www.microsoft.com/en-us/research/&#34; target=&#34;_blank&#34;&gt;Microsoft Research&lt;/a&gt; as an intern where I worked on query expansion for natural language question generation. Before starting PhD, I did &lt;strong&gt;bachelors and masters&lt;/strong&gt; in Computer Science from &lt;a href=&#34;http://www.nu.edu.pk/&#34; target=&#34;_blank&#34;&gt;National University of Computer and Emerging Sciences&lt;/a&gt;, Pakistan. In my master thesis, I worked on Part of Speech tagging of Urdu language under the supervision of &lt;a href=&#34;http://www.cle.org.pk/information/people/drsarmadhussain.html&#34; target=&#34;_blank&#34;&gt;Dr. Sarmad Hussain&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Research</title>
-      <link>//localhost:1313/pages/opportunities/</link>
-      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/pages/opportunities/</guid>
-      <description>
-
-&lt;p&gt;I worked on several NLP problems in general. However, the two dominating areas where I worked the most are; machine translation and interpretation of deep NLP models. Here, I have first summarized my &lt;a href=&#34;#research-interests&#34;&gt;research interests&lt;/a&gt;. Later, I provide a summary of my work on &lt;a href=&#34;#machine-translation&#34;&gt;Machine Translation&lt;/a&gt; and &lt;a href=&#34;#interpretation&#34;&gt;Interpretation&lt;/a&gt;.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h3&gt;
-
-&lt;p&gt;In the following, I provide a non-exhaustive summary of my areas of interest:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Research Interests&lt;/strong&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Applied deep learning and machine learning, unsupervised and semi-supervised learning methods, interpretability and manipulation of neural models, generalization, multi-task learning, transfer learning, representation learning, efficient modeling&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     

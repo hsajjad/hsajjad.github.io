@@ -5,12 +5,20 @@
     <link>//localhost:1313/authors/tamer-elsayed/</link>
       <atom:link href="//localhost:1313/authors/tamer-elsayed/index.xml" rel="self" type="application/rss+xml" />
     <description>Tamer Elsayed</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 -0400</lastBuildDate>
     <image>
       <url>//localhost:1313/img/icon-192.png</url>
       <title>Tamer Elsayed</title>
       <link>//localhost:1313/authors/tamer-elsayed/</link>
     </image>
+    
+    <item>
+      <title>When a Disaster Happens, We are Ready: Location Mention Recognition from Crisis Tweets</title>
+      <link>//localhost:1313/publication/suwaileh-journal-ijdrr-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 -0400</pubDate>
+      <guid>//localhost:1313/publication/suwaileh-journal-ijdrr-2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Are We Ready for this Disaster? Towards Location Mention Recognition from Crisis Tweets</title>

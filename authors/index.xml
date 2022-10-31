@@ -5,7 +5,7 @@
     <link>//localhost:1313/authors/</link>
       <atom:link href="//localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Aug 2021 00:00:00 -0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2022 00:00:00 -0300</lastBuildDate>
     <image>
       <url>//localhost:1313/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,15 +15,23 @@
     <item>
       <title>Fahim Dalvi</title>
       <link>//localhost:1313/authors/fahim-dalvi/</link>
-      <pubDate>Sun, 01 Aug 2021 00:00:00 -0300</pubDate>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 -0300</pubDate>
       <guid>//localhost:1313/authors/fahim-dalvi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Firoj Alam</title>
+      <link>//localhost:1313/authors/firoj-alam/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 -0300</pubDate>
+      <guid>//localhost:1313/authors/firoj-alam/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hassan Sajjad</title>
       <link>//localhost:1313/authors/hassan-sajjad/</link>
-      <pubDate>Sun, 01 Aug 2021 00:00:00 -0300</pubDate>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 -0300</pubDate>
       <guid>//localhost:1313/authors/hassan-sajjad/</guid>
       <description></description>
     </item>
@@ -31,8 +39,64 @@
     <item>
       <title>Nadir Durrani</title>
       <link>//localhost:1313/authors/nadir-durrani/</link>
-      <pubDate>Sun, 01 Aug 2021 00:00:00 -0300</pubDate>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 -0300</pubDate>
       <guid>//localhost:1313/authors/nadir-durrani/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abdul Khan</title>
+      <link>//localhost:1313/authors/abdul-khan/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 -0300</pubDate>
+      <guid>//localhost:1313/authors/abdul-khan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jia Xu</title>
+      <link>//localhost:1313/authors/jia-xu/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 -0300</pubDate>
+      <guid>//localhost:1313/authors/jia-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abdul Rafae Khan</title>
+      <link>//localhost:1313/authors/abdul-rafae-khan/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 -0300</pubDate>
+      <guid>//localhost:1313/authors/abdul-rafae-khan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Muhammad Imran</title>
+      <link>//localhost:1313/authors/muhammad-imran/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 -0400</pubDate>
+      <guid>//localhost:1313/authors/muhammad-imran/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preslav Nakov</title>
+      <link>//localhost:1313/authors/preslav-nakov/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 -0400</pubDate>
+      <guid>//localhost:1313/authors/preslav-nakov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reem Suwaileh</title>
+      <link>//localhost:1313/authors/reem-suwaileh/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 -0400</pubDate>
+      <guid>//localhost:1313/authors/reem-suwaileh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tamer Elsayed</title>
+      <link>//localhost:1313/authors/tamer-elsayed/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 -0400</pubDate>
+      <guid>//localhost:1313/authors/tamer-elsayed/</guid>
       <description></description>
     </item>
     
@@ -69,14 +133,6 @@
     </item>
     
     <item>
-      <title>Firoj Alam</title>
-      <link>//localhost:1313/authors/firoj-alam/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 -0300</pubDate>
-      <guid>//localhost:1313/authors/firoj-alam/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Giovanni Da San Martino</title>
       <link>//localhost:1313/authors/giovanni-da-san-martino/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 -0300</pubDate>
@@ -109,26 +165,10 @@
     </item>
     
     <item>
-      <title>Muhammad Imran</title>
-      <link>//localhost:1313/authors/muhammad-imran/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 -0300</pubDate>
-      <guid>//localhost:1313/authors/muhammad-imran/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Narine Kokhlikyan</title>
       <link>//localhost:1313/authors/narine-kokhlikyan/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 -0300</pubDate>
       <guid>//localhost:1313/authors/narine-kokhlikyan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Preslav Nakov</title>
-      <link>//localhost:1313/authors/preslav-nakov/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 -0300</pubDate>
-      <guid>//localhost:1313/authors/preslav-nakov/</guid>
       <description></description>
     </item>
     
@@ -205,22 +245,6 @@
     </item>
     
     <item>
-      <title>Reem Suwaileh</title>
-      <link>//localhost:1313/authors/reem-suwaileh/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 -0400</pubDate>
-      <guid>//localhost:1313/authors/reem-suwaileh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tamer Elsayed</title>
-      <link>//localhost:1313/authors/tamer-elsayed/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 -0400</pubDate>
-      <guid>//localhost:1313/authors/tamer-elsayed/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Yonatan Belinkov</title>
       <link>//localhost:1313/authors/yonatan-belinkov/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 -0300</pubDate>
@@ -277,14 +301,6 @@
     </item>
     
     <item>
-      <title>Jia Xu</title>
-      <link>//localhost:1313/authors/jia-xu/</link>
-      <pubDate>Sun, 01 Mar 2020 00:00:00 -0400</pubDate>
-      <guid>//localhost:1313/authors/jia-xu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Mohammad Haris Ali Khan</title>
       <link>//localhost:1313/authors/mohammad-haris-ali-khan/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 -0400</pubDate>
@@ -309,7 +325,7 @@
     </item>
     
     <item>
-      <title>D. Anthony Bau*</title>
+      <title>D. Anthony Bau</title>
       <link>//localhost:1313/authors/d.-anthony-bau/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 -0300</pubDate>
       <guid>//localhost:1313/authors/d.-anthony-bau/</guid>
@@ -517,7 +533,7 @@
     </item>
     
     <item>
-      <title>Francisco Guzmán</title>
+      <title>Francisco Guzman</title>
       <link>//localhost:1313/authors/francisco-guzman/</link>
       <pubDate>Sat, 01 Oct 2016 00:00:00 -0300</pubDate>
       <guid>//localhost:1313/authors/francisco-guzman/</guid>
