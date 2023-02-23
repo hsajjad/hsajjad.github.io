@@ -5,12 +5,20 @@
     <link>//localhost:1313/publication_types/9/</link>
       <atom:link href="//localhost:1313/publication_types/9/index.xml" rel="self" type="application/rss+xml" />
     <description>9</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2020 00:00:00 -0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Nov 2022 00:00:00 -0300</lastBuildDate>
     <image>
       <url>//localhost:1313/img/icon-192.png</url>
       <title>9</title>
       <link>//localhost:1313/publication_types/9/</link>
     </image>
+    
+    <item>
+      <title>Post-hoc analysis of Arabic transformer models</title>
+      <link>//localhost:1313/publication/arabic-neurox/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 -0300</pubDate>
+      <guid>//localhost:1313/publication/arabic-neurox/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Findings of the WMT 2020 Shared Task on Machine Translation Robustness.</title>

@@ -5,12 +5,28 @@
     <link>//localhost:1313/publication_types/1/</link>
       <atom:link href="//localhost:1313/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2022 00:00:00 -0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:00:00 -0400</lastBuildDate>
     <image>
       <url>//localhost:1313/img/icon-192.png</url>
       <title>1</title>
       <link>//localhost:1313/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>On the Transformation of Latent Space in Fine-Tuned NLP Models</title>
+      <link>//localhost:1313/publication/durrani-2022-latent-ftmodels/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 -0400</pubDate>
+      <guid>//localhost:1313/publication/durrani-2022-latent-ftmodels/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probing for Constituency Structure in Neural Language Models</title>
+      <link>//localhost:1313/publication/david-2022-constituency/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 -0400</pubDate>
+      <guid>//localhost:1313/publication/david-2022-constituency/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Effect of Post-processing on Contextualized Word Representations</title>

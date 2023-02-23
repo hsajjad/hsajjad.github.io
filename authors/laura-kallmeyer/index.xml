@@ -5,12 +5,20 @@
     <link>//localhost:1313/authors/laura-kallmeyer/</link>
       <atom:link href="//localhost:1313/authors/laura-kallmeyer/index.xml" rel="self" type="application/rss+xml" />
     <description>Laura Kallmeyer</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 -0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:00:00 -0400</lastBuildDate>
     <image>
       <url>//localhost:1313/img/icon-192.png</url>
       <title>Laura Kallmeyer</title>
       <link>//localhost:1313/authors/laura-kallmeyer/</link>
     </image>
+    
+    <item>
+      <title>Probing for Constituency Structure in Neural Language Models</title>
+      <link>//localhost:1313/publication/david-2022-constituency/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 -0400</pubDate>
+      <guid>//localhost:1313/publication/david-2022-constituency/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Implicit Representations of Event Properties within Contextual Language Models:Searching for ``Causativity Neurons&#34;</title>

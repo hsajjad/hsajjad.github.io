@@ -5,12 +5,28 @@
     <link>//localhost:1313/authors/firoj-alam/</link>
       <atom:link href="//localhost:1313/authors/firoj-alam/index.xml" rel="self" type="application/rss+xml" />
     <description>Firoj Alam</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2022 00:00:00 -0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 -0400</lastBuildDate>
     <image>
       <url>//localhost:1313/img/icon-192.png</url>
       <title>Firoj Alam</title>
       <link>//localhost:1313/authors/firoj-alam/</link>
     </image>
+    
+    <item>
+      <title>ConceptX: A Framework for Latent Concept Analysis</title>
+      <link>//localhost:1313/publication/conceptx-aaai-23-demo/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 -0400</pubDate>
+      <guid>//localhost:1313/publication/conceptx-aaai-23-demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Transformation of Latent Space in Fine-Tuned NLP Models</title>
+      <link>//localhost:1313/publication/durrani-2022-latent-ftmodels/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 -0400</pubDate>
+      <guid>//localhost:1313/publication/durrani-2022-latent-ftmodels/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Effect of Post-processing on Contextualized Word Representations</title>

@@ -5,12 +5,20 @@
     <link>//localhost:1313/authors/ahmed-abdelali/</link>
       <atom:link href="//localhost:1313/authors/ahmed-abdelali/index.xml" rel="self" type="application/rss+xml" />
     <description>Ahmed Abdelali</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 -0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Nov 2022 00:00:00 -0300</lastBuildDate>
     <image>
       <url>//localhost:1313/img/icon-192.png</url>
       <title>Ahmed Abdelali</title>
       <link>//localhost:1313/authors/ahmed-abdelali/</link>
     </image>
+    
+    <item>
+      <title>Post-hoc analysis of Arabic transformer models</title>
+      <link>//localhost:1313/publication/arabic-neurox/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 -0300</pubDate>
+      <guid>//localhost:1313/publication/arabic-neurox/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Fighting the COVID-19 Infodemic in Social Media: A Holistic Perspective and a Call to Arms</title>

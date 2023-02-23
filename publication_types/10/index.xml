@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>10 | Hassan Sajjad</title>
+    <link>//localhost:1313/publication_types/10/</link>
+      <atom:link href="//localhost:1313/publication_types/10/index.xml" rel="self" type="application/rss+xml" />
+    <description>10</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 -0400</lastBuildDate>
+    <image>
+      <url>//localhost:1313/img/icon-192.png</url>
+      <title>10</title>
+      <link>//localhost:1313/publication_types/10/</link>
+    </image>
+    
+    <item>
+      <title>ConceptX: A Framework for Latent Concept Analysis</title>
+      <link>//localhost:1313/publication/conceptx-aaai-23-demo/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 -0400</pubDate>
+      <guid>//localhost:1313/publication/conceptx-aaai-23-demo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

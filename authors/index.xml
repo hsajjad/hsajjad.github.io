@@ -5,7 +5,7 @@
     <link>//localhost:1313/authors/</link>
       <atom:link href="//localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2022 00:00:00 -0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 -0400</lastBuildDate>
     <image>
       <url>//localhost:1313/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>Abdul Rafae Khan</title>
+      <link>//localhost:1313/authors/abdul-rafae-khan/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 -0400</pubDate>
+      <guid>//localhost:1313/authors/abdul-rafae-khan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Fahim Dalvi</title>
       <link>//localhost:1313/authors/fahim-dalvi/</link>
-      <pubDate>Sat, 01 Oct 2022 00:00:00 -0300</pubDate>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 -0400</pubDate>
       <guid>//localhost:1313/authors/fahim-dalvi/</guid>
       <description></description>
     </item>
@@ -23,7 +31,7 @@
     <item>
       <title>Firoj Alam</title>
       <link>//localhost:1313/authors/firoj-alam/</link>
-      <pubDate>Sat, 01 Oct 2022 00:00:00 -0300</pubDate>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 -0400</pubDate>
       <guid>//localhost:1313/authors/firoj-alam/</guid>
       <description></description>
     </item>
@@ -31,16 +39,56 @@
     <item>
       <title>Hassan Sajjad</title>
       <link>//localhost:1313/authors/hassan-sajjad/</link>
-      <pubDate>Sat, 01 Oct 2022 00:00:00 -0300</pubDate>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 -0400</pubDate>
       <guid>//localhost:1313/authors/hassan-sajjad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jia Xu</title>
+      <link>//localhost:1313/authors/jia-xu/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 -0400</pubDate>
+      <guid>//localhost:1313/authors/jia-xu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nadir Durrani</title>
       <link>//localhost:1313/authors/nadir-durrani/</link>
-      <pubDate>Sat, 01 Oct 2022 00:00:00 -0300</pubDate>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 -0400</pubDate>
       <guid>//localhost:1313/authors/nadir-durrani/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David Arps</title>
+      <link>//localhost:1313/authors/david-arps/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 -0400</pubDate>
+      <guid>//localhost:1313/authors/david-arps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laura Kallmeyer</title>
+      <link>//localhost:1313/authors/laura-kallmeyer/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 -0400</pubDate>
+      <guid>//localhost:1313/authors/laura-kallmeyer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Younes Samih</title>
+      <link>//localhost:1313/authors/younes-samih/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 -0400</pubDate>
+      <guid>//localhost:1313/authors/younes-samih/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ahmed Abdelali</title>
+      <link>//localhost:1313/authors/ahmed-abdelali/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 -0300</pubDate>
+      <guid>//localhost:1313/authors/ahmed-abdelali/</guid>
       <description></description>
     </item>
     
@@ -49,22 +97,6 @@
       <link>//localhost:1313/authors/abdul-khan/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 -0300</pubDate>
       <guid>//localhost:1313/authors/abdul-khan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jia Xu</title>
-      <link>//localhost:1313/authors/jia-xu/</link>
-      <pubDate>Fri, 01 Jul 2022 00:00:00 -0300</pubDate>
-      <guid>//localhost:1313/authors/jia-xu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Abdul Rafae Khan</title>
-      <link>//localhost:1313/authors/abdul-rafae-khan/</link>
-      <pubDate>Sun, 01 May 2022 00:00:00 -0300</pubDate>
-      <guid>//localhost:1313/authors/abdul-rafae-khan/</guid>
       <description></description>
     </item>
     
@@ -97,14 +129,6 @@
       <link>//localhost:1313/authors/tamer-elsayed/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 -0400</pubDate>
       <guid>//localhost:1313/authors/tamer-elsayed/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ahmed Abdelali</title>
-      <link>//localhost:1313/authors/ahmed-abdelali/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 -0300</pubDate>
-      <guid>//localhost:1313/authors/ahmed-abdelali/</guid>
       <description></description>
     </item>
     
@@ -157,14 +181,6 @@
     </item>
     
     <item>
-      <title>Laura Kallmeyer</title>
-      <link>//localhost:1313/authors/laura-kallmeyer/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 -0300</pubDate>
-      <guid>//localhost:1313/authors/laura-kallmeyer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Narine Kokhlikyan</title>
       <link>//localhost:1313/authors/narine-kokhlikyan/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 -0300</pubDate>
@@ -177,14 +193,6 @@
       <link>//localhost:1313/authors/shaden-shaar/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 -0300</pubDate>
       <guid>//localhost:1313/authors/shaden-shaar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Younes Samih</title>
-      <link>//localhost:1313/authors/younes-samih/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 -0300</pubDate>
-      <guid>//localhost:1313/authors/younes-samih/</guid>
       <description></description>
     </item>
     
@@ -751,47 +759,34 @@
 
 &lt;h4 id=&#34;research-interest&#34;&gt;Research Interest&lt;/h4&gt;
 
-&lt;p&gt;NLP, Deep learning, Explainable AI &amp;ndash; machine translation, language generation, interpretation of AI models, generalization and robustness, transfer learning&lt;/p&gt;
+&lt;p&gt;NLP, Deep learning, Trustworthy AI &amp;ndash; language generation, interpretation of AI models, generalization and robustness, transfer learning&lt;/p&gt;
 
-&lt;p&gt;Since you ended up on this page and if you are wondering where to go next, here are a few pointers:&lt;/p&gt;
+&lt;!-- Since you ended up on this page and if you are wondering where to go next, here are a few pointers:
 
-&lt;blockquote&gt;
-&lt;p&gt;To know more about open positions in my lab, check out &lt;a href=&#34;pages/opportunities&#34;&gt;Opportunities!&lt;/a&gt;&lt;/p&gt;
+&gt;To know more about open positions in my lab, check out &lt;a href=&#34;pages/opportunities&#34;&gt;Opportunities!&lt;/a&gt;
 
-&lt;p&gt;To know more about the research areas I worked on, check out &lt;a href=&#34;pages/research&#34;&gt;Research!&lt;/a&gt;&lt;/p&gt;
+&gt;To know more about the research areas I worked on, check out &lt;a href=&#34;pages/research&#34;&gt;Research!&lt;/a&gt;
 
-&lt;p&gt;To see my deep learning and NLP courses, check out &lt;a href=&#34;pages/teaching&#34;&gt;Teaching!&lt;/a&gt;&lt;/p&gt;
+&gt;To see my deep learning and NLP courses, check out &lt;a href=&#34;pages/teaching&#34;&gt;Teaching!&lt;/a&gt;
 
-&lt;p&gt;You can find my resume &lt;a href=&#34;files/cv.pdf&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;
+&gt;You can find my resume [here](files/cv.pdf).
+ --&gt;
 
-&lt;p&gt;If you would like to &lt;strong&gt;reach out&lt;/strong&gt; to me for:&lt;/p&gt;
+&lt;!-- If you would like to **reach out** to me for:
 
-&lt;ul&gt;
-&lt;li&gt;open positions, click here &lt;a href=&#34;pages/opportunities&#34;&gt;Opportunities!&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;an interesting problem and collaboration, drop a line here: &lt;span style=&#34;color:blue&#34;&gt;hasaan.sajjad+nlp@gmail.com &lt;span&gt;&lt;/li&gt;
-&lt;li&gt;my courses, drop a line here: &lt;span style=&#34;color:blue&#34;&gt;hasaan.sajjad+coach@gmail.com &lt;span&gt;&lt;/li&gt;
-&lt;li&gt;else: &lt;span style=&#34;color:blue&#34;&gt;hasaan.sajjad+general@gmail.com&lt;span&gt;&lt;/li&gt;
-&lt;/ul&gt;
+* open positions, click here &lt;a href=&#34;pages/opportunities&#34;&gt;Opportunities!&lt;/a&gt;
+* an interesting problem and collaboration, drop a line here: &lt;span style=&#34;color:blue&#34;&gt;hasaan.sajjad+nlp@gmail.com &lt;span&gt;
+* my courses, drop a line here: &lt;span style=&#34;color:blue&#34;&gt;hasaan.sajjad+coach@gmail.com &lt;span&gt;
+* else: &lt;span style=&#34;color:blue&#34;&gt;hasaan.sajjad+general@gmail.com&lt;span&gt;
+ --&gt;
 
 &lt;h3 id=&#34;recent-news&#34;&gt;Recent News&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Accepted Papers 2022:&lt;/strong&gt; 3 Journal articles (1 TACL, 1 CSL, 1 IJDRR), 3 conference papers (1 ICLR, 1 NAACL, 1 COLING)&lt;/li&gt;
+&lt;li&gt;Learning Uncertainty for Unknown Domains with Zero-Target-Assumption, ICLR 2023&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Accepted Papers 2023:&lt;/strong&gt; 2 demo paper (1 AAAI, EACL), 1 conference paper (1 ICLR)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Accepted Papers 2022:&lt;/strong&gt; 3 journal articles (1 TACL, 1 CSL, 1 IJDRR), 5 conference papers (1 ICLR, 1 NAACL, 1 COLING, 2 EMNLP), 1 workshop paper (BlackboxNLP)&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;NeuroX Toolkit on pip:&lt;/strong&gt; &lt;a href=&#34;https://pypi.org/project/neurox/&#34; target=&#34;_blank&#34;&gt;https://pypi.org/project/neurox/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Accepted Papers 2021:&lt;/strong&gt; 1@TACL, 1@NAACL, 1@ACL findings, 2@ICWSM, 1@IWCS&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Tutorial @NAACL 2021:&lt;/strong&gt; &lt;a href=&#34;https://github.com/hsajjad/Interpretability-Tutorial-NAACL2021&#34; target=&#34;_blank&#34;&gt;Fine-grained Interpretation and Causation Analysis in Deep NLP Models&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Accepted papers 2020:&lt;/strong&gt; 2@EMNLP, 2@COLING, 1@ACL, 1@CL, 1@NLE&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Talk:&lt;/strong&gt; Exploiting Redundancy in Pre-trained Models for Efficient Transfer Learning at Machine Learning and Data Analytics Symposium, Qatar (Mar. 2021), Facebook, US (Feb 2021) and National Research Council, Canada (Nov. 2020)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Talk:&lt;/strong&gt; Hidden Linguistics in Deep NLP Models. Heinrich-Heine Universität Düsseldorf, Germany&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Media Coverage:&lt;/strong&gt; One billion tokens translated. &lt;a href=&#34;https://www.gulf-times.com/story/671869/QCRI-s-Shaheen-achieves-milestone-with-over-1bn-words-translated&#34; target=&#34;_blank&#34;&gt;Gulf times&lt;/a&gt;, &lt;a href=&#34;https://www.qatar-tribune.com/news-details/id/196901/qcri-s-shaheen-celebrates-milestone-with-over-1-billion-translated-words&#34; target=&#34;_blank&#34;&gt;Qatar tribune&lt;/a&gt; and several TV/radio channels such as Qatar radio and Qatar TV&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Released:&lt;/strong&gt; First-ever &lt;a href=&#34;http://mt.qcri.org/api&#34; target=&#34;_blank&#34;&gt;Dialectal Arabic to English Machine Translation System&lt;/a&gt; covering a large variety of Arabic dialects&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Tech Transfer:&lt;/strong&gt; &lt;a href=&#34;http://mt.qcri.org/api&#34; target=&#34;_blank&#34;&gt;Machine Translation&lt;/a&gt; Technology to &lt;a href=&#34;http://www.kanerai.com&#34; target=&#34;_blank&#34;&gt;KanariAI&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Talk:&lt;/strong&gt; Interpreting Deep NLP Models, University of Edinburgh, UK (April 2020)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Talk:&lt;/strong&gt; University of Sheffield, UK (Mar 2020)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Invited talk:&lt;/strong&gt; Efficient Transfer Learning of Pretrained Model. 7th International Conference on Language and Technology, Pakistan (February 2020)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Talk:&lt;/strong&gt; Analyzing Individual Neurons in Deep NLP Models at Google, Facebook, Amazon, Salesforce and Bosch, US (April 2019)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Keynote:&lt;/strong&gt; Hidden Linguistic in Deep NLP Models, Symposium on Natural Language Processing, University of Moratuwa, Sri Lanka (March 2019)&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
