@@ -7,73 +7,113 @@
   </url>
   
   <url>
-    <loc>//localhost:1313/publication_types/10/</loc>
-    <lastmod>2023-01-01T00:00:00-04:00</lastmod>
+    <loc>//localhost:1313/publication_types/1/</loc>
+    <lastmod>2023-05-12T22:21:55-03:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/authors/abdul-rafae-khan/</loc>
-    <lastmod>2023-01-01T00:00:00-04:00</lastmod>
+    <loc>//localhost:1313/publication_types/10/</loc>
+    <lastmod>2023-05-12T23:13:24-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/authors/and-nadir-durrani/</loc>
+    <lastmod>2023-05-12T23:13:23-03:00</lastmod>
   </url>
   
   <url>
     <loc>//localhost:1313/authors/</loc>
-    <lastmod>2023-01-01T00:00:00-04:00</lastmod>
+    <lastmod>2023-05-12T23:13:24-03:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/publication/conceptx-aaai-23-demo/</loc>
-    <lastmod>2023-01-01T00:00:00-04:00</lastmod>
+    <loc>//localhost:1313/authors/enes-altinisik/</loc>
+    <lastmod>2023-05-12T22:21:55-03:00</lastmod>
   </url>
   
   <url>
     <loc>//localhost:1313/authors/fahim-dalvi/</loc>
-    <lastmod>2023-01-01T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//localhost:1313/authors/firoj-alam/</loc>
-    <lastmod>2023-01-01T00:00:00-04:00</lastmod>
+    <lastmod>2023-05-12T23:13:24-03:00</lastmod>
   </url>
   
   <url>
     <loc>//localhost:1313/authors/hassan-sajjad/</loc>
-    <lastmod>2023-01-01T00:00:00-04:00</lastmod>
+    <lastmod>2023-05-12T23:13:24-03:00</lastmod>
   </url>
   
   <url>
     <loc>//localhost:1313/</loc>
-    <lastmod>2023-01-01T00:00:00-04:00</lastmod>
+    <lastmod>2023-05-12T23:13:24-03:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/authors/jia-xu/</loc>
-    <lastmod>2023-01-01T00:00:00-04:00</lastmod>
+    <loc>//localhost:1313/authors/husrev-taha-sencar/</loc>
+    <lastmod>2023-05-12T22:21:55-03:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/authors/nadir-durrani/</loc>
-    <lastmod>2023-01-01T00:00:00-04:00</lastmod>
+    <loc>//localhost:1313/publication/adverserial-acl-23/</loc>
+    <lastmod>2023-05-12T22:21:55-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/publication/neurox-acl-23-demo/</loc>
+    <lastmod>2023-05-12T23:13:23-03:00</lastmod>
   </url>
   
   <url>
     <loc>//localhost:1313/publication_types/</loc>
-    <lastmod>2023-01-01T00:00:00-04:00</lastmod>
+    <lastmod>2023-05-12T23:13:24-03:00</lastmod>
   </url>
   
   <url>
     <loc>//localhost:1313/publication/</loc>
-    <lastmod>2023-01-01T00:00:00-04:00</lastmod>
+    <lastmod>2023-05-12T23:13:24-03:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/publication_types/1/</loc>
-    <lastmod>2022-12-01T00:00:00-04:00</lastmod>
+    <loc>//localhost:1313/authors/safa-messaoud/</loc>
+    <lastmod>2023-05-12T22:21:55-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/authors/sanjay-chawla/</loc>
+    <lastmod>2023-05-12T22:21:55-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/authors/musab-husaini/</loc>
+    <lastmod>2023-05-12T23:13:24-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/authors/nadir-durrani/</loc>
+    <lastmod>2023-05-12T23:13:24-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/publication/nxplain-eacl-23-demo/</loc>
+    <lastmod>2023-05-12T23:13:24-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/authors/tamim-jaban/</loc>
+    <lastmod>2023-05-12T23:13:24-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/authors/ummar-abbas/</loc>
+    <lastmod>2023-05-12T23:13:24-03:00</lastmod>
   </url>
   
   <url>
     <loc>//localhost:1313/authors/david-arps/</loc>
     <lastmod>2022-12-01T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/authors/firoj-alam/</loc>
+    <lastmod>2023-05-12T22:19:06-03:00</lastmod>
   </url>
   
   <url>
@@ -113,7 +153,7 @@
   
   <url>
     <loc>//localhost:1313/publication/sajjad-etal-2022-effect/</loc>
-    <lastmod>2022-10-01T00:00:00-03:00</lastmod>
+    <lastmod>2023-05-12T22:19:06-03:00</lastmod>
   </url>
   
   <url>
@@ -124,6 +164,16 @@
   <url>
     <loc>//localhost:1313/publication/sajjad-etal-2022-analyzing/</loc>
     <lastmod>2022-07-01T00:00:00-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/authors/jia-xu/</loc>
+    <lastmod>2022-07-01T00:00:00-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/authors/abdul-rafae-khan/</loc>
+    <lastmod>2022-05-01T00:00:00-03:00</lastmod>
   </url>
   
   <url>
@@ -377,16 +427,6 @@
   </url>
   
   <url>
-    <loc>//localhost:1313/publication_types/3/</loc>
-    <lastmod>2020-04-01T00:00:00-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//localhost:1313/publication/dalvi-featureselection-arxiv/</loc>
-    <lastmod>2020-04-01T00:00:00-03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>//localhost:1313/publication/rafae-2018-cl/</loc>
     <lastmod>2020-03-01T00:00:00-04:00</lastmod>
   </url>
@@ -417,22 +457,7 @@
   </url>
   
   <url>
-    <loc>//localhost:1313/publication/ganeshcompressingbert-arxiv/</loc>
-    <lastmod>2020-01-01T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//localhost:1313/authors/mohammad-haris-ali-khan/</loc>
-    <lastmod>2020-01-01T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>//localhost:1313/publication/belinkov-2020-cl/</loc>
-    <lastmod>2020-01-01T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//localhost:1313/publication/sajjad-poormanbert-arxiv/</loc>
     <lastmod>2020-01-01T00:00:00-04:00</lastmod>
   </url>
   

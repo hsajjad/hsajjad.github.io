@@ -5,7 +5,7 @@
     <link>//localhost:1313/authors/nadir-durrani/</link>
       <atom:link href="//localhost:1313/authors/nadir-durrani/index.xml" rel="self" type="application/rss+xml" />
     <description>Nadir Durrani</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>//localhost:1313/img/icon-192.png</url>
       <title>Nadir Durrani</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>ConceptX: A Framework for Latent Concept Analysis</title>
-      <link>//localhost:1313/publication/conceptx-aaai-23-demo/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 -0400</pubDate>
-      <guid>//localhost:1313/publication/conceptx-aaai-23-demo/</guid>
+      <title>NxPlain: A Web-based Tool for Discovery of Latent Concepts</title>
+      <link>//localhost:1313/publication/nxplain-eacl-23-demo/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/nxplain-eacl-23-demo/</guid>
       <description></description>
     </item>
     
@@ -39,7 +39,7 @@
     <item>
       <title>Effect of Post-processing on Contextualized Word Representations</title>
       <link>//localhost:1313/publication/sajjad-etal-2022-effect/</link>
-      <pubDate>Sat, 01 Oct 2022 00:00:00 -0300</pubDate>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/publication/sajjad-etal-2022-effect/</guid>
       <description></description>
     </item>
@@ -133,26 +133,10 @@
     </item>
     
     <item>
-      <title>Exploiting Redundancy in Pre-trained Language Models for Efficient Transfer Learning</title>
-      <link>//localhost:1313/publication/dalvi-featureselection-arxiv/</link>
-      <pubDate>Wed, 01 Apr 2020 00:00:00 -0300</pubDate>
-      <guid>//localhost:1313/publication/dalvi-featureselection-arxiv/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>On the Linguistic Representational Power of Neural Machine Translation Models</title>
       <link>//localhost:1313/publication/belinkov-2020-cl/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 -0400</pubDate>
       <guid>//localhost:1313/publication/belinkov-2020-cl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Poor Man&#39;s BERT: Smaller and Faster Transformer Models</title>
-      <link>//localhost:1313/publication/sajjad-poormanbert-arxiv/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 -0400</pubDate>
-      <guid>//localhost:1313/publication/sajjad-poormanbert-arxiv/</guid>
       <description></description>
     </item>
     

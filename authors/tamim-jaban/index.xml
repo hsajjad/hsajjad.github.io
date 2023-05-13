@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tamim Jaban | Hassan Sajjad</title>
+    <link>//localhost:1313/authors/tamim-jaban/</link>
+      <atom:link href="//localhost:1313/authors/tamim-jaban/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tamim Jaban</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/img/icon-192.png</url>
+      <title>Tamim Jaban</title>
+      <link>//localhost:1313/authors/tamim-jaban/</link>
+    </image>
+    
+    <item>
+      <title>NxPlain: A Web-based Tool for Discovery of Latent Concepts</title>
+      <link>//localhost:1313/publication/nxplain-eacl-23-demo/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/nxplain-eacl-23-demo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

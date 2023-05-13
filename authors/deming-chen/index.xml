@@ -20,13 +20,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>Compressing Large-Scale Transformer-Based Models: A Case Study on BERT</title>
-      <link>//localhost:1313/publication/ganeshcompressingbert-arxiv/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 -0400</pubDate>
-      <guid>//localhost:1313/publication/ganeshcompressingbert-arxiv/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>

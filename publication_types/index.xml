@@ -5,7 +5,7 @@
     <link>//localhost:1313/publication_types/</link>
       <atom:link href="//localhost:1313/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>//localhost:1313/img/icon-192.png</url>
       <title>Publication_types</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>10</title>
-      <link>//localhost:1313/publication_types/10/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 -0400</pubDate>
-      <guid>//localhost:1313/publication_types/10/</guid>
+      <title>1</title>
+      <link>//localhost:1313/publication_types/1/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication_types/1/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>1</title>
-      <link>//localhost:1313/publication_types/1/</link>
-      <pubDate>Thu, 01 Dec 2022 00:00:00 -0400</pubDate>
-      <guid>//localhost:1313/publication_types/1/</guid>
+      <title>10</title>
+      <link>//localhost:1313/publication_types/10/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication_types/10/</guid>
       <description></description>
     </item>
     
@@ -41,14 +41,6 @@
       <link>//localhost:1313/publication_types/2/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 -0400</pubDate>
       <guid>//localhost:1313/publication_types/2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>3</title>
-      <link>//localhost:1313/publication_types/3/</link>
-      <pubDate>Wed, 01 Apr 2020 00:00:00 -0300</pubDate>
-      <guid>//localhost:1313/publication_types/3/</guid>
       <description></description>
     </item>
     

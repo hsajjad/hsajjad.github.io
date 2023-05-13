@@ -5,7 +5,7 @@
     <link>//localhost:1313/authors/</link>
       <atom:link href="//localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>//localhost:1313/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,50 +13,90 @@
     </image>
     
     <item>
-      <title>Abdul Rafae Khan</title>
-      <link>//localhost:1313/authors/abdul-rafae-khan/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 -0400</pubDate>
-      <guid>//localhost:1313/authors/abdul-rafae-khan/</guid>
+      <title>and Nadir Durrani</title>
+      <link>//localhost:1313/authors/and-nadir-durrani/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/and-nadir-durrani/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enes Altinisik</title>
+      <link>//localhost:1313/authors/enes-altinisik/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/enes-altinisik/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fahim Dalvi</title>
       <link>//localhost:1313/authors/fahim-dalvi/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 -0400</pubDate>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/authors/fahim-dalvi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Firoj Alam</title>
-      <link>//localhost:1313/authors/firoj-alam/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 -0400</pubDate>
-      <guid>//localhost:1313/authors/firoj-alam/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hassan Sajjad</title>
       <link>//localhost:1313/authors/hassan-sajjad/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 -0400</pubDate>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/authors/hassan-sajjad/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Jia Xu</title>
-      <link>//localhost:1313/authors/jia-xu/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 -0400</pubDate>
-      <guid>//localhost:1313/authors/jia-xu/</guid>
+      <title>Husrev Taha Sencar</title>
+      <link>//localhost:1313/authors/husrev-taha-sencar/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/husrev-taha-sencar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Safa Messaoud</title>
+      <link>//localhost:1313/authors/safa-messaoud/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/safa-messaoud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sanjay Chawla</title>
+      <link>//localhost:1313/authors/sanjay-chawla/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/sanjay-chawla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mus&#39;ab Husaini</title>
+      <link>//localhost:1313/authors/musab-husaini/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/musab-husaini/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nadir Durrani</title>
       <link>//localhost:1313/authors/nadir-durrani/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/authors/nadir-durrani/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tamim Jaban</title>
+      <link>//localhost:1313/authors/tamim-jaban/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/tamim-jaban/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ummar Abbas</title>
+      <link>//localhost:1313/authors/ummar-abbas/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/ummar-abbas/</guid>
       <description></description>
     </item>
     
@@ -65,6 +105,14 @@
       <link>//localhost:1313/authors/david-arps/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 -0400</pubDate>
       <guid>//localhost:1313/authors/david-arps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Firoj Alam</title>
+      <link>//localhost:1313/authors/firoj-alam/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 -0400</pubDate>
+      <guid>//localhost:1313/authors/firoj-alam/</guid>
       <description></description>
     </item>
     
@@ -97,6 +145,22 @@
       <link>//localhost:1313/authors/abdul-khan/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 -0300</pubDate>
       <guid>//localhost:1313/authors/abdul-khan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jia Xu</title>
+      <link>//localhost:1313/authors/jia-xu/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 -0300</pubDate>
+      <guid>//localhost:1313/authors/jia-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abdul Rafae Khan</title>
+      <link>//localhost:1313/authors/abdul-rafae-khan/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 -0300</pubDate>
+      <guid>//localhost:1313/authors/abdul-rafae-khan/</guid>
       <description></description>
     </item>
     
@@ -305,14 +369,6 @@
       <link>//localhost:1313/authors/faisal-kamiran/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 -0400</pubDate>
       <guid>//localhost:1313/authors/faisal-kamiran/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mohammad Haris Ali Khan</title>
-      <link>//localhost:1313/authors/mohammad-haris-ali-khan/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 -0400</pubDate>
-      <guid>//localhost:1313/authors/mohammad-haris-ali-khan/</guid>
       <description></description>
     </item>
     
@@ -780,11 +836,16 @@
 * else: &lt;span style=&#34;color:blue&#34;&gt;hasaan.sajjad+general@gmail.com&lt;span&gt;
  --&gt;
 
-&lt;h3 id=&#34;recent-news&#34;&gt;Recent News&lt;/h3&gt;
+&lt;h4 id=&#34;recent-news&#34;&gt;Recent News&lt;/h4&gt;
 
 &lt;ul&gt;
+&lt;li&gt;Area chair @ NeurIPS 2023, Tutorial chair @ EMNLP 2023&lt;/li&gt;
+&lt;li&gt;Accepted ACL Demo 2023: NeuroX 2.0 Library for Neuron Analysis of Deep NLP Models&lt;/li&gt;
+&lt;li&gt;Accepted ACL findings 2023: Impact of Adversarial Training on Robustness and Generalizability of Language Models&lt;/li&gt;
+&lt;li&gt;Talk: Knowledge Manifolds in Transformer Models of NLP, National Research Council (NRC), Canada (Apr. 2023)&lt;/li&gt;
+&lt;li&gt;Talk: Knowledge Manifolds in Transformer Models of NLP, University of Ottawa, Canada (Apr. 2023)&lt;/li&gt;
 &lt;li&gt;Learning Uncertainty for Unknown Domains with Zero-Target-Assumption, ICLR 2023&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Accepted Papers 2023:&lt;/strong&gt; 2 demo paper (1 AAAI, EACL), 1 conference paper (1 ICLR)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Accepted Papers 2023:&lt;/strong&gt; 2 conference papers (ICLR, ACL), 3 demo papers (AAAI, ACL, EACL)&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Accepted Papers 2022:&lt;/strong&gt; 3 journal articles (1 TACL, 1 CSL, 1 IJDRR), 5 conference papers (1 ICLR, 1 NAACL, 1 COLING, 2 EMNLP), 1 workshop paper (BlackboxNLP)&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;NeuroX Toolkit on pip:&lt;/strong&gt; &lt;a href=&#34;https://pypi.org/project/neurox/&#34; target=&#34;_blank&#34;&gt;https://pypi.org/project/neurox/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
