@@ -8,7 +8,7 @@
   
   <url>
     <loc>//localhost:1313/publication_types/1/</loc>
-    <lastmod>2023-05-12T22:21:55-03:00</lastmod>
+    <lastmod>2023-06-06T10:57:55-03:00</lastmod>
   </url>
   
   <url>
@@ -23,7 +23,7 @@
   
   <url>
     <loc>//localhost:1313/authors/</loc>
-    <lastmod>2023-05-12T23:13:24-03:00</lastmod>
+    <lastmod>2023-06-06T10:57:55-03:00</lastmod>
   </url>
   
   <url>
@@ -38,12 +38,12 @@
   
   <url>
     <loc>//localhost:1313/authors/hassan-sajjad/</loc>
-    <lastmod>2023-05-12T23:13:24-03:00</lastmod>
+    <lastmod>2023-06-06T10:57:55-03:00</lastmod>
   </url>
   
   <url>
     <loc>//localhost:1313/</loc>
-    <lastmod>2023-05-12T23:13:24-03:00</lastmod>
+    <lastmod>2023-06-06T10:57:55-03:00</lastmod>
   </url>
   
   <url>
@@ -63,7 +63,7 @@
   
   <url>
     <loc>//localhost:1313/publication_types/</loc>
-    <lastmod>2023-05-12T23:13:24-03:00</lastmod>
+    <lastmod>2023-06-06T10:57:55-03:00</lastmod>
   </url>
   
   <url>
@@ -82,6 +82,21 @@
   </url>
   
   <url>
+    <loc>//localhost:1313/tags/conference/</loc>
+    <lastmod>2023-06-06T10:57:55-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/authors/jia-xu/</loc>
+    <lastmod>2023-06-06T10:57:55-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/publication/yu-generalization-iclr-2023/</loc>
+    <lastmod>2023-06-06T10:57:55-03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>//localhost:1313/authors/musab-husaini/</loc>
     <lastmod>2023-05-12T23:13:24-03:00</lastmod>
   </url>
@@ -97,6 +112,11 @@
   </url>
   
   <url>
+    <loc>//localhost:1313/tags/</loc>
+    <lastmod>2023-06-06T10:57:55-03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>//localhost:1313/authors/tamim-jaban/</loc>
     <lastmod>2023-05-12T23:13:24-03:00</lastmod>
   </url>
@@ -104,6 +124,11 @@
   <url>
     <loc>//localhost:1313/authors/ummar-abbas/</loc>
     <lastmod>2023-05-12T23:13:24-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/authors/yu-yu/</loc>
+    <lastmod>2023-06-06T10:57:55-03:00</lastmod>
   </url>
   
   <url>
@@ -163,11 +188,6 @@
   
   <url>
     <loc>//localhost:1313/publication/sajjad-etal-2022-analyzing/</loc>
-    <lastmod>2022-07-01T00:00:00-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//localhost:1313/authors/jia-xu/</loc>
     <lastmod>2022-07-01T00:00:00-03:00</lastmod>
   </url>
   
@@ -452,11 +472,6 @@
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/</loc>
-    <lastmod>2020-03-01T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>//localhost:1313/publication/belinkov-2020-cl/</loc>
     <lastmod>2020-01-01T00:00:00-04:00</lastmod>
   </url>
@@ -489,11 +504,6 @@
   <url>
     <loc>//localhost:1313/publication/durrani-2019-naacl/</loc>
     <lastmod>2019-06-01T00:00:00-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//localhost:1313/tags/conference/</loc>
-    <lastmod>2019-05-01T00:00:00-03:00</lastmod>
   </url>
   
   <url>
