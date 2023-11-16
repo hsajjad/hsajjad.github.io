@@ -5,12 +5,20 @@
     <link>//localhost:1313/authors/jia-xu/</link>
       <atom:link href="//localhost:1313/authors/jia-xu/index.xml" rel="self" type="application/rss+xml" />
     <description>Jia Xu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 -0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>//localhost:1313/img/icon-192.png</url>
       <title>Jia Xu</title>
       <link>//localhost:1313/authors/jia-xu/</link>
     </image>
+    
+    <item>
+      <title>Learning Uncertainty for Unknown Domains with Zero-Target-Assumption</title>
+      <link>//localhost:1313/publication/yu-generalization-iclr-2023/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/yu-generalization-iclr-2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Analyzing Encoded Concepts in Transformer Language Models</title>

@@ -13,6 +13,14 @@
     </image>
     
     <item>
+      <title>Evaluating Neuron Interpretation Methods of NLP Models</title>
+      <link>//localhost:1313/publication/fan-neuroneval-neurips-23/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/fan-neuroneval-neurips-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Impact of Adversarial Training on Robustness and Generalizability of Language Models</title>
       <link>//localhost:1313/publication/adverserial-acl-23/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
@@ -41,6 +49,14 @@
       <link>//localhost:1313/publication/nxplain-eacl-23-demo/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/publication/nxplain-eacl-23-demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discovering Salient Neurons in deep NLP models</title>
+      <link>//localhost:1313/publication/neuron-journal-jmlr-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/neuron-journal-jmlr-23/</guid>
       <description></description>
     </item>
     

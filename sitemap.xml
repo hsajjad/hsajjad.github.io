@@ -8,7 +8,57 @@
   
   <url>
     <loc>//localhost:1313/publication_types/1/</loc>
-    <lastmod>2023-06-06T10:57:55-03:00</lastmod>
+    <lastmod>2023-11-16T22:02:55+05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/authors/</loc>
+    <lastmod>2023-11-16T22:03:01+05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/tags/conference/</loc>
+    <lastmod>2023-11-16T22:02:55+05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/publication/fan-neuroneval-neurips-23/</loc>
+    <lastmod>2023-11-16T22:02:55+05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/authors/fahim-dalvi/</loc>
+    <lastmod>2023-11-16T22:03:01+05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2023-11-16T22:03:01+05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/authors/hassan-sajjad/</loc>
+    <lastmod>2023-11-16T22:03:01+05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/authors/nadir-durrani/</loc>
+    <lastmod>2023-11-16T22:03:01+05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/publication_types/</loc>
+    <lastmod>2023-11-16T22:03:01+05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/tags/</loc>
+    <lastmod>2023-11-16T22:03:01+05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/authors/yimin-fan/</loc>
+    <lastmod>2023-11-16T22:02:55+05:00</lastmod>
   </url>
   
   <url>
@@ -22,28 +72,8 @@
   </url>
   
   <url>
-    <loc>//localhost:1313/authors/</loc>
-    <lastmod>2023-06-06T10:57:55-03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>//localhost:1313/authors/enes-altinisik/</loc>
     <lastmod>2023-05-12T22:21:55-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//localhost:1313/authors/fahim-dalvi/</loc>
-    <lastmod>2023-05-12T23:13:24-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//localhost:1313/authors/hassan-sajjad/</loc>
-    <lastmod>2023-06-06T10:57:55-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//localhost:1313/</loc>
-    <lastmod>2023-06-06T10:57:55-03:00</lastmod>
   </url>
   
   <url>
@@ -62,13 +92,8 @@
   </url>
   
   <url>
-    <loc>//localhost:1313/publication_types/</loc>
-    <lastmod>2023-06-06T10:57:55-03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>//localhost:1313/publication/</loc>
-    <lastmod>2023-05-12T23:13:24-03:00</lastmod>
+    <lastmod>2023-06-06T10:57:55-03:00</lastmod>
   </url>
   
   <url>
@@ -79,11 +104,6 @@
   <url>
     <loc>//localhost:1313/authors/sanjay-chawla/</loc>
     <lastmod>2023-05-12T22:21:55-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//localhost:1313/tags/conference/</loc>
-    <lastmod>2023-06-06T10:57:55-03:00</lastmod>
   </url>
   
   <url>
@@ -102,18 +122,8 @@
   </url>
   
   <url>
-    <loc>//localhost:1313/authors/nadir-durrani/</loc>
-    <lastmod>2023-05-12T23:13:24-03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>//localhost:1313/publication/nxplain-eacl-23-demo/</loc>
     <lastmod>2023-05-12T23:13:24-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//localhost:1313/tags/</loc>
-    <lastmod>2023-06-06T10:57:55-03:00</lastmod>
   </url>
   
   <url>
@@ -129,6 +139,21 @@
   <url>
     <loc>//localhost:1313/authors/yu-yu/</loc>
     <lastmod>2023-06-06T10:57:55-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/publication_types/2/</loc>
+    <lastmod>2023-11-16T22:03:01+05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/publication/neuron-journal-jmlr-23/</loc>
+    <lastmod>2023-11-16T22:03:01+05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/tags/journal/</loc>
+    <lastmod>2023-11-16T22:03:01+05:00</lastmod>
   </url>
   
   <url>
@@ -199,11 +224,6 @@
   <url>
     <loc>//localhost:1313/publication/dalvi-2022-discovering/</loc>
     <lastmod>2022-05-01T00:00:00-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//localhost:1313/publication_types/2/</loc>
-    <lastmod>2022-01-01T00:00:00-04:00</lastmod>
   </url>
   
   <url>
@@ -463,11 +483,6 @@
   
   <url>
     <loc>//localhost:1313/authors/faisal-kamiran/</loc>
-    <lastmod>2020-03-01T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//localhost:1313/tags/journal/</loc>
     <lastmod>2020-03-01T00:00:00-04:00</lastmod>
   </url>
   

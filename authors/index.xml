@@ -69,6 +69,14 @@
     </item>
     
     <item>
+      <title>Jia Xu</title>
+      <link>//localhost:1313/authors/jia-xu/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/jia-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Mus&#39;ab Husaini</title>
       <link>//localhost:1313/authors/musab-husaini/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
@@ -97,6 +105,14 @@
       <link>//localhost:1313/authors/ummar-abbas/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/authors/ummar-abbas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yu Yu</title>
+      <link>//localhost:1313/authors/yu-yu/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/yu-yu/</guid>
       <description></description>
     </item>
     
@@ -145,14 +161,6 @@
       <link>//localhost:1313/authors/abdul-khan/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 -0300</pubDate>
       <guid>//localhost:1313/authors/abdul-khan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jia Xu</title>
-      <link>//localhost:1313/authors/jia-xu/</link>
-      <pubDate>Fri, 01 Jul 2022 00:00:00 -0300</pubDate>
-      <guid>//localhost:1313/authors/jia-xu/</guid>
       <description></description>
     </item>
     
@@ -811,7 +819,7 @@
       <guid>//localhost:1313/authors/admin/</guid>
       <description>
 
-&lt;p&gt;I am a Faculty member in the &lt;a href=&#34;https://www.dal.ca/faculty/computerscience.html&#34; target=&#34;_blank&#34;&gt;Faculty of Computer Science&lt;/a&gt; at &lt;a href=&#34;https://www.dal.ca/&#34; target=&#34;_blank&#34;&gt;Dalhousie University&lt;/a&gt;, Halifax, Canada. I am an AI researcher with domain expertise in Natural Language Processing and explainable AI. Moreover, I am a consultant and a mentor blended with entrepreneurial interests.&lt;/p&gt;
+&lt;p&gt;I am a Faculty member in the &lt;a href=&#34;https://www.dal.ca/faculty/computerscience.html&#34; target=&#34;_blank&#34;&gt;Faculty of Computer Science&lt;/a&gt; and Director of &lt;a href=&#34;https://hypermatrix.cs.dal.ca/&#34; target=&#34;_blank&#34;&gt;HyperMatrix&lt;/a&gt; at &lt;a href=&#34;https://www.dal.ca/&#34; target=&#34;_blank&#34;&gt;Dalhousie University&lt;/a&gt;, Halifax, Canada. I am an AI researcher with domain expertise in Natural Language Processing and explainable AI. Moreover, I am a consultant and a mentor blended with entrepreneurial interests.&lt;/p&gt;
 
 &lt;h4 id=&#34;research-interest&#34;&gt;Research Interest&lt;/h4&gt;
 
@@ -836,17 +844,38 @@
 * else: &lt;span style=&#34;color:blue&#34;&gt;hasaan.sajjad+general@gmail.com&lt;span&gt;
  --&gt;
 
-&lt;h4 id=&#34;recent-news&#34;&gt;Recent News&lt;/h4&gt;
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;recent-news&#34;&gt;Recent News&lt;/h3&gt;
+
+&lt;h5 id=&#34;papers&#34;&gt;Papers&lt;/h5&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Area chair @ NeurIPS 2023, Tutorial chair @ EMNLP 2023&lt;/li&gt;
-&lt;li&gt;Accepted ACL Demo 2023: NeuroX 2.0 Library for Neuron Analysis of Deep NLP Models&lt;/li&gt;
-&lt;li&gt;Accepted ACL findings 2023: Impact of Adversarial Training on Robustness and Generalizability of Language Models&lt;/li&gt;
-&lt;li&gt;Talk: Knowledge Manifolds in Transformer Models of NLP, National Research Council (NRC), Canada (Apr. 2023)&lt;/li&gt;
-&lt;li&gt;Talk: Knowledge Manifolds in Transformer Models of NLP, University of Ottawa, Canada (Apr. 2023)&lt;/li&gt;
-&lt;li&gt;Learning Uncertainty for Unknown Domains with Zero-Target-Assumption, ICLR 2023&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Accepted Papers 2023:&lt;/strong&gt; 2 conference papers (ICLR, ACL), 3 demo papers (AAAI, ACL, EACL)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Accepted Papers 2022:&lt;/strong&gt; 3 journal articles (1 TACL, 1 CSL, 1 IJDRR), 5 conference papers (1 ICLR, 1 NAACL, 1 COLING, 2 EMNLP), 1 workshop paper (BlackboxNLP)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Accepted Papers 2023:&lt;/strong&gt; 3 conference papers (Neurips, ICLR, ACL), 1 Journal (JMLR), 3 demo papers (AAAI, ACL, EACL)&lt;/li&gt;
+&lt;li&gt;Neurips 2023: Evaluating Neuron Interpretation Methods of NLP Models&lt;/li&gt;
+&lt;li&gt;ICLR 2023: Learning Uncertainty for Unknown Domains with Zero-Target-Assumption&lt;/li&gt;
+&lt;li&gt;JMLR 2023: Discovering Salient Neurons in deep NLP models&lt;/li&gt;
+&lt;li&gt;ACL Demo 2023: NeuroX 2.0 Library for Neuron Analysis of Deep NLP Models&lt;/li&gt;
+&lt;li&gt;ACL findings 2023: Impact of Adversarial Training on Robustness and Generalizability of Language Models&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&#34;talks&#34;&gt;Talks&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Latent Concepts in Transformer Models of NLP.  UKP, TU Darmstadt, Germany (Jun. 2023)&lt;/li&gt;
+&lt;li&gt;Knowledge Manifolds in Transformer Models of NLP, National Research Council (NRC), Canada (Apr. 2023)&lt;/li&gt;
+&lt;li&gt;Knowledge Manifolds in Transformer Models of NLP, University of Ottawa, Canada (Apr. 2023)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&#34;service&#34;&gt;Service&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Area chair @ NeurIPS 2023, Area chair @ EMNLP 2023, Tutorial chair @ EMNLP 2023&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&#34;misc&#34;&gt;Misc&lt;/h5&gt;
+
+&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;NeuroX Toolkit on pip:&lt;/strong&gt; &lt;a href=&#34;https://pypi.org/project/neurox/&#34; target=&#34;_blank&#34;&gt;https://pypi.org/project/neurox/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
