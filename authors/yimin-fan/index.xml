@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yimin Fan | Hassan Sajjad</title>
+    <link>//localhost:1313/authors/yimin-fan/</link>
+      <atom:link href="//localhost:1313/authors/yimin-fan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yimin Fan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/img/icon-192.png</url>
+      <title>Yimin Fan</title>
+      <link>//localhost:1313/authors/yimin-fan/</link>
+    </image>
+    
+    <item>
+      <title>Evaluating Neuron Interpretation Methods of NLP Models</title>
+      <link>//localhost:1313/publication/fan-neuroneval-neurips-23/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/fan-neuroneval-neurips-23/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

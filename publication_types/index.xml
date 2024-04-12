@@ -5,7 +5,7 @@
     <link>//localhost:1313/publication_types/</link>
       <atom:link href="//localhost:1313/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>//localhost:1313/img/icon-192.png</url>
       <title>Publication_types</title>
@@ -15,7 +15,7 @@
     <item>
       <title>1</title>
       <link>//localhost:1313/publication_types/1/</link>
-      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/publication_types/1/</guid>
       <description></description>
     </item>
@@ -29,18 +29,18 @@
     </item>
     
     <item>
-      <title>9</title>
-      <link>//localhost:1313/publication_types/9/</link>
-      <pubDate>Tue, 01 Nov 2022 00:00:00 -0300</pubDate>
-      <guid>//localhost:1313/publication_types/9/</guid>
+      <title>2</title>
+      <link>//localhost:1313/publication_types/2/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication_types/2/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>2</title>
-      <link>//localhost:1313/publication_types/2/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 -0400</pubDate>
-      <guid>//localhost:1313/publication_types/2/</guid>
+      <title>9</title>
+      <link>//localhost:1313/publication_types/9/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 -0300</pubDate>
+      <guid>//localhost:1313/publication_types/9/</guid>
       <description></description>
     </item>
     

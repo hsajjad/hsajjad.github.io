@@ -5,12 +5,44 @@
     <link>//localhost:1313/authors/</link>
       <atom:link href="//localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>//localhost:1313/img/icon-192.png</url>
       <title>Authors</title>
       <link>//localhost:1313/authors/</link>
     </image>
+    
+    <item>
+      <title>Fahim Dalvi</title>
+      <link>//localhost:1313/authors/fahim-dalvi/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/fahim-dalvi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hassan Sajjad</title>
+      <link>//localhost:1313/authors/hassan-sajjad/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/hassan-sajjad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nadir Durrani</title>
+      <link>//localhost:1313/authors/nadir-durrani/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/nadir-durrani/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yimin Fan</title>
+      <link>//localhost:1313/authors/yimin-fan/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/yimin-fan/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>and Nadir Durrani</title>
@@ -25,22 +57,6 @@
       <link>//localhost:1313/authors/enes-altinisik/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/authors/enes-altinisik/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fahim Dalvi</title>
-      <link>//localhost:1313/authors/fahim-dalvi/</link>
-      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/fahim-dalvi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hassan Sajjad</title>
-      <link>//localhost:1313/authors/hassan-sajjad/</link>
-      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/hassan-sajjad/</guid>
       <description></description>
     </item>
     
@@ -81,14 +97,6 @@
       <link>//localhost:1313/authors/musab-husaini/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/authors/musab-husaini/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nadir Durrani</title>
-      <link>//localhost:1313/authors/nadir-durrani/</link>
-      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/authors/nadir-durrani/</guid>
       <description></description>
     </item>
     
@@ -819,11 +827,11 @@
       <guid>//localhost:1313/authors/admin/</guid>
       <description>
 
-&lt;p&gt;I am a Faculty member in the &lt;a href=&#34;https://www.dal.ca/faculty/computerscience.html&#34; target=&#34;_blank&#34;&gt;Faculty of Computer Science&lt;/a&gt; and Director of &lt;a href=&#34;https://hypermatrix.cs.dal.ca/&#34; target=&#34;_blank&#34;&gt;HyperMatrix&lt;/a&gt; at &lt;a href=&#34;https://www.dal.ca/&#34; target=&#34;_blank&#34;&gt;Dalhousie University&lt;/a&gt;, Halifax, Canada. I am an AI researcher with domain expertise in Natural Language Processing and explainable AI. Moreover, I am a consultant and a mentor blended with entrepreneurial interests.&lt;/p&gt;
+&lt;p&gt;I am a Faculty member in the &lt;a href=&#34;https://www.dal.ca/faculty/computerscience.html&#34; target=&#34;_blank&#34;&gt;Faculty of Computer Science&lt;/a&gt; and Director of &lt;a href=&#34;https://hypermatrix.cs.dal.ca/&#34; target=&#34;_blank&#34;&gt;HyperMatrix&lt;/a&gt; at &lt;a href=&#34;https://www.dal.ca/&#34; target=&#34;_blank&#34;&gt;Dalhousie University&lt;/a&gt;, Halifax, Canada. I am an AI researcher with domain expertise in Natural Language Processing and Safe and Trustworthy AI AI. Moreover, I am a consultant and a mentor blended with entrepreneurial interests.&lt;/p&gt;
 
 &lt;h4 id=&#34;research-interest&#34;&gt;Research Interest&lt;/h4&gt;
 
-&lt;p&gt;NLP, Deep learning, Trustworthy AI &amp;ndash; language generation, interpretation of AI models, generalization and robustness, transfer learning&lt;/p&gt;
+&lt;p&gt;NLP, Deep learning, Safe and Trustworthy AI &amp;ndash; language generation, interpretation of AI models, generalization and robustness, social and safety alignment&lt;/p&gt;
 
 &lt;!-- Since you ended up on this page and if you are wondering where to go next, here are a few pointers:
 
@@ -851,6 +859,7 @@
 &lt;h5 id=&#34;papers&#34;&gt;Papers&lt;/h5&gt;
 
 &lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Accepted Papers 2024:&lt;/strong&gt; 2 conference papers (NAACL)&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Accepted Papers 2023:&lt;/strong&gt; 3 conference papers (Neurips, ICLR, ACL), 1 Journal (JMLR), 3 demo papers (AAAI, ACL, EACL)&lt;/li&gt;
 &lt;li&gt;Neurips 2023: Evaluating Neuron Interpretation Methods of NLP Models&lt;/li&gt;
 &lt;li&gt;ICLR 2023: Learning Uncertainty for Unknown Domains with Zero-Target-Assumption&lt;/li&gt;
@@ -862,6 +871,8 @@
 &lt;h5 id=&#34;talks&#34;&gt;Talks&lt;/h5&gt;
 
 &lt;ul&gt;
+&lt;li&gt;Latent Space Exploration for Safe and Trustworthy AI Models. AI@Thomson Reuters (Apr. 2024)&lt;/li&gt;
+&lt;li&gt;Latent Concept based Explanation of Deep Learning Models. MBZUAI, Abu Dhabi (Nov. 2023)&lt;/li&gt;
 &lt;li&gt;Latent Concepts in Transformer Models of NLP.  UKP, TU Darmstadt, Germany (Jun. 2023)&lt;/li&gt;
 &lt;li&gt;Knowledge Manifolds in Transformer Models of NLP, National Research Council (NRC), Canada (Apr. 2023)&lt;/li&gt;
 &lt;li&gt;Knowledge Manifolds in Transformer Models of NLP, University of Ottawa, Canada (Apr. 2023)&lt;/li&gt;
