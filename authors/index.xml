@@ -405,7 +405,7 @@
     </item>
     
     <item>
-      <title>D. Anthony Bau</title>
+      <title>D. Anthony Bau*</title>
       <link>//localhost:1313/authors/d.-anthony-bau/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 -0300</pubDate>
       <guid>//localhost:1313/authors/d.-anthony-bau/</guid>
@@ -827,11 +827,11 @@
       <guid>//localhost:1313/authors/admin/</guid>
       <description>
 
-&lt;p&gt;I am a Faculty member in the &lt;a href=&#34;https://www.dal.ca/faculty/computerscience.html&#34; target=&#34;_blank&#34;&gt;Faculty of Computer Science&lt;/a&gt; and Director of &lt;a href=&#34;https://hypermatrix.cs.dal.ca/&#34; target=&#34;_blank&#34;&gt;HyperMatrix&lt;/a&gt; at &lt;a href=&#34;https://www.dal.ca/&#34; target=&#34;_blank&#34;&gt;Dalhousie University&lt;/a&gt;, Halifax, Canada. I am an AI researcher with domain expertise in Natural Language Processing and Safe and Trustworthy AI AI. Moreover, I am a consultant and a mentor blended with entrepreneurial interests.&lt;/p&gt;
+&lt;p&gt;I am a Faculty member in the &lt;a href=&#34;https://www.dal.ca/faculty/computerscience.html&#34; target=&#34;_blank&#34;&gt;Faculty of Computer Science&lt;/a&gt; and Director of &lt;a href=&#34;https://hypermatrix.cs.dal.ca/&#34; target=&#34;_blank&#34;&gt;HyperMatrix&lt;/a&gt; at &lt;a href=&#34;https://www.dal.ca/&#34; target=&#34;_blank&#34;&gt;Dalhousie University&lt;/a&gt;, Halifax, Canada. I am an AI researcher with domain expertise in Natural Language Processing and Safe and Trustworthy AI. Moreover, I am a consultant and a mentor blended with entrepreneurial interests.&lt;/p&gt;
 
 &lt;h4 id=&#34;research-interest&#34;&gt;Research Interest&lt;/h4&gt;
 
-&lt;p&gt;NLP, Deep learning, Safe and Trustworthy AI &amp;ndash; language generation, interpretation of AI models, generalization and robustness, social and safety alignment&lt;/p&gt;
+&lt;p&gt;NLP, Deep learning, Safe and Trustworthy AI &amp;ndash; language generation, interpretability and explainability, generalization and robustness, social and safety alignment, model editing&lt;/p&gt;
 
 &lt;!-- Since you ended up on this page and if you are wondering where to go next, here are a few pointers:
 
@@ -859,7 +859,7 @@
 &lt;h5 id=&#34;papers&#34;&gt;Papers&lt;/h5&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Accepted Papers 2024:&lt;/strong&gt; 2 conference papers (NAACL)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Accepted Papers 2024:&lt;/strong&gt; 2 papers (NeurIPS), 2 papers (NAACL), 2 papers (EMNLP)&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Accepted Papers 2023:&lt;/strong&gt; 3 conference papers (Neurips, ICLR, ACL), 1 Journal (JMLR), 3 demo papers (AAAI, ACL, EACL)&lt;/li&gt;
 &lt;li&gt;Neurips 2023: Evaluating Neuron Interpretation Methods of NLP Models&lt;/li&gt;
 &lt;li&gt;ICLR 2023: Learning Uncertainty for Unknown Domains with Zero-Target-Assumption&lt;/li&gt;
@@ -871,6 +871,9 @@
 &lt;h5 id=&#34;talks&#34;&gt;Talks&lt;/h5&gt;
 
 &lt;ul&gt;
+&lt;li&gt;Latent Space Exploration for Safe and Trustworthy AI Models. Representation learning for NLP
+at ACL (Aug. 2024) (Keynote)&lt;/li&gt;
+&lt;li&gt;Latent Space Exploration for Safe and Trustworthy AI Models. MBZUAI, Abu Dhabi (Aug. 2024)&lt;/li&gt;
 &lt;li&gt;Latent Space Exploration for Safe and Trustworthy AI Models. AI@Thomson Reuters (Apr. 2024)&lt;/li&gt;
 &lt;li&gt;Latent Concept based Explanation of Deep Learning Models. MBZUAI, Abu Dhabi (Nov. 2023)&lt;/li&gt;
 &lt;li&gt;Latent Concepts in Transformer Models of NLP.  UKP, TU Darmstadt, Germany (Jun. 2023)&lt;/li&gt;
@@ -881,7 +884,7 @@
 &lt;h5 id=&#34;service&#34;&gt;Service&lt;/h5&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Area chair @ NeurIPS 2023, Area chair @ EMNLP 2023, Tutorial chair @ EMNLP 2023&lt;/li&gt;
+&lt;li&gt;Area chair @ NeurIPS &lt;sup&gt;2023&lt;/sup&gt;&amp;frasl;&lt;sub&gt;24&lt;/sub&gt;, Area chair @ ARR 2024, Area chair @ EMNLP 2023, Tutorial chair @ EMNLP 2023&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h5 id=&#34;misc&#34;&gt;Misc&lt;/h5&gt;
