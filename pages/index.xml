@@ -19,6 +19,11 @@
       <guid>//localhost:1313/pages/news/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Accepted Papers 2023:&lt;/strong&gt; 2 demo paper (1 AAAI, EACL), 1 conference paper (1 ICLR)&lt;/li&gt;
+&lt;li&gt;Neurips 2023: Evaluating Neuron Interpretation Methods of NLP Models&lt;/li&gt;
+&lt;li&gt;ICLR 2023: Learning Uncertainty for Unknown Domains with Zero-Target-Assumption&lt;/li&gt;
+&lt;li&gt;JMLR 2023: Discovering Salient Neurons in deep NLP models&lt;/li&gt;
+&lt;li&gt;ACL Demo 2023: NeuroX 2.0 Library for Neuron Analysis of Deep NLP Models&lt;/li&gt;
+&lt;li&gt;ACL findings 2023: Impact of Adversarial Training on Robustness and Generalizability of Language Models&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Accepted Papers 2022:&lt;/strong&gt; 3 journal articles (1 TACL, 1 CSL, 1 IJDRR), 5 conference papers (1 ICLR, 1 NAACL, 1 COLING, 2 EMNLP), 1 workshop paper (BlackboxNLP)&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;NeuroX Toolkit on pip:&lt;/strong&gt; &lt;a href=&#34;https://pypi.org/project/neurox/&#34; target=&#34;_blank&#34;&gt;https://pypi.org/project/neurox/&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Tutorial @NAACL 2021:&lt;/strong&gt; &lt;a href=&#34;https://github.com/hsajjad/Interpretability-Tutorial-NAACL2021&#34; target=&#34;_blank&#34;&gt;Fine-grained Interpretation and Causation Analysis in Deep NLP Models&lt;/a&gt;&lt;/li&gt;

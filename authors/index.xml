@@ -859,20 +859,19 @@
 &lt;h5 id=&#34;papers&#34;&gt;Papers&lt;/h5&gt;
 
 &lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Accepted Papers 2025:&lt;/strong&gt; 2 papers (ICML), 1 paper (ICLR), 1 (IJMIR)&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Accepted Papers 2024:&lt;/strong&gt; 2 papers (NeurIPS), 2 papers (NAACL), 2 papers (EMNLP)&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Accepted Papers 2023:&lt;/strong&gt; 3 conference papers (Neurips, ICLR, ACL), 1 Journal (JMLR), 3 demo papers (AAAI, ACL, EACL)&lt;/li&gt;
-&lt;li&gt;Neurips 2023: Evaluating Neuron Interpretation Methods of NLP Models&lt;/li&gt;
-&lt;li&gt;ICLR 2023: Learning Uncertainty for Unknown Domains with Zero-Target-Assumption&lt;/li&gt;
-&lt;li&gt;JMLR 2023: Discovering Salient Neurons in deep NLP models&lt;/li&gt;
-&lt;li&gt;ACL Demo 2023: NeuroX 2.0 Library for Neuron Analysis of Deep NLP Models&lt;/li&gt;
-&lt;li&gt;ACL findings 2023: Impact of Adversarial Training on Robustness and Generalizability of Language Models&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h5 id=&#34;talks&#34;&gt;Talks&lt;/h5&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Latent Space Exploration for Safe and Trustworthy AI Models. Representation learning for NLP
-at ACL (Aug. 2024) (Keynote)&lt;/li&gt;
+&lt;li&gt;Latent Concept-Based Explanation of NLP Models. Workshop on Decoding Decisions: Explain-
+ability in ML &amp;amp; Sequential Decision Making, CVPR (May 2025)&lt;/li&gt;
+&lt;li&gt;Navigating Latent Space for Safety, Interpretability and Explainability. New York University Abu Dhabi (May 2025)&lt;/li&gt;
+&lt;li&gt;Are LLMs a Good Model of Human Thought? The Challenge of Compositional Learning. Atlantic Canada AI Summit (May 2025)&lt;/li&gt;
+&lt;li&gt;Latent Space Exploration for Safe and Trustworthy AI Models. Representation learning for NLP at ACL (Aug. 2024) (Keynote)&lt;/li&gt;
 &lt;li&gt;Latent Space Exploration for Safe and Trustworthy AI Models. MBZUAI, Abu Dhabi (Aug. 2024)&lt;/li&gt;
 &lt;li&gt;Latent Space Exploration for Safe and Trustworthy AI Models. AI@Thomson Reuters (Apr. 2024)&lt;/li&gt;
 &lt;li&gt;Latent Concept based Explanation of Deep Learning Models. MBZUAI, Abu Dhabi (Nov. 2023)&lt;/li&gt;
@@ -884,7 +883,7 @@ at ACL (Aug. 2024) (Keynote)&lt;/li&gt;
 &lt;h5 id=&#34;service&#34;&gt;Service&lt;/h5&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Area chair @ NeurIPS &lt;sup&gt;2023&lt;/sup&gt;&amp;frasl;&lt;sub&gt;24&lt;/sub&gt;, Area chair @ ARR 2024, Area chair @ EMNLP 2023, Tutorial chair @ EMNLP 2023&lt;/li&gt;
+&lt;li&gt;Area chair @ NeurIPS 2023/24/25, Area chair @ ARR &lt;sup&gt;2024&lt;/sup&gt;&amp;frasl;&lt;sub&gt;25&lt;/sub&gt;, Area chair @ EMNLP 2023, Tutorial chair @ EMNLP 2023&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h5 id=&#34;misc&#34;&gt;Misc&lt;/h5&gt;
