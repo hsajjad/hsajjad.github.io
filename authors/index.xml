@@ -405,7 +405,7 @@
     </item>
     
     <item>
-      <title>D. Anthony Bau*</title>
+      <title>D. Anthony Bau</title>
       <link>//localhost:1313/authors/d.-anthony-bau/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 -0300</pubDate>
       <guid>//localhost:1313/authors/d.-anthony-bau/</guid>
@@ -861,14 +861,13 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Accepted Papers 2025:&lt;/strong&gt; 2 papers (ICML), 1 paper (ICLR), 1 (IJMIR)&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Accepted Papers 2024:&lt;/strong&gt; 2 papers (NeurIPS), 2 papers (NAACL), 2 papers (EMNLP)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Accepted Papers 2023:&lt;/strong&gt; 3 conference papers (Neurips, ICLR, ACL), 1 Journal (JMLR), 3 demo papers (AAAI, ACL, EACL)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Accepted Papers 2023:&lt;/strong&gt; 3 conference papers (NeurIPS, ICLR, ACL), 1 Journal (JMLR), 3 demo papers (AAAI, ACL, EACL)&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h5 id=&#34;talks&#34;&gt;Talks&lt;/h5&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Latent Concept-Based Explanation of NLP Models. Workshop on Decoding Decisions: Explain-
-ability in ML &amp;amp; Sequential Decision Making, CVPR (May 2025)&lt;/li&gt;
+&lt;li&gt;Latent Concept-Based Explanation of NLP Models. Workshop on Decoding Decisions: Explainability in ML &amp;amp; Sequential Decision Making, CVPR (May 2025)&lt;/li&gt;
 &lt;li&gt;Navigating Latent Space for Safety, Interpretability and Explainability. New York University Abu Dhabi (May 2025)&lt;/li&gt;
 &lt;li&gt;Are LLMs a Good Model of Human Thought? The Challenge of Compositional Learning. Atlantic Canada AI Summit (May 2025)&lt;/li&gt;
 &lt;li&gt;Latent Space Exploration for Safe and Trustworthy AI Models. Representation learning for NLP at ACL (Aug. 2024) (Keynote)&lt;/li&gt;
