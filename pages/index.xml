@@ -18,7 +18,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/pages/news/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Accepted Papers 2025:&lt;/strong&gt; 2 papers (ICML), 1 paper (ICLR), 1 (IJMIR)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Accepted Papers 2025:&lt;/strong&gt; 2 papers (ICML), 1 paper (ICLR), 1 (EMNLP), 1 (IJMIR)&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Accepted Papers 2024:&lt;/strong&gt; 2 papers (NeurIPS), 2 papers (NAACL), 2 papers (EMNLP)&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Accepted Papers 2023:&lt;/strong&gt; 3 conference papers (NeurIPS, ICLR, ACL), 1 Journal (JMLR), 3 demo papers (AAAI, ACL, EACL)&lt;/li&gt;
 &lt;li&gt;Neurips 2023: Evaluating Neuron Interpretation Methods of NLP Models&lt;/li&gt;
@@ -379,9 +379,17 @@
       <guid>//localhost:1313/pages/research/</guid>
       <description>
 
-&lt;p&gt;I worked on several NLP problems in general. However, the two dominating areas where I worked the most are; machine translation and interpretation of deep NLP models. Here, I have first summarized my &lt;a href=&#34;#research-interests&#34;&gt;research interests&lt;/a&gt;. Later, I provide a summary of my work on &lt;a href=&#34;#machine-translation&#34;&gt;Machine Translation&lt;/a&gt; and &lt;a href=&#34;#interpretation&#34;&gt;Interpretation&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I work on developing AI systems that are safe, reliable, and trustworthy. My research addresses fundamental questions that enable AI models to achieve these attributes. For instance, compositionality is essential for understanding the semantics of a sentence. While current models (as of 2025) perform well on many tasks, compositionality remains lacking. This deficiency is a major reason why models can be unreliable, sensitive to prompts, and easily jailbroken with paraphrases.&lt;/p&gt;
+
+&lt;p&gt;Similarly, safe response of AI systems is critical to their positive impact on the society. However, current approaches to safety training and guardrails are fundamentally flawed because they do not teach models the explicit distinction between safe and unsafe responses. If a model cannot differentiate between “how to kill a process” and “how to kill a living being,” then there is something fundamentally wrong with our safety alignment methods.&lt;/p&gt;
+
+&lt;p&gt;My work focuses on fundamentally addressing such problems by developing smarter learning solutions. We tackle a diverse set of challenges, all aimed at building safe, reliable, and trustworthy AI systems. Specifically, our research focuses on: Language generation, interpretability and explainability, generalization and robustness, open weight model safety, model editing and steering, compositionality, conformal prediction and LLM agents.&lt;/p&gt;
 
 &lt;hr /&gt;
+
+&lt;h2 id=&#34;2020-and-earlier&#34;&gt;2020 and earlier&lt;/h2&gt;
+
+&lt;p&gt;In my career prior to 2020, my research focused on two dominating areas; machine translation and interpretation of deep NLP models. Here, I have first summarized my &lt;a href=&#34;#research-interests&#34;&gt;research interests&lt;/a&gt;. Later, I provide a summary of my work on &lt;a href=&#34;#machine-translation&#34;&gt;Machine Translation&lt;/a&gt; and &lt;a href=&#34;#interpretation&#34;&gt;Interpretation&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h3 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h3&gt;
 
@@ -536,11 +544,11 @@
 
 &lt;h3 id=&#34;introduction-to-experimental-robotics&#34;&gt;Introduction to Experimental Robotics&lt;/h3&gt;
 
-&lt;p&gt;Fall 2022, Winter 2023, Dalhousie University&lt;/p&gt;
+&lt;p&gt;Fall 2025/24/22, Winter &lt;sup&gt;2025&lt;/sup&gt;&amp;frasl;&lt;sub&gt;23&lt;/sub&gt;, Dalhousie University&lt;/p&gt;
 
 &lt;h3 id=&#34;deep-learning-for-natural-language-processing&#34;&gt;Deep Learning for Natural Language Processing&lt;/h3&gt;
 
-&lt;p&gt;Winter 2023, Dalhousie University&lt;/p&gt;
+&lt;p&gt;Winter 2025/24/23, Dalhousie University&lt;/p&gt;
 
 &lt;h3 id=&#34;deep-learning-for-natural-language-processing-1&#34;&gt;Deep Learning for Natural Language Processing&lt;/h3&gt;
 
