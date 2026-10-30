@@ -5,7 +5,7 @@
     <link>//localhost:1313/authors/hinrich-schutze/</link>
       <atom:link href="//localhost:1313/authors/hinrich-schutze/index.xml" rel="self" type="application/rss+xml" />
     <description>Hinrich Schütze</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0400</lastBuildDate>
     <image>
       <url>//localhost:1313/img/icon-192.png</url>
       <title>Hinrich Schütze</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Statistical models for unsupervised, semi-supervised and supervised transliteration mining</title>
       <link>//localhost:1313/publication/sajjad-2017-statistical/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0400</pubDate>
       <guid>//localhost:1313/publication/sajjad-2017-statistical/</guid>
       <description></description>
     </item>

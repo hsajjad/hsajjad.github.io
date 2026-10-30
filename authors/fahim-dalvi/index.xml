@@ -47,7 +47,7 @@
     <item>
       <title>On the Transformation of Latent Space in Fine-Tuned NLP Models</title>
       <link>//localhost:1313/publication/durrani-2022-latent-ftmodels/</link>
-      <pubDate>Thu, 01 Dec 2022 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0400</pubDate>
       <guid>//localhost:1313/publication/durrani-2022-latent-ftmodels/</guid>
       <description></description>
     </item>
@@ -55,7 +55,7 @@
     <item>
       <title>Post-hoc analysis of Arabic transformer models</title>
       <link>//localhost:1313/publication/arabic-neurox/</link>
-      <pubDate>Tue, 01 Nov 2022 00:00:00 -0300</pubDate>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0400</pubDate>
       <guid>//localhost:1313/publication/arabic-neurox/</guid>
       <description></description>
     </item>
@@ -71,7 +71,7 @@
     <item>
       <title>Analyzing Encoded Concepts in Transformer Language Models</title>
       <link>//localhost:1313/publication/sajjad-etal-2022-analyzing/</link>
-      <pubDate>Fri, 01 Jul 2022 00:00:00 -0300</pubDate>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0400</pubDate>
       <guid>//localhost:1313/publication/sajjad-etal-2022-analyzing/</guid>
       <description></description>
     </item>
@@ -79,7 +79,7 @@
     <item>
       <title>Discovering Latent Concepts Learned in BERT</title>
       <link>//localhost:1313/publication/dalvi-2022-discovering/</link>
-      <pubDate>Sun, 01 May 2022 00:00:00 -0300</pubDate>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0400</pubDate>
       <guid>//localhost:1313/publication/dalvi-2022-discovering/</guid>
       <description></description>
     </item>
@@ -87,7 +87,7 @@
     <item>
       <title>Neuron-level Interpretation of Deep NLP Models: A Survey</title>
       <link>//localhost:1313/publication/sajjad-neuron-survey-tacl-22/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 -0400</pubDate>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0400</pubDate>
       <guid>//localhost:1313/publication/sajjad-neuron-survey-tacl-22/</guid>
       <description></description>
     </item>
@@ -95,7 +95,7 @@
     <item>
       <title>On the Effect of Dropping Layers of Pre-trained Transformer Models</title>
       <link>//localhost:1313/publication/sajjad-poorman-csl-2022/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 -0400</pubDate>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0400</pubDate>
       <guid>//localhost:1313/publication/sajjad-poorman-csl-2022/</guid>
       <description></description>
     </item>
@@ -103,7 +103,7 @@
     <item>
       <title>How transfer learning impacts linguistic knowledge in deep NLP models?</title>
       <link>//localhost:1313/publication/durrani-finetuning-acl-2021/</link>
-      <pubDate>Sun, 01 Aug 2021 00:00:00 -0300</pubDate>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0400</pubDate>
       <guid>//localhost:1313/publication/durrani-finetuning-acl-2021/</guid>
       <description></description>
     </item>
@@ -111,7 +111,7 @@
     <item>
       <title>Fighting the COVID-19 Infodemic in Social Media: A Holistic Perspective and a Call to Arms</title>
       <link>//localhost:1313/publication/firoj-covid-icwsm-21/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 -0300</pubDate>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0400</pubDate>
       <guid>//localhost:1313/publication/firoj-covid-icwsm-21/</guid>
       <description></description>
     </item>
@@ -119,7 +119,7 @@
     <item>
       <title>Fine-grained Interpretationand Causation Analysis in Deep NLP Models</title>
       <link>//localhost:1313/publication/sajjad-tutorial-naacl-2021/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 -0300</pubDate>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0400</pubDate>
       <guid>//localhost:1313/publication/sajjad-tutorial-naacl-2021/</guid>
       <description></description>
     </item>
@@ -127,7 +127,7 @@
     <item>
       <title>AraBench: Benchmarking Dialectal Arabic-English Machine Translation</title>
       <link>//localhost:1313/publication/sajjad-etal-2020-arabench/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0400</pubDate>
       <guid>//localhost:1313/publication/sajjad-etal-2020-arabench/</guid>
       <description></description>
     </item>
@@ -135,7 +135,7 @@
     <item>
       <title>Analyzing Individual Neurons in Pre-trained Language Models</title>
       <link>//localhost:1313/publication/durrani-individual-emnlp-20/</link>
-      <pubDate>Sun, 01 Nov 2020 00:00:00 -0300</pubDate>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0400</pubDate>
       <guid>//localhost:1313/publication/durrani-individual-emnlp-20/</guid>
       <description></description>
     </item>
@@ -143,7 +143,7 @@
     <item>
       <title>Analyzing Redundancy in Pretrained Transformer Models</title>
       <link>//localhost:1313/publication/dalvi-featureselection-emnlp-20/</link>
-      <pubDate>Sun, 01 Nov 2020 00:00:00 -0300</pubDate>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0400</pubDate>
       <guid>//localhost:1313/publication/dalvi-featureselection-emnlp-20/</guid>
       <description></description>
     </item>
@@ -151,7 +151,7 @@
     <item>
       <title>Similarity Analysis of Contextual Word Representation Models</title>
       <link>//localhost:1313/publication/wu-similarity-acl-20/</link>
-      <pubDate>Sun, 05 Jul 2020 00:00:00 -0300</pubDate>
+      <pubDate>Sun, 05 Jul 2020 00:00:00 +0400</pubDate>
       <guid>//localhost:1313/publication/wu-similarity-acl-20/</guid>
       <description></description>
     </item>
@@ -159,7 +159,7 @@
     <item>
       <title>On the Linguistic Representational Power of Neural Machine Translation Models</title>
       <link>//localhost:1313/publication/belinkov-2020-cl/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0400</pubDate>
       <guid>//localhost:1313/publication/belinkov-2020-cl/</guid>
       <description></description>
     </item>
@@ -167,7 +167,7 @@
     <item>
       <title>One Size Does Not Fit All: Comparing NMT Representations of Different Granularities</title>
       <link>//localhost:1313/publication/durrani-2019-naacl/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 -0300</pubDate>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0400</pubDate>
       <guid>//localhost:1313/publication/durrani-2019-naacl/</guid>
       <description></description>
     </item>
@@ -175,7 +175,7 @@
     <item>
       <title>Identifying and Controlling Important Neurons in Neural Machine Translation</title>
       <link>//localhost:1313/publication/individual-iclr-19/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 -0300</pubDate>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0400</pubDate>
       <guid>//localhost:1313/publication/individual-iclr-19/</guid>
       <description></description>
     </item>
@@ -183,7 +183,7 @@
     <item>
       <title>What is one Grain of Sand in the Desert? Analyzing Individual Neurons in Deep NLP Models</title>
       <link>//localhost:1313/publication/grain-aaai-19-1/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 -0400</pubDate>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0400</pubDate>
       <guid>//localhost:1313/publication/grain-aaai-19-1/</guid>
       <description></description>
     </item>
@@ -191,7 +191,7 @@
     <item>
       <title>NeuroX: A Toolkit for Analyzing Individual Neurons in Neural Networks</title>
       <link>//localhost:1313/publication/neurox-aaai-19-demo/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0400</pubDate>
       <guid>//localhost:1313/publication/neurox-aaai-19-demo/</guid>
       <description></description>
     </item>
@@ -199,7 +199,7 @@
     <item>
       <title>Incremental Decoding and Training Methods for Simultaneous Translation in Neural Machine Translation</title>
       <link>//localhost:1313/publication/dalvi-2018-naacl/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 -0300</pubDate>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0400</pubDate>
       <guid>//localhost:1313/publication/dalvi-2018-naacl/</guid>
       <description></description>
     </item>
@@ -207,7 +207,7 @@
     <item>
       <title>Neural Machine Translation Training in a Multi-Domain Scenario</title>
       <link>//localhost:1313/publication/sajjad-etal-iwslt-17/</link>
-      <pubDate>Fri, 01 Dec 2017 00:00:00 -0400</pubDate>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0400</pubDate>
       <guid>//localhost:1313/publication/sajjad-etal-iwslt-17/</guid>
       <description></description>
     </item>
@@ -215,7 +215,7 @@
     <item>
       <title>Evaluating Layers of Representation in Neural Machine Translation on Part-of-Speech and Semantic Tagging Tasks</title>
       <link>//localhost:1313/publication/belinkov-ijcnlp-2017/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 -0300</pubDate>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0400</pubDate>
       <guid>//localhost:1313/publication/belinkov-ijcnlp-2017/</guid>
       <description></description>
     </item>
@@ -223,7 +223,7 @@
     <item>
       <title>Understanding and Improving Morphological Learning in the Neural Machine Translation Decoder</title>
       <link>//localhost:1313/publication/dalvi-ijcnlp-2017/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 -0300</pubDate>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0400</pubDate>
       <guid>//localhost:1313/publication/dalvi-ijcnlp-2017/</guid>
       <description></description>
     </item>
@@ -231,7 +231,7 @@
     <item>
       <title>Challenging Language-Dependent Segmentation for Arabic: An Application to Machine Translation and Part-of-Speech Tagging</title>
       <link>//localhost:1313/publication/sajjad-etal-2017-acl-short/</link>
-      <pubDate>Tue, 01 Aug 2017 00:00:00 -0300</pubDate>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0400</pubDate>
       <guid>//localhost:1313/publication/sajjad-etal-2017-acl-short/</guid>
       <description></description>
     </item>
@@ -239,7 +239,7 @@
     <item>
       <title>What do Neural Machine Translation Models Learn about Morphology?</title>
       <link>//localhost:1313/publication/belinkov-2017-acl/</link>
-      <pubDate>Tue, 01 Aug 2017 00:00:00 -0300</pubDate>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0400</pubDate>
       <guid>//localhost:1313/publication/belinkov-2017-acl/</guid>
       <description></description>
     </item>
@@ -247,7 +247,7 @@
     <item>
       <title>QCRI Live Speech Translation System</title>
       <link>//localhost:1313/publication/dalvi-2017-qcri/</link>
-      <pubDate>Sat, 01 Apr 2017 00:00:00 -0300</pubDate>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0400</pubDate>
       <guid>//localhost:1313/publication/dalvi-2017-qcri/</guid>
       <description></description>
     </item>
@@ -255,7 +255,7 @@
     <item>
       <title>QCRI @ DSL 2016: Spoken Arabic Dialect Identification Using Textual</title>
       <link>//localhost:1313/publication/eldesouki-2016-qcri/</link>
-      <pubDate>Thu, 01 Dec 2016 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0400</pubDate>
       <guid>//localhost:1313/publication/eldesouki-2016-qcri/</guid>
       <description></description>
     </item>
@@ -263,7 +263,7 @@
     <item>
       <title>QCRI’s Machine Translation Systems for IWSLT’2016</title>
       <link>//localhost:1313/publication/durrani-etal-iwslt-16/</link>
-      <pubDate>Thu, 01 Dec 2016 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0400</pubDate>
       <guid>//localhost:1313/publication/durrani-etal-iwslt-16/</guid>
       <description></description>
     </item>

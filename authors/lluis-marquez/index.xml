@@ -5,7 +5,7 @@
     <link>//localhost:1313/authors/lluis-marquez/</link>
       <atom:link href="//localhost:1313/authors/lluis-marquez/index.xml" rel="self" type="application/rss+xml" />
     <description>Lluís Màrquez</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2017 00:00:00 -0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0400</lastBuildDate>
     <image>
       <url>//localhost:1313/img/icon-192.png</url>
       <title>Lluís Màrquez</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Evaluating Layers of Representation in Neural Machine Translation on Part-of-Speech and Semantic Tagging Tasks</title>
       <link>//localhost:1313/publication/belinkov-ijcnlp-2017/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 -0300</pubDate>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0400</pubDate>
       <guid>//localhost:1313/publication/belinkov-ijcnlp-2017/</guid>
       <description></description>
     </item>

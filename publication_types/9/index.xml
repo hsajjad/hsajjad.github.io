@@ -5,7 +5,7 @@
     <link>//localhost:1313/publication_types/9/</link>
       <atom:link href="//localhost:1313/publication_types/9/index.xml" rel="self" type="application/rss+xml" />
     <description>9</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Nov 2022 00:00:00 -0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Nov 2022 00:00:00 +0400</lastBuildDate>
     <image>
       <url>//localhost:1313/img/icon-192.png</url>
       <title>9</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Post-hoc analysis of Arabic transformer models</title>
       <link>//localhost:1313/publication/arabic-neurox/</link>
-      <pubDate>Tue, 01 Nov 2022 00:00:00 -0300</pubDate>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0400</pubDate>
       <guid>//localhost:1313/publication/arabic-neurox/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>Findings of the WMT 2020 Shared Task on Machine Translation Robustness.</title>
       <link>//localhost:1313/publication/mtrobustness-2020/</link>
-      <pubDate>Sun, 01 Nov 2020 00:00:00 -0300</pubDate>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0400</pubDate>
       <guid>//localhost:1313/publication/mtrobustness-2020/</guid>
       <description></description>
     </item>
@@ -31,7 +31,7 @@
     <item>
       <title>Findings of the WMT 2019 Shared Task on Machine Translation Robustness.</title>
       <link>//localhost:1313/publication/mtrobustness-2019/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 -0300</pubDate>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0400</pubDate>
       <guid>//localhost:1313/publication/mtrobustness-2019/</guid>
       <description></description>
     </item>
@@ -39,7 +39,7 @@
     <item>
       <title>H2@BUCC18: Parallel Sentence Extraction from Comparable Corpora Using Multilingual Sentence Embeddings</title>
       <link>//localhost:1313/publication/bouamor-bucc-18/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 -0300</pubDate>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0400</pubDate>
       <guid>//localhost:1313/publication/bouamor-bucc-18/</guid>
       <description></description>
     </item>
@@ -47,7 +47,7 @@
     <item>
       <title>Neural Machine Translation Training in a Multi-Domain Scenario</title>
       <link>//localhost:1313/publication/sajjad-etal-iwslt-17/</link>
-      <pubDate>Fri, 01 Dec 2017 00:00:00 -0400</pubDate>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0400</pubDate>
       <guid>//localhost:1313/publication/sajjad-etal-iwslt-17/</guid>
       <description></description>
     </item>
@@ -55,7 +55,7 @@
     <item>
       <title>QCRI @ DSL 2016: Spoken Arabic Dialect Identification Using Textual</title>
       <link>//localhost:1313/publication/eldesouki-2016-qcri/</link>
-      <pubDate>Thu, 01 Dec 2016 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0400</pubDate>
       <guid>//localhost:1313/publication/eldesouki-2016-qcri/</guid>
       <description></description>
     </item>
@@ -63,7 +63,7 @@
     <item>
       <title>QCRI’s Machine Translation Systems for IWSLT’2016</title>
       <link>//localhost:1313/publication/durrani-etal-iwslt-16/</link>
-      <pubDate>Thu, 01 Dec 2016 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0400</pubDate>
       <guid>//localhost:1313/publication/durrani-etal-iwslt-16/</guid>
       <description></description>
     </item>
@@ -71,7 +71,7 @@
     <item>
       <title>Applications of Online Deep Learning for Crisis Response Using Social Media Information</title>
       <link>//localhost:1313/publication/nguyen-2016-swdm/</link>
-      <pubDate>Sat, 01 Oct 2016 00:00:00 -0300</pubDate>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0400</pubDate>
       <guid>//localhost:1313/publication/nguyen-2016-swdm/</guid>
       <description></description>
     </item>
@@ -79,7 +79,7 @@
     <item>
       <title>Normalizing Mathematical Expressions to Improve the Translation of Educational Content</title>
       <link>//localhost:1313/publication/zaghouani-2016-normalizing/</link>
-      <pubDate>Sat, 01 Oct 2016 00:00:00 -0300</pubDate>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0400</pubDate>
       <guid>//localhost:1313/publication/zaghouani-2016-normalizing/</guid>
       <description></description>
     </item>
@@ -87,7 +87,7 @@
     <item>
       <title>QCMUQ@QALB-2015 Shared Task: Combining Character level MT and Error-tolerant Finite-State Recognition for ArabicSpelling Correction</title>
       <link>//localhost:1313/publication/bouamor-anlp-15/</link>
-      <pubDate>Wed, 01 Jul 2015 00:00:00 -0300</pubDate>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0400</pubDate>
       <guid>//localhost:1313/publication/bouamor-anlp-15/</guid>
       <description></description>
     </item>
@@ -95,7 +95,7 @@
     <item>
       <title>QCN Egyptian Arabic to English MachineTranslation System for NIST OpenMT15</title>
       <link>//localhost:1313/publication/sajjad-nist-15/</link>
-      <pubDate>Mon, 01 Jun 2015 00:00:00 -0300</pubDate>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0400</pubDate>
       <guid>//localhost:1313/publication/sajjad-nist-15/</guid>
       <description></description>
     </item>
@@ -103,7 +103,7 @@
     <item>
       <title>Unsupervised word segmentation improves dialectal Arabic to English machine translation</title>
       <link>//localhost:1313/publication/kamla-anlp-2014/</link>
-      <pubDate>Wed, 01 Oct 2014 00:00:00 -0300</pubDate>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0400</pubDate>
       <guid>//localhost:1313/publication/kamla-anlp-2014/</guid>
       <description></description>
     </item>
@@ -111,7 +111,7 @@
     <item>
       <title>QCRI at IWSLT 2013: Experiments in Arabic-English and English-Arabic Spoken Language Translation</title>
       <link>//localhost:1313/publication/sajjad-etal-iwslt-13/</link>
-      <pubDate>Sun, 01 Dec 2013 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0400</pubDate>
       <guid>//localhost:1313/publication/sajjad-etal-iwslt-13/</guid>
       <description></description>
     </item>
@@ -119,7 +119,7 @@
     <item>
       <title>The AMARA Corpus: Building Resources for Translating the Web&#39;s Educational Content</title>
       <link>//localhost:1313/publication/guzman-sajjad-etal-iwslt-13/</link>
-      <pubDate>Sun, 01 Dec 2013 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0400</pubDate>
       <guid>//localhost:1313/publication/guzman-sajjad-etal-iwslt-13/</guid>
       <description></description>
     </item>
@@ -127,7 +127,7 @@
     <item>
       <title>Munich-Edinburgh-Stuttgart Submissions at WMT13: Morphological and Syntactic Processing for SMT</title>
       <link>//localhost:1313/publication/weller-13-wmt-13/</link>
-      <pubDate>Thu, 01 Aug 2013 00:00:00 -0300</pubDate>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 +0400</pubDate>
       <guid>//localhost:1313/publication/weller-13-wmt-13/</guid>
       <description></description>
     </item>
@@ -135,7 +135,7 @@
     <item>
       <title>Munich-Edinburgh-Stuttgart Submissions of OSM Systems at WMT13</title>
       <link>//localhost:1313/publication/durrani-et-al-2013-wmt/</link>
-      <pubDate>Thu, 01 Aug 2013 00:00:00 -0300</pubDate>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 +0400</pubDate>
       <guid>//localhost:1313/publication/durrani-et-al-2013-wmt/</guid>
       <description></description>
     </item>
@@ -143,7 +143,7 @@
     <item>
       <title>QCRI-MES Submission at WMT13: Using Transliteration Mining to Improve Statistical Machine Translation</title>
       <link>//localhost:1313/publication/sajjad-et-al-2013-wmt/</link>
-      <pubDate>Thu, 01 Aug 2013 00:00:00 -0300</pubDate>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 +0400</pubDate>
       <guid>//localhost:1313/publication/sajjad-et-al-2013-wmt/</guid>
       <description></description>
     </item>

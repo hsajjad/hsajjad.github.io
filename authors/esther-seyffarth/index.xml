@@ -5,7 +5,7 @@
     <link>//localhost:1313/authors/esther-seyffarth/</link>
       <atom:link href="//localhost:1313/authors/esther-seyffarth/index.xml" rel="self" type="application/rss+xml" />
     <description>Esther Seyffarth</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 -0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0400</lastBuildDate>
     <image>
       <url>//localhost:1313/img/icon-192.png</url>
       <title>Esther Seyffarth</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Implicit Representations of Event Properties within Contextual Language Models:Searching for ``Causativity Neurons&#34;</title>
       <link>//localhost:1313/publication/esther-causativity-iwcs-21/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 -0300</pubDate>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0400</pubDate>
       <guid>//localhost:1313/publication/esther-causativity-iwcs-21/</guid>
       <description></description>
     </item>
